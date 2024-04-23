@@ -4,11 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1992 Find all Group of farmland">
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 752. Open the Lock">
       <change afterPath="$PROJECT_DIR$/src/AprilMonth/Day1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AprilMonth/Day21.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AprilMonth/Day22.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AprilMonth/Day23.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -60,7 +58,7 @@
       <updated>1713497791817</updated>
       <workItem from="1713497792833" duration="1744000" />
       <workItem from="1713591556060" duration="351000" />
-      <workItem from="1713865908815" duration="316000" />
+      <workItem from="1713865908815" duration="664000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Leetcode: 200 Number of Island">
       <option name="closed" value="true" />
@@ -78,7 +76,23 @@
       <option name="project" value="LOCAL" />
       <updated>1713591815483</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Leetcode: 1971. Find if Path Exists in Graph">
+      <option name="closed" value="true" />
+      <created>1713866427368</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1713866427368</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Leetcode: 752. Open the Lock">
+      <option name="closed" value="true" />
+      <created>1713866451971</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1713866451971</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -87,6 +101,8 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Solve Leetcode: 200 Number of Island" />
     <MESSAGE value="Leetcode: 1992 Find all Group of farmland" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1992 Find all Group of farmland" />
+    <MESSAGE value="Leetcode: 1971. Find if Path Exists in Graph" />
+    <MESSAGE value="Leetcode: 752. Open the Lock" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 752. Open the Lock" />
   </component>
 </project>
