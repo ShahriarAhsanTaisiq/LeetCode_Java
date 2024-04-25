@@ -4,8 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 310. Minimum Height Trees">
-      <change afterPath="$PROJECT_DIR$/src/AprilMonth/Day1.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 58. Length of Last Word">
+      <change afterPath="$PROJECT_DIR$/src/AprilMonth/Day24.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -57,7 +59,9 @@
       <updated>1713497791817</updated>
       <workItem from="1713497792833" duration="1744000" />
       <workItem from="1713591556060" duration="351000" />
-      <workItem from="1713865908815" duration="1106000" />
+      <workItem from="1713865908815" duration="1203000" />
+      <workItem from="1713882465055" duration="614000" />
+      <workItem from="1714016392122" duration="270000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Leetcode: 200 Number of Island">
       <option name="closed" value="true" />
@@ -99,7 +103,15 @@
       <option name="project" value="LOCAL" />
       <updated>1713866775884</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="Leetcode: 58. Length of Last Word">
+      <option name="closed" value="true" />
+      <created>1713867106038</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1713867106038</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -111,6 +123,7 @@
     <MESSAGE value="Leetcode: 1971. Find if Path Exists in Graph" />
     <MESSAGE value="Leetcode: 752. Open the Lock" />
     <MESSAGE value="Leetcode: 310. Minimum Height Trees" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 310. Minimum Height Trees" />
+    <MESSAGE value="Leetcode: 58. Length of Last Word" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 58. Length of Last Word" />
   </component>
 </project>
