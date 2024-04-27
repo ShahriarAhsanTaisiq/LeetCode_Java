@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2370. Longest Ideal Subsequence">
-      <change afterPath="$PROJECT_DIR$/src/AprilMonth/Day26.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1289. Minimum Falling Path Sum II">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -61,7 +60,7 @@
       <workItem from="1713865908815" duration="1203000" />
       <workItem from="1713882465055" duration="614000" />
       <workItem from="1714016392122" duration="1986000" />
-      <workItem from="1714098047460" duration="307000" />
+      <workItem from="1714098047460" duration="1115000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Leetcode: 200 Number of Island">
       <option name="closed" value="true" />
@@ -127,7 +126,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714018146094</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Leetcode: 1289. Minimum Falling Path Sum II">
+      <option name="closed" value="true" />
+      <created>1714098490526</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1714098490526</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -142,6 +149,7 @@
     <MESSAGE value="Leetcode: 58. Length of Last Word" />
     <MESSAGE value="Leetcode: 1137. N-th Tribonacci Number" />
     <MESSAGE value="Leetcode: 2370. Longest Ideal Subsequence" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2370. Longest Ideal Subsequence" />
+    <MESSAGE value="Leetcode: 1289. Minimum Falling Path Sum II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1289. Minimum Falling Path Sum II" />
   </component>
 </project>
