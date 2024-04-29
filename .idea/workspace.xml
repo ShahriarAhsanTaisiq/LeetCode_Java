@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 514. Freedom Trail">
-      <change afterPath="$PROJECT_DIR$/src/AprilMonth/Day28.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 834. Sum of Distances in Tree">
+      <change afterPath="$PROJECT_DIR$/src/AprilMonth/Day29.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -63,7 +63,8 @@
       <workItem from="1714016392122" duration="1986000" />
       <workItem from="1714098047460" duration="1115000" />
       <workItem from="1714210065133" duration="977000" />
-      <workItem from="1714306072517" duration="345000" />
+      <workItem from="1714306072517" duration="1174000" />
+      <workItem from="1714409753628" duration="325000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Leetcode: 200 Number of Island">
       <option name="closed" value="true" />
@@ -145,7 +146,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714210394890</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Leetcode: 834. Sum of Distances in Tree">
+      <option name="closed" value="true" />
+      <created>1714306611112</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1714306611112</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -162,6 +171,7 @@
     <MESSAGE value="Leetcode: 2370. Longest Ideal Subsequence" />
     <MESSAGE value="Leetcode: 1289. Minimum Falling Path Sum II" />
     <MESSAGE value="Leetcode: 514. Freedom Trail" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 514. Freedom Trail" />
+    <MESSAGE value="Leetcode: 834. Sum of Distances in Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 834. Sum of Distances in Tree" />
   </component>
 </project>
