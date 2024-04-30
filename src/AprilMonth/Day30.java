@@ -1,5 +1,9 @@
 package AprilMonth;
-/*
+
+import java.util.HashMap;
+import java.util.Map;
+
+/* 1915. Number of Wonderful Substrings
 * A wonderful string is a string where at most one letter appears an odd number of times.
 For example, "ccjjc" and "abab" are wonderful, but "ab" is not.
 Given a string word that consists of the first ten lowercase English letters ('a' through 'j'), return the number of wonderful non-empty substrings in word. If the same substring appears multiple times in word, then count each occurrence separately.
@@ -35,10 +39,10 @@ Constraints:
 1 <= word.length <= 105
 word consists of lowercase English letters from 'a' to 'j'.
 * */
-class Solution {
+class NumOfWonderfulSubstrings {
     public long wonderfulSubstrings(String word) {
         Map<Integer, Long> count = new HashMap<>();
-        count.put(0, 1L); // Initialize with an empty string
+        count.put(0, 1L);
 
         int bitmask = 0;
         long result = 0;
@@ -47,16 +51,13 @@ class Solution {
             int bit = c - 'a';
             bitmask ^= 1 << bit;
 
-            // Count substrings with at most one odd occurrence of a letter
             result += count.getOrDefault(bitmask, 0L);
 
-            // Count substrings with one odd occurrence when flipping one bit
             for (int i = 0; i < 10; i++) {
                 int flippedBitmask = bitmask ^ (1 << i);
                 result += count.getOrDefault(flippedBitmask, 0L);
             }
 
-            // Update the count for the current bitmask
             count.put(bitmask, count.getOrDefault(bitmask, 0L) + 1);
         }
 
@@ -64,5 +65,18 @@ class Solution {
     }
 }
 public class Day30 {
+    public static void main(String[] args) {
+        NumOfWonderfulSubstrings solution = new NumOfWonderfulSubstrings();
+
+        // Test cases
+        String word1 = "aba";
+        System.out.println("Output for " + word1 + ": " + solution.wonderfulSubstrings(word1)); // Expected: 4
+
+        String word2 = "aabb";
+        System.out.println("Output for " + word2 + ": " + solution.wonderfulSubstrings(word2)); // Expected: 9
+
+        String word3 = "he";
+        System.out.println("Output for " + word3 + ": " + solution.wonderfulSubstrings(word3)); // Expected: 2
+    }
 
 }
