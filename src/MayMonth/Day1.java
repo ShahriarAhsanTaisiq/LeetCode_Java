@@ -23,7 +23,6 @@ Constraints:
 word consists of lowercase English letters.
 ch is a lowercase English letter.
 * */
-
 class ReversePrefixWord {
     public String reversePrefix(String word, char ch) {
         int index = word.indexOf(ch);
@@ -35,7 +34,6 @@ class ReversePrefixWord {
         return sb.reverse().append(word.substring(index + 1)).toString();
     }
 }
-
 public class Day1 {
     public static void main(String[] args) {
         ReversePrefixWord solution = new ReversePrefixWord();
