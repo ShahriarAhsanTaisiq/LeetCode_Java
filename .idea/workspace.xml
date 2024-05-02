@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1915. Number of Wonderful Substrings">
-      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day1.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2000. Reverse Prefix of Word">
+      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -65,6 +66,9 @@
       <workItem from="1714306072517" duration="1174000" />
       <workItem from="1714409753628" duration="1048000" />
       <workItem from="1714498757509" duration="902000" />
+      <workItem from="1714538898795" duration="1240000" />
+      <workItem from="1714551957813" duration="20000" />
+      <workItem from="1714626209183" duration="792000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Leetcode: 200 Number of Island">
       <option name="closed" value="true" />
@@ -178,7 +182,23 @@
       <option name="project" value="LOCAL" />
       <updated>1714499490609</updated>
     </task>
-    <option name="localTasksCounter" value="15" />
+    <task id="LOCAL-00015" summary="Leetcode: 2000. Reverse Prefix of Word">
+      <option name="closed" value="true" />
+      <created>1714539096253</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1714539096253</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Leetcode: 2000. Reverse Prefix of Word">
+      <option name="closed" value="true" />
+      <created>1714626337278</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1714626337278</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -198,6 +218,7 @@
     <MESSAGE value="Leetcode: 834. Sum of Distances in Tree" />
     <MESSAGE value="Leetcode: 2997. Minimum Number of Operations to Make Array XOR Equal to K" />
     <MESSAGE value="Leetcode: 1915. Number of Wonderful Substrings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1915. Number of Wonderful Substrings" />
+    <MESSAGE value="Leetcode: 2000. Reverse Prefix of Word" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2000. Reverse Prefix of Word" />
   </component>
 </project>
