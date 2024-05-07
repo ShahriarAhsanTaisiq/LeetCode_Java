@@ -25,7 +25,7 @@ class ListNode7May {
     ListNode7May(int val) { this.val = val; }
     ListNode7May(int val, ListNode7May next) { this.val = val; this.next = next; }
 }
-class Solution {
+class DoubleLinkedList {
     public ListNode7May doubleIt(ListNode7May head) {
         Stack<Integer> values = new Stack<>();
         int val = 0;
@@ -58,7 +58,7 @@ public class Day7 {
         head1.next.next = new ListNode7May(9);
 
         // Test Case 1
-        Solution solution = new Solution();
+        DoubleLinkedList solution = new DoubleLinkedList();
         ListNode7May result1 = solution.doubleIt(head1);
         printList(result1); // Output: 3 -> 7 -> 8
 
