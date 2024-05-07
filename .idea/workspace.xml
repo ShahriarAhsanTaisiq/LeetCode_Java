@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 237. Delete Node in a Linked List">
-      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day6.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2487. Remove Nodes From Linked List">
+      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day7.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -72,7 +72,8 @@
       <workItem from="1714745240803" duration="277000" />
       <workItem from="1714833885797" duration="726000" />
       <workItem from="1714917185260" duration="942000" />
-      <workItem from="1714973302215" duration="693000" />
+      <workItem from="1714973302215" duration="1460000" />
+      <workItem from="1715093116779" duration="642000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Leetcode: 200 Number of Island">
       <option name="closed" value="true" />
@@ -234,7 +235,15 @@
       <option name="project" value="LOCAL" />
       <updated>1714917616593</updated>
     </task>
-    <option name="localTasksCounter" value="21" />
+    <task id="LOCAL-00021" summary="Leetcode: 2487. Remove Nodes From Linked List">
+      <option name="closed" value="true" />
+      <created>1714974151403</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1714974151403</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -259,6 +268,7 @@
     <MESSAGE value="Leetcode: 165. Compare Version Numbers" />
     <MESSAGE value="Leetcode: 881. Boats to Save People" />
     <MESSAGE value="Leetcode: 237. Delete Node in a Linked List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 237. Delete Node in a Linked List" />
+    <MESSAGE value="Leetcode: 2487. Remove Nodes From Linked List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2487. Remove Nodes From Linked List" />
   </component>
 </project>
