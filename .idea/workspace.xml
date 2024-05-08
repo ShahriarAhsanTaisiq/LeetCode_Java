@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2816. Double a Number Represented as a Linked List" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2816. Double a Number Represented as a Linked List">
+      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day8.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -70,7 +73,8 @@
       <workItem from="1714833885797" duration="726000" />
       <workItem from="1714917185260" duration="942000" />
       <workItem from="1714973302215" duration="1460000" />
-      <workItem from="1715093116779" duration="1000000" />
+      <workItem from="1715093116779" duration="1778000" />
+      <workItem from="1715138553323" duration="425000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Leetcode: 200 Number of Island">
       <option name="closed" value="true" />
@@ -248,7 +252,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715093987209</updated>
     </task>
-    <option name="localTasksCounter" value="23" />
+    <task id="LOCAL-00023" summary="Leetcode: 2816. Double a Number Represented as a Linked List">
+      <option name="closed" value="true" />
+      <created>1715094294120</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1715094294120</updated>
+    </task>
+    <option name="localTasksCounter" value="24" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
