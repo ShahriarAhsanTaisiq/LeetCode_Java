@@ -35,29 +35,15 @@ import java.util.Arrays;
 class MaximizeHappiness {
     public long maximumHappinessSum(int[] happiness, int k) {
         Arrays.sort(happiness);
-        reverseArray(happiness);
+        long res = 0;
+        int n = happiness.length, j = 0;
 
-        long maxSum = 0;
-        for (int i = 0; i < k; i++) {
-            maxSum += happiness[i];
-            for (int j = i + 1; j < happiness.length; j++) {
-                happiness[j] = Math.max(0, happiness[j] - 1);
-            }
+        for (int i = n - 1; i >= n - k; --i) {
+            happiness[i] = Math.max(happiness[i] - j++, 0);
+            res += happiness[i];
         }
 
-        return maxSum;
-    }
-
-    private void reverseArray(int[] arr) {
-        int left = 0;
-        int right = arr.length - 1;
-        while (left < right) {
-            int temp = arr[left];
-            arr[left] = arr[right];
-            arr[right] = temp;
-            left++;
-            right--;
-        }
+        return res;
     }
 }
 public class Day9 {

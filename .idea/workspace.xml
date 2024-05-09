@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 506. Relative Ranks">
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 3075. Maximize Happiness of Selected Children">
+      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day9.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,6 +75,7 @@
       <workItem from="1714973302215" duration="1460000" />
       <workItem from="1715093116779" duration="1778000" />
       <workItem from="1715138553323" duration="1264000" />
+      <workItem from="1715227328859" duration="299000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Leetcode: 200 Number of Island">
       <option name="closed" value="true" />
@@ -267,7 +269,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715139138618</updated>
     </task>
-    <option name="localTasksCounter" value="25" />
+    <task id="LOCAL-00025" summary="Leetcode: 3075. Maximize Happiness of Selected Children">
+      <option name="closed" value="true" />
+      <created>1715227625424</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1715227625424</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -295,6 +305,7 @@
     <MESSAGE value="Leetcode: 2487. Remove Nodes From Linked List" />
     <MESSAGE value="Leetcode: 2816. Double a Number Represented as a Linked List" />
     <MESSAGE value="Leetcode: 506. Relative Ranks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 506. Relative Ranks" />
+    <MESSAGE value="Leetcode: 3075. Maximize Happiness of Selected Children" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 3075. Maximize Happiness of Selected Children" />
   </component>
 </project>
