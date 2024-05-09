@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2816. Double a Number Represented as a Linked List">
-      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day8.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 506. Relative Ranks">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -74,7 +73,7 @@
       <workItem from="1714917185260" duration="942000" />
       <workItem from="1714973302215" duration="1460000" />
       <workItem from="1715093116779" duration="1778000" />
-      <workItem from="1715138553323" duration="425000" />
+      <workItem from="1715138553323" duration="1264000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Leetcode: 200 Number of Island">
       <option name="closed" value="true" />
@@ -260,7 +259,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715094294120</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Leetcode: 506. Relative Ranks">
+      <option name="closed" value="true" />
+      <created>1715139138618</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1715139138618</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -287,6 +294,7 @@
     <MESSAGE value="Leetcode: 237. Delete Node in a Linked List" />
     <MESSAGE value="Leetcode: 2487. Remove Nodes From Linked List" />
     <MESSAGE value="Leetcode: 2816. Double a Number Represented as a Linked List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2816. Double a Number Represented as a Linked List" />
+    <MESSAGE value="Leetcode: 506. Relative Ranks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 506. Relative Ranks" />
   </component>
 </project>
