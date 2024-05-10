@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 3075. Maximize Happiness of Selected Children">
-      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day9.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day10.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -75,7 +75,8 @@
       <workItem from="1714973302215" duration="1460000" />
       <workItem from="1715093116779" duration="1778000" />
       <workItem from="1715138553323" duration="1264000" />
-      <workItem from="1715227328859" duration="299000" />
+      <workItem from="1715227328859" duration="1018000" />
+      <workItem from="1715317679014" duration="651000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Leetcode: 200 Number of Island">
       <option name="closed" value="true" />
@@ -277,7 +278,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715227625424</updated>
     </task>
-    <option name="localTasksCounter" value="26" />
+    <task id="LOCAL-00026" summary="Leetcode: 3075. Maximize Happiness of Selected Children">
+      <option name="closed" value="true" />
+      <created>1715227745839</created>
+      <option name="number" value="00026" />
+      <option name="presentableId" value="LOCAL-00026" />
+      <option name="project" value="LOCAL" />
+      <updated>1715227745839</updated>
+    </task>
+    <option name="localTasksCounter" value="27" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
