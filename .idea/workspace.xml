@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 786. K-th Smallest Prime Fraction">
-      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day11.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 857. Minimum Cost to Hire K Workers">
+      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day12.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -77,7 +77,8 @@
       <workItem from="1715138553323" duration="1264000" />
       <workItem from="1715227328859" duration="1018000" />
       <workItem from="1715317679014" duration="1397000" />
-      <workItem from="1715406466859" duration="419000" />
+      <workItem from="1715406466859" duration="1379000" />
+      <workItem from="1715490726548" duration="385000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Leetcode: 200 Number of Island">
       <option name="closed" value="true" />
@@ -295,7 +296,15 @@
       <option name="project" value="LOCAL" />
       <updated>1715318446280</updated>
     </task>
-    <option name="localTasksCounter" value="28" />
+    <task id="LOCAL-00028" summary="Leetcode: 857. Minimum Cost to Hire K Workers">
+      <option name="closed" value="true" />
+      <created>1715406970108</created>
+      <option name="number" value="00028" />
+      <option name="presentableId" value="LOCAL-00028" />
+      <option name="project" value="LOCAL" />
+      <updated>1715406970108</updated>
+    </task>
+    <option name="localTasksCounter" value="29" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -325,6 +334,7 @@
     <MESSAGE value="Leetcode: 506. Relative Ranks" />
     <MESSAGE value="Leetcode: 3075. Maximize Happiness of Selected Children" />
     <MESSAGE value="Leetcode: 786. K-th Smallest Prime Fraction" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 786. K-th Smallest Prime Fraction" />
+    <MESSAGE value="Leetcode: 857. Minimum Cost to Hire K Workers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 857. Minimum Cost to Hire K Workers" />
   </component>
 </project>
