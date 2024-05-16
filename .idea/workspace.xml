@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1219. Path with Maximum Gold">
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2812. Find the Safest Path in a Grid">
+      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day16.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,6 +82,8 @@
       <workItem from="1715578735936" duration="254000" />
       <workItem from="1715579009613" duration="356000" />
       <workItem from="1715692770323" duration="934000" />
+      <workItem from="1715782701557" duration="805000" />
+      <workItem from="1715849140420" duration="331000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Leetcode: 200 Number of Island">
       <option name="closed" value="true" />
@@ -330,14 +333,21 @@
       <option name="project" value="LOCAL" />
       <updated>1715693099336</updated>
     </task>
-    <option name="localTasksCounter" value="32" />
+    <task id="LOCAL-00032" summary="Leetcode: 2812. Find the Safest Path in a Grid">
+      <option name="closed" value="true" />
+      <created>1715782995589</created>
+      <option name="number" value="00032" />
+      <option name="presentableId" value="LOCAL-00032" />
+      <option name="project" value="LOCAL" />
+      <updated>1715782995589</updated>
+    </task>
+    <option name="localTasksCounter" value="33" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1971. Find if Path Exists in Graph" />
     <MESSAGE value="Leetcode: 752. Open the Lock" />
     <MESSAGE value="Leetcode: 310. Minimum Height Trees" />
     <MESSAGE value="Leetcode: 58. Length of Last Word" />
@@ -362,6 +372,7 @@
     <MESSAGE value="Leetcode: 2373. Largest Local Values in a Matrix" />
     <MESSAGE value="Leetcode: 861. Score After Flipping Matrix" />
     <MESSAGE value="Leetcode: 1219. Path with Maximum Gold" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1219. Path with Maximum Gold" />
+    <MESSAGE value="Leetcode: 2812. Find the Safest Path in a Grid" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2812. Find the Safest Path in a Grid" />
   </component>
 </project>
