@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 979. Distribute Coins in Binary Tree">
-      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day19.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 3068. Find the Maximum Sum of Node Values">
+      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -87,7 +87,9 @@
       <workItem from="1715965931329" duration="1261000" />
       <workItem from="1716022175883" duration="907000" />
       <workItem from="1716052965349" duration="598000" />
-      <workItem from="1716106830690" duration="612000" />
+      <workItem from="1716106830690" duration="1300000" />
+      <workItem from="1716130124528" duration="598000" />
+      <workItem from="1716187232219" duration="387000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Leetcode: 200 Number of Island">
       <option name="closed" value="true" />
@@ -369,14 +371,21 @@
       <option name="project" value="LOCAL" />
       <updated>1716022480327</updated>
     </task>
-    <option name="localTasksCounter" value="36" />
+    <task id="LOCAL-00036" summary="Leetcode: 3068. Find the Maximum Sum of Node Values">
+      <option name="closed" value="true" />
+      <created>1716107528428</created>
+      <option name="number" value="00036" />
+      <option name="presentableId" value="LOCAL-00036" />
+      <option name="project" value="LOCAL" />
+      <updated>1716107528428</updated>
+    </task>
+    <option name="localTasksCounter" value="37" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1137. N-th Tribonacci Number" />
     <MESSAGE value="Leetcode: 2370. Longest Ideal Subsequence" />
     <MESSAGE value="Leetcode: 1289. Minimum Falling Path Sum II" />
     <MESSAGE value="Leetcode: 514. Freedom Trail" />
@@ -401,6 +410,7 @@
     <MESSAGE value="Leetcode: 2331. Evaluate Boolean Binary Tree" />
     <MESSAGE value="Leetcode: 1325. Delete Leaves With a Given Value" />
     <MESSAGE value="Leetcode: 979. Distribute Coins in Binary Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 979. Distribute Coins in Binary Tree" />
+    <MESSAGE value="Leetcode: 3068. Find the Maximum Sum of Node Values" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 3068. Find the Maximum Sum of Node Values" />
   </component>
 </project>
