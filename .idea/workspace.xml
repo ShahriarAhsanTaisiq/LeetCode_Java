@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 78. Subsets">
-      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day22.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 131. Palindrome Partitioning">
+      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day23.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -92,7 +92,8 @@
       <workItem from="1716187232219" duration="603000" />
       <workItem from="1716225209149" duration="598000" />
       <workItem from="1716272653315" duration="1210000" />
-      <workItem from="1716357577436" duration="1138000" />
+      <workItem from="1716357577436" duration="1200000" />
+      <workItem from="1716441922176" duration="326000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Leetcode: 200 Number of Island">
       <option name="closed" value="true" />
@@ -398,14 +399,21 @@
       <option name="project" value="LOCAL" />
       <updated>1716273261436</updated>
     </task>
-    <option name="localTasksCounter" value="39" />
+    <task id="LOCAL-00039" summary="Leetcode: 131. Palindrome Partitioning">
+      <option name="closed" value="true" />
+      <created>1716360576168</created>
+      <option name="number" value="00039" />
+      <option name="presentableId" value="LOCAL-00039" />
+      <option name="project" value="LOCAL" />
+      <updated>1716360576168</updated>
+    </task>
+    <option name="localTasksCounter" value="40" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 514. Freedom Trail" />
     <MESSAGE value="Leetcode: 834. Sum of Distances in Tree" />
     <MESSAGE value="Leetcode: 2997. Minimum Number of Operations to Make Array XOR Equal to K" />
     <MESSAGE value="Leetcode: 1915. Number of Wonderful Substrings" />
@@ -430,6 +438,7 @@
     <MESSAGE value="Leetcode: 3068. Find the Maximum Sum of Node Values" />
     <MESSAGE value="Leetcode: 1863. Sum of All Subset XOR Totals" />
     <MESSAGE value="Leetcode: 78. Subsets" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 78. Subsets" />
+    <MESSAGE value="Leetcode: 131. Palindrome Partitioning" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 131. Palindrome Partitioning" />
   </component>
 </project>
