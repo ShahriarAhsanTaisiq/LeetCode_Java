@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1255. Maximum Score Words Formed by Letters">
-      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day25.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 140. Word Break II" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -95,7 +92,7 @@
       <workItem from="1716357577436" duration="1200000" />
       <workItem from="1716441922176" duration="1030000" />
       <workItem from="1716530187058" duration="732000" />
-      <workItem from="1716625555174" duration="325000" />
+      <workItem from="1716625555174" duration="974000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Leetcode: 200 Number of Island">
       <option name="closed" value="true" />
@@ -425,14 +422,21 @@
       <option name="project" value="LOCAL" />
       <updated>1716530583684</updated>
     </task>
-    <option name="localTasksCounter" value="42" />
+    <task id="LOCAL-00042" summary="Leetcode: 140. Word Break II">
+      <option name="closed" value="true" />
+      <created>1716625926254</created>
+      <option name="number" value="00042" />
+      <option name="presentableId" value="LOCAL-00042" />
+      <option name="project" value="LOCAL" />
+      <updated>1716625926254</updated>
+    </task>
+    <option name="localTasksCounter" value="43" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1915. Number of Wonderful Substrings" />
     <MESSAGE value="Leetcode: 2000. Reverse Prefix of Word" />
     <MESSAGE value="Leetcode: 2441. Largest Positive Integer That Exists With Its Negative" />
     <MESSAGE value="Leetcode: 165. Compare Version Numbers" />
@@ -457,6 +461,7 @@
     <MESSAGE value="Leetcode: 131. Palindrome Partitioning" />
     <MESSAGE value="Leetcode: 2597. The Number of Beautiful Subsets" />
     <MESSAGE value="Leetcode: 1255. Maximum Score Words Formed by Letters" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1255. Maximum Score Words Formed by Letters" />
+    <MESSAGE value="Leetcode: 140. Word Break II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 140. Word Break II" />
   </component>
 </project>
