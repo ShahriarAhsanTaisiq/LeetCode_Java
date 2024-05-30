@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1208. Get Equal Substrings Within Budget">
-      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day29.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1404. Number of Steps to Reduce a Number in Binary Representation to One">
+      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day30.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -99,7 +99,8 @@
       <workItem from="1716723916798" duration="933000" />
       <workItem from="1716830709387" duration="266000" />
       <workItem from="1716880258431" duration="882000" />
-      <workItem from="1716956635778" duration="326000" />
+      <workItem from="1716956635778" duration="683000" />
+      <workItem from="1717074085403" duration="302000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Leetcode: 200 Number of Island">
       <option name="closed" value="true" />
@@ -461,14 +462,21 @@
       <option name="project" value="LOCAL" />
       <updated>1716880528337</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Leetcode: 1404. Number of Steps to Reduce a Number in Binary Representation to One">
+      <option name="closed" value="true" />
+      <created>1716956979482</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1716956979482</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 881. Boats to Save People" />
     <MESSAGE value="Leetcode: 237. Delete Node in a Linked List" />
     <MESSAGE value="Leetcode: 2487. Remove Nodes From Linked List" />
     <MESSAGE value="Leetcode: 2816. Double a Number Represented as a Linked List" />
@@ -493,6 +501,7 @@
     <MESSAGE value="Leetcode: 552. Student Attendance Record II" />
     <MESSAGE value="Leetcode: 1608. Special Array With X Elements Greater Than or Equal X" />
     <MESSAGE value="Leetcode: 1208. Get Equal Substrings Within Budget" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1208. Get Equal Substrings Within Budget" />
+    <MESSAGE value="Leetcode: 1404. Number of Steps to Reduce a Number in Binary Representation to One" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1404. Number of Steps to Reduce a Number in Binary Representation to One" />
   </component>
 </project>
