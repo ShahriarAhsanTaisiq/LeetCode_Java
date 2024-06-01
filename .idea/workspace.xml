@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1404. Number of Steps to Reduce a Number in Binary Representation to One">
-      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day30.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 260. Single Number III">
+      <change afterPath="$PROJECT_DIR$/src/MayMonth/Day31.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -100,7 +100,8 @@
       <workItem from="1716830709387" duration="266000" />
       <workItem from="1716880258431" duration="882000" />
       <workItem from="1716956635778" duration="683000" />
-      <workItem from="1717074085403" duration="302000" />
+      <workItem from="1717074085403" duration="1086000" />
+      <workItem from="1717156467201" duration="1963000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Leetcode: 200 Number of Island">
       <option name="closed" value="true" />
@@ -470,7 +471,15 @@
       <option name="project" value="LOCAL" />
       <updated>1716956979482</updated>
     </task>
-    <option name="localTasksCounter" value="47" />
+    <task id="LOCAL-00047" summary="Leetcode: 1404. Number of Steps to Reduce a Number in Binary Representation to One">
+      <option name="closed" value="true" />
+      <created>1717074672476</created>
+      <option name="number" value="00047" />
+      <option name="presentableId" value="LOCAL-00047" />
+      <option name="project" value="LOCAL" />
+      <updated>1717074672476</updated>
+    </task>
+    <option name="localTasksCounter" value="48" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
