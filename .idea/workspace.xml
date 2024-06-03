@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 3110. Score of a String">
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2486. Append Characters to String to Make Subsequence">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -102,15 +102,7 @@
       <workItem from="1717074085403" duration="1086000" />
       <workItem from="1717156467201" duration="1963000" />
       <workItem from="1717219965855" duration="1259000" />
-      <workItem from="1717431743212" duration="415000" />
-    </task>
-    <task id="LOCAL-00001" summary="Solve Leetcode: 200 Number of Island">
-      <option name="closed" value="true" />
-      <created>1713501284361</created>
-      <option name="number" value="00001" />
-      <option name="presentableId" value="LOCAL-00001" />
-      <option name="project" value="LOCAL" />
-      <updated>1713501284361</updated>
+      <workItem from="1717431743212" duration="1321000" />
     </task>
     <task id="LOCAL-00002" summary="Leetcode: 1992 Find all Group of farmland">
       <option name="closed" value="true" />
@@ -496,14 +488,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717220625530</updated>
     </task>
-    <option name="localTasksCounter" value="50" />
+    <task id="LOCAL-00050" summary="Leetcode: 2486. Append Characters to String to Make Subsequence">
+      <option name="closed" value="true" />
+      <created>1717432464085</created>
+      <option name="number" value="00050" />
+      <option name="presentableId" value="LOCAL-00050" />
+      <option name="project" value="LOCAL" />
+      <updated>1717432464085</updated>
+    </task>
+    <option name="localTasksCounter" value="51" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 2816. Double a Number Represented as a Linked List" />
     <MESSAGE value="Leetcode: 506. Relative Ranks" />
     <MESSAGE value="Leetcode: 3075. Maximize Happiness of Selected Children" />
     <MESSAGE value="Leetcode: 786. K-th Smallest Prime Fraction" />
@@ -528,6 +527,7 @@
     <MESSAGE value="Leetcode: 1404. Number of Steps to Reduce a Number in Binary Representation to One" />
     <MESSAGE value="Leetcode: 260. Single Number III" />
     <MESSAGE value="Leetcode: 3110. Score of a String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 3110. Score of a String" />
+    <MESSAGE value="Leetcode: 2486. Append Characters to String to Make Subsequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2486. Append Characters to String to Make Subsequence" />
   </component>
 </project>
