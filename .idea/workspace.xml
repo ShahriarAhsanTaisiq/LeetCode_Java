@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 260. Single Number III">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode3110.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 3110. Score of a String">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,7 +101,8 @@
       <workItem from="1716956635778" duration="683000" />
       <workItem from="1717074085403" duration="1086000" />
       <workItem from="1717156467201" duration="1963000" />
-      <workItem from="1717219965855" duration="338000" />
+      <workItem from="1717219965855" duration="1259000" />
+      <workItem from="1717431743212" duration="415000" />
     </task>
     <task id="LOCAL-00001" summary="Solve Leetcode: 200 Number of Island">
       <option name="closed" value="true" />
@@ -487,14 +488,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717220025728</updated>
     </task>
-    <option name="localTasksCounter" value="49" />
+    <task id="LOCAL-00049" summary="Leetcode: 3110. Score of a String">
+      <option name="closed" value="true" />
+      <created>1717220625530</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1717220625530</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 2487. Remove Nodes From Linked List" />
     <MESSAGE value="Leetcode: 2816. Double a Number Represented as a Linked List" />
     <MESSAGE value="Leetcode: 506. Relative Ranks" />
     <MESSAGE value="Leetcode: 3075. Maximize Happiness of Selected Children" />
@@ -519,6 +527,7 @@
     <MESSAGE value="Leetcode: 1208. Get Equal Substrings Within Budget" />
     <MESSAGE value="Leetcode: 1404. Number of Steps to Reduce a Number in Binary Representation to One" />
     <MESSAGE value="Leetcode: 260. Single Number III" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 260. Single Number III" />
+    <MESSAGE value="Leetcode: 3110. Score of a String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 3110. Score of a String" />
   </component>
 </project>
