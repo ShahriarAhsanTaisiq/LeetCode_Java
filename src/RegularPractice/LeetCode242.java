@@ -62,16 +62,19 @@ class ValidAnagram {
 public class LeetCode242 {
     public static void main(String[] args) {
         ValidAnagram solution = new ValidAnagram();
+
         // Test case 1
         String s1 = "anagram";
         String t1 = "nagaram";
         boolean result1 = solution.isAnagram(s1, t1);
         System.out.println("Test case 1: " + result1); // Expected: true
+
         // Test case 2
         String s2 = "rat";
         String t2 = "car";
         boolean result2 = solution.isAnagram(s2, t2);
         System.out.println("Test case 2: " + result2); // Expected: false
+
         // Additional test cases
         String s3 = "listen";
         String t3 = "silent";
