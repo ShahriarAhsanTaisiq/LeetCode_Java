@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 27. Remove Element">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode217.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 217. Contains Duplicate" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -106,15 +103,7 @@
       <workItem from="1717431743212" duration="2136000" />
       <workItem from="1717520498798" duration="1026000" />
       <workItem from="1717570611227" duration="598000" />
-      <workItem from="1717605723967" duration="334000" />
-    </task>
-    <task id="LOCAL-00006" summary="Leetcode: 58. Length of Last Word">
-      <option name="closed" value="true" />
-      <created>1713867106038</created>
-      <option name="number" value="00006" />
-      <option name="presentableId" value="LOCAL-00006" />
-      <option name="project" value="LOCAL" />
-      <updated>1713867106038</updated>
+      <workItem from="1717605723967" duration="970000" />
     </task>
     <task id="LOCAL-00007" summary="Leetcode: 1137. N-th Tribonacci Number">
       <option name="closed" value="true" />
@@ -500,14 +489,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717570951841</updated>
     </task>
-    <option name="localTasksCounter" value="55" />
+    <task id="LOCAL-00055" summary="Leetcode: 217. Contains Duplicate">
+      <option name="closed" value="true" />
+      <created>1717606076535</created>
+      <option name="number" value="00055" />
+      <option name="presentableId" value="LOCAL-00055" />
+      <option name="project" value="LOCAL" />
+      <updated>1717606076535</updated>
+    </task>
+    <option name="localTasksCounter" value="56" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 857. Minimum Cost to Hire K Workers" />
     <MESSAGE value="Leetcode: 2373. Largest Local Values in a Matrix" />
     <MESSAGE value="Leetcode: 861. Score After Flipping Matrix" />
     <MESSAGE value="Leetcode: 1219. Path with Maximum Gold" />
@@ -532,6 +528,7 @@
     <MESSAGE value="Leetcode: 344: Reverse String" />
     <MESSAGE value="Leetcode: 409. Longest Palindrome" />
     <MESSAGE value="Leetcode: 27. Remove Element" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 27. Remove Element" />
+    <MESSAGE value="Leetcode: 217. Contains Duplicate" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 217. Contains Duplicate" />
   </component>
 </project>
