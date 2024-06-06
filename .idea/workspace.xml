@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 217. Contains Duplicate" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 242. Valid Anagram" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,14 +104,7 @@
       <workItem from="1717520498798" duration="1026000" />
       <workItem from="1717570611227" duration="598000" />
       <workItem from="1717605723967" duration="970000" />
-    </task>
-    <task id="LOCAL-00007" summary="Leetcode: 1137. N-th Tribonacci Number">
-      <option name="closed" value="true" />
-      <created>1714016676675</created>
-      <option name="number" value="00007" />
-      <option name="presentableId" value="LOCAL-00007" />
-      <option name="project" value="LOCAL" />
-      <updated>1714016676675</updated>
+      <workItem from="1717690663480" duration="337000" />
     </task>
     <task id="LOCAL-00008" summary="Leetcode: 2370. Longest Ideal Subsequence">
       <option name="closed" value="true" />
@@ -497,14 +490,21 @@
       <option name="project" value="LOCAL" />
       <updated>1717606076535</updated>
     </task>
-    <option name="localTasksCounter" value="56" />
+    <task id="LOCAL-00056" summary="Leetcode: 242. Valid Anagram">
+      <option name="closed" value="true" />
+      <created>1717690866227</created>
+      <option name="number" value="00056" />
+      <option name="presentableId" value="LOCAL-00056" />
+      <option name="project" value="LOCAL" />
+      <updated>1717690866227</updated>
+    </task>
+    <option name="localTasksCounter" value="57" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 2373. Largest Local Values in a Matrix" />
     <MESSAGE value="Leetcode: 861. Score After Flipping Matrix" />
     <MESSAGE value="Leetcode: 1219. Path with Maximum Gold" />
     <MESSAGE value="Leetcode: 2812. Find the Safest Path in a Grid" />
@@ -529,6 +529,7 @@
     <MESSAGE value="Leetcode: 409. Longest Palindrome" />
     <MESSAGE value="Leetcode: 27. Remove Element" />
     <MESSAGE value="Leetcode: 217. Contains Duplicate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 217. Contains Duplicate" />
+    <MESSAGE value="Leetcode: 242. Valid Anagram" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 242. Valid Anagram" />
   </component>
 </project>
