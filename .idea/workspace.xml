@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 242. Valid Anagram" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 242. Valid Anagram">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -104,23 +106,7 @@
       <workItem from="1717520498798" duration="1026000" />
       <workItem from="1717570611227" duration="598000" />
       <workItem from="1717605723967" duration="970000" />
-      <workItem from="1717690663480" duration="337000" />
-    </task>
-    <task id="LOCAL-00008" summary="Leetcode: 2370. Longest Ideal Subsequence">
-      <option name="closed" value="true" />
-      <created>1714018146094</created>
-      <option name="number" value="00008" />
-      <option name="presentableId" value="LOCAL-00008" />
-      <option name="project" value="LOCAL" />
-      <updated>1714018146094</updated>
-    </task>
-    <task id="LOCAL-00009" summary="Leetcode: 1289. Minimum Falling Path Sum II">
-      <option name="closed" value="true" />
-      <created>1714098490526</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1714098490526</updated>
+      <workItem from="1717690663480" duration="908000" />
     </task>
     <task id="LOCAL-00010" summary="Leetcode: 514. Freedom Trail">
       <option name="closed" value="true" />
@@ -498,11 +484,38 @@
       <option name="project" value="LOCAL" />
       <updated>1717690866227</updated>
     </task>
-    <option name="localTasksCounter" value="57" />
+    <task id="LOCAL-00057" summary="Leetcode: 242. Valid Anagram">
+      <option name="closed" value="true" />
+      <created>1717691094714</created>
+      <option name="number" value="00057" />
+      <option name="presentableId" value="LOCAL-00057" />
+      <option name="project" value="LOCAL" />
+      <updated>1717691094714</updated>
+    </task>
+    <task id="LOCAL-00058" summary="Leetcode: 242. Valid Anagram">
+      <option name="closed" value="true" />
+      <created>1717691162958</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1717691162958</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Leetcode: 861. Score After Flipping Matrix" />
