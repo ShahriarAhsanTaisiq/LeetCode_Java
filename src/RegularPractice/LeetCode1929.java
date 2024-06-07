@@ -36,7 +36,6 @@ public class LeetCode1929 {
 
         int[] nums = {1, 2, 3, 4};
         int[] result = solution.getConcatenation(nums);
-
         System.out.print("Concatenated array: ");
         for (int num : result) {
             System.out.print(num + " ");
