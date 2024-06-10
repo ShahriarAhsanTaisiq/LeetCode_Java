@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1299. Replace Elements with Greatest Element on Right Side" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 392. Is Subsequence">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1051.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -121,14 +124,8 @@
       <workItem from="1717690663480" duration="908000" />
       <workItem from="1717772420741" duration="912000" />
       <workItem from="1717865192762" duration="2031000" />
-    </task>
-    <task id="LOCAL-00013" summary="Leetcode: 1915. Number of Wonderful Substrings">
-      <option name="closed" value="true" />
-      <created>1714499103822</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1714499103822</updated>
+      <workItem from="1717952580157" duration="390000" />
+      <workItem from="1717999456863" duration="320000" />
     </task>
     <task id="LOCAL-00014" summary="Leetcode: 1915. Number of Wonderful Substrings">
       <option name="closed" value="true" />
@@ -514,7 +511,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717867994062</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Leetcode: 392. Is Subsequence">
+      <option name="closed" value="true" />
+      <created>1717952868199</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1717952868200</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -532,7 +537,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 2812. Find the Safest Path in a Grid" />
     <MESSAGE value="Leetcode: 2331. Evaluate Boolean Binary Tree" />
     <MESSAGE value="Leetcode: 1325. Delete Leaves With a Given Value" />
     <MESSAGE value="Leetcode: 979. Distribute Coins in Binary Tree" />
@@ -557,6 +561,7 @@
     <MESSAGE value="Leetcode: 242. Valid Anagram" />
     <MESSAGE value="Leetcode: 1929. Concatenation of Array" />
     <MESSAGE value="Leetcode: 1299. Replace Elements with Greatest Element on Right Side" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1299. Replace Elements with Greatest Element on Right Side" />
+    <MESSAGE value="Leetcode: 392. Is Subsequence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 392. Is Subsequence" />
   </component>
 </project>
