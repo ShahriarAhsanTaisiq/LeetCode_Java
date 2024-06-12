@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1051. Height Checker" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1. Two Sum">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode14.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -123,14 +126,8 @@
       <workItem from="1717865192762" duration="2031000" />
       <workItem from="1717952580157" duration="390000" />
       <workItem from="1717999456863" duration="938000" />
-    </task>
-    <task id="LOCAL-00015" summary="Leetcode: 2000. Reverse Prefix of Word">
-      <option name="closed" value="true" />
-      <created>1714539096253</created>
-      <option name="number" value="00015" />
-      <option name="presentableId" value="LOCAL-00015" />
-      <option name="project" value="LOCAL" />
-      <updated>1714539096253</updated>
+      <workItem from="1718124816973" duration="796000" />
+      <workItem from="1718203549660" duration="438000" />
     </task>
     <task id="LOCAL-00016" summary="Leetcode: 2000. Reverse Prefix of Word">
       <option name="closed" value="true" />
@@ -516,7 +513,15 @@
       <option name="project" value="LOCAL" />
       <updated>1717999793578</updated>
     </task>
-    <option name="localTasksCounter" value="64" />
+    <task id="LOCAL-00064" summary="Leetcode: 1. Two Sum">
+      <option name="closed" value="true" />
+      <created>1718125003694</created>
+      <option name="number" value="00064" />
+      <option name="presentableId" value="LOCAL-00064" />
+      <option name="project" value="LOCAL" />
+      <updated>1718125003695</updated>
+    </task>
+    <option name="localTasksCounter" value="65" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -534,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1325. Delete Leaves With a Given Value" />
     <MESSAGE value="Leetcode: 979. Distribute Coins in Binary Tree" />
     <MESSAGE value="Leetcode: 3068. Find the Maximum Sum of Node Values" />
     <MESSAGE value="Leetcode: 1863. Sum of All Subset XOR Totals" />
@@ -559,6 +563,7 @@
     <MESSAGE value="Leetcode: 1299. Replace Elements with Greatest Element on Right Side" />
     <MESSAGE value="Leetcode: 392. Is Subsequence" />
     <MESSAGE value="Leetcode: 1051. Height Checker" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1051. Height Checker" />
+    <MESSAGE value="Leetcode: 1. Two Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1. Two Sum" />
   </component>
 </project>
