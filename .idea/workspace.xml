@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1. Two Sum">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode14.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 14. Longest Common Prefix">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -127,15 +126,7 @@
       <workItem from="1717952580157" duration="390000" />
       <workItem from="1717999456863" duration="938000" />
       <workItem from="1718124816973" duration="796000" />
-      <workItem from="1718203549660" duration="438000" />
-    </task>
-    <task id="LOCAL-00016" summary="Leetcode: 2000. Reverse Prefix of Word">
-      <option name="closed" value="true" />
-      <created>1714626337278</created>
-      <option name="number" value="00016" />
-      <option name="presentableId" value="LOCAL-00016" />
-      <option name="project" value="LOCAL" />
-      <updated>1714626337278</updated>
+      <workItem from="1718203549660" duration="1362000" />
     </task>
     <task id="LOCAL-00017" summary="Leetcode: 2441. Largest Positive Integer That Exists With Its Negative">
       <option name="closed" value="true" />
@@ -521,7 +512,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718125003695</updated>
     </task>
-    <option name="localTasksCounter" value="65" />
+    <task id="LOCAL-00065" summary="Leetcode: 14. Longest Common Prefix">
+      <option name="closed" value="true" />
+      <created>1718204313490</created>
+      <option name="number" value="00065" />
+      <option name="presentableId" value="LOCAL-00065" />
+      <option name="project" value="LOCAL" />
+      <updated>1718204313491</updated>
+    </task>
+    <option name="localTasksCounter" value="66" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -539,7 +538,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 979. Distribute Coins in Binary Tree" />
     <MESSAGE value="Leetcode: 3068. Find the Maximum Sum of Node Values" />
     <MESSAGE value="Leetcode: 1863. Sum of All Subset XOR Totals" />
     <MESSAGE value="Leetcode: 78. Subsets" />
@@ -564,6 +562,7 @@
     <MESSAGE value="Leetcode: 392. Is Subsequence" />
     <MESSAGE value="Leetcode: 1051. Height Checker" />
     <MESSAGE value="Leetcode: 1. Two Sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1. Two Sum" />
+    <MESSAGE value="Leetcode: 14. Longest Common Prefix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 14. Longest Common Prefix" />
   </component>
 </project>
