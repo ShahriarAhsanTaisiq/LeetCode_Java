@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2037. Minimum Number of Moves to Seat Everyone">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode49.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 49. Group Anagrams">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -129,15 +128,7 @@
       <workItem from="1718124816973" duration="796000" />
       <workItem from="1718203549660" duration="1362000" />
       <workItem from="1718251733029" duration="429000" />
-      <workItem from="1718375764453" duration="1577000" />
-    </task>
-    <task id="LOCAL-00018" summary="Leetcode: 165. Compare Version Numbers">
-      <option name="closed" value="true" />
-      <created>1714745506307</created>
-      <option name="number" value="00018" />
-      <option name="presentableId" value="LOCAL-00018" />
-      <option name="project" value="LOCAL" />
-      <updated>1714745506307</updated>
+      <workItem from="1718375764453" duration="2206000" />
     </task>
     <task id="LOCAL-00019" summary="Leetcode: 881. Boats to Save People">
       <option name="closed" value="true" />
@@ -523,7 +514,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718251917892</updated>
     </task>
-    <option name="localTasksCounter" value="67" />
+    <task id="LOCAL-00067" summary="Leetcode: 49. Group Anagrams">
+      <option name="closed" value="true" />
+      <created>1718377694805</created>
+      <option name="number" value="00067" />
+      <option name="presentableId" value="LOCAL-00067" />
+      <option name="project" value="LOCAL" />
+      <updated>1718377694805</updated>
+    </task>
+    <option name="localTasksCounter" value="68" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -541,7 +540,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1863. Sum of All Subset XOR Totals" />
     <MESSAGE value="Leetcode: 78. Subsets" />
     <MESSAGE value="Leetcode: 131. Palindrome Partitioning" />
     <MESSAGE value="Leetcode: 2597. The Number of Beautiful Subsets" />
@@ -566,6 +564,7 @@
     <MESSAGE value="Leetcode: 1. Two Sum" />
     <MESSAGE value="Leetcode: 14. Longest Common Prefix" />
     <MESSAGE value="Leetcode: 2037. Minimum Number of Moves to Seat Everyone" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2037. Minimum Number of Moves to Seat Everyone" />
+    <MESSAGE value="Leetcode: 49. Group Anagrams" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 49. Group Anagrams" />
   </component>
 </project>
