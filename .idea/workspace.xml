@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 49. Group Anagrams">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 118. Pascal's Triangle" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -129,14 +127,7 @@
       <workItem from="1718203549660" duration="1362000" />
       <workItem from="1718251733029" duration="429000" />
       <workItem from="1718375764453" duration="2206000" />
-    </task>
-    <task id="LOCAL-00019" summary="Leetcode: 881. Boats to Save People">
-      <option name="closed" value="true" />
-      <created>1714834207953</created>
-      <option name="number" value="00019" />
-      <option name="presentableId" value="LOCAL-00019" />
-      <option name="project" value="LOCAL" />
-      <updated>1714834207953</updated>
+      <workItem from="1718466295356" duration="232000" />
     </task>
     <task id="LOCAL-00020" summary="Leetcode: 237. Delete Node in a Linked List">
       <option name="closed" value="true" />
@@ -522,7 +513,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718377694805</updated>
     </task>
-    <option name="localTasksCounter" value="68" />
+    <task id="LOCAL-00068" summary="Leetcode: 118. Pascal's Triangle">
+      <option name="closed" value="true" />
+      <created>1718466513269</created>
+      <option name="number" value="00068" />
+      <option name="presentableId" value="LOCAL-00068" />
+      <option name="project" value="LOCAL" />
+      <updated>1718466513270</updated>
+    </task>
+    <option name="localTasksCounter" value="69" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -540,7 +539,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 78. Subsets" />
     <MESSAGE value="Leetcode: 131. Palindrome Partitioning" />
     <MESSAGE value="Leetcode: 2597. The Number of Beautiful Subsets" />
     <MESSAGE value="Leetcode: 1255. Maximum Score Words Formed by Letters" />
@@ -565,6 +563,7 @@
     <MESSAGE value="Leetcode: 14. Longest Common Prefix" />
     <MESSAGE value="Leetcode: 2037. Minimum Number of Moves to Seat Everyone" />
     <MESSAGE value="Leetcode: 49. Group Anagrams" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 49. Group Anagrams" />
+    <MESSAGE value="Leetcode: 118. Pascal's Triangle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 118. Pascal's Triangle" />
   </component>
 </project>

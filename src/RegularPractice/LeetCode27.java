@@ -49,7 +49,6 @@ class RemoveElements{
 public class LeetCode27 {
     public static void main(String[] args) {
         RemoveElements solution = new RemoveElements();
-
         // Test case 1
         int[] nums1 = {3, 2, 2, 3};
         int val1 = 3;
@@ -61,7 +60,6 @@ public class LeetCode27 {
             assert nums1[i] == expectedNums1[i] : "Test case 1 failed at index " + i;
         }
         System.out.println("Test case 1 passed");
-
         // Test case 2
         int[] nums2 = {0, 1, 2, 2, 3, 0, 4, 2};
         int val2 = 2;
@@ -73,7 +71,5 @@ public class LeetCode27 {
             assert nums2[i] == expectedNums2[i] : "Test case 2 failed at index " + i;
         }
         System.out.println("Test case 2 passed");
-
-        // Additional test cases can be added in a similar manner
     }
 }
