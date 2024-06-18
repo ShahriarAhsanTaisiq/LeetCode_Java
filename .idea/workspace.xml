@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 118. Pascal's Triangle">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode929.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 929. Unique Email Addresses" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -132,15 +129,7 @@
       <workItem from="1718375764453" duration="2206000" />
       <workItem from="1718466295356" duration="232000" />
       <workItem from="1718532614289" duration="463000" />
-      <workItem from="1718641737747" duration="310000" />
-    </task>
-    <task id="LOCAL-00021" summary="Leetcode: 2487. Remove Nodes From Linked List">
-      <option name="closed" value="true" />
-      <created>1714974151403</created>
-      <option name="number" value="00021" />
-      <option name="presentableId" value="LOCAL-00021" />
-      <option name="project" value="LOCAL" />
-      <updated>1714974151403</updated>
+      <workItem from="1718641737747" duration="1131000" />
     </task>
     <task id="LOCAL-00022" summary="Leetcode: 2816. Double a Number Represented as a Linked List">
       <option name="closed" value="true" />
@@ -526,7 +515,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718532677733</updated>
     </task>
-    <option name="localTasksCounter" value="70" />
+    <task id="LOCAL-00070" summary="Leetcode: 929. Unique Email Addresses">
+      <option name="closed" value="true" />
+      <created>1718642268047</created>
+      <option name="number" value="00070" />
+      <option name="presentableId" value="LOCAL-00070" />
+      <option name="project" value="LOCAL" />
+      <updated>1718642268048</updated>
+    </task>
+    <option name="localTasksCounter" value="71" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -544,7 +541,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 131. Palindrome Partitioning" />
     <MESSAGE value="Leetcode: 2597. The Number of Beautiful Subsets" />
     <MESSAGE value="Leetcode: 1255. Maximum Score Words Formed by Letters" />
     <MESSAGE value="Leetcode: 140. Word Break II" />
@@ -569,6 +565,7 @@
     <MESSAGE value="Leetcode: 2037. Minimum Number of Moves to Seat Everyone" />
     <MESSAGE value="Leetcode: 49. Group Anagrams" />
     <MESSAGE value="Leetcode: 118. Pascal's Triangle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 118. Pascal's Triangle" />
+    <MESSAGE value="Leetcode: 929. Unique Email Addresses" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 929. Unique Email Addresses" />
   </component>
 </project>
