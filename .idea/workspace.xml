@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 929. Unique Email Addresses" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 205. Isomorphic Strings" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -130,14 +130,7 @@
       <workItem from="1718466295356" duration="232000" />
       <workItem from="1718532614289" duration="463000" />
       <workItem from="1718641737747" duration="1131000" />
-    </task>
-    <task id="LOCAL-00022" summary="Leetcode: 2816. Double a Number Represented as a Linked List">
-      <option name="closed" value="true" />
-      <created>1715093987209</created>
-      <option name="number" value="00022" />
-      <option name="presentableId" value="LOCAL-00022" />
-      <option name="project" value="LOCAL" />
-      <updated>1715093987209</updated>
+      <workItem from="1718687807593" duration="250000" />
     </task>
     <task id="LOCAL-00023" summary="Leetcode: 2816. Double a Number Represented as a Linked List">
       <option name="closed" value="true" />
@@ -523,7 +516,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718642268048</updated>
     </task>
-    <option name="localTasksCounter" value="71" />
+    <task id="LOCAL-00071" summary="Leetcode: 205. Isomorphic Strings">
+      <option name="closed" value="true" />
+      <created>1718687963252</created>
+      <option name="number" value="00071" />
+      <option name="presentableId" value="LOCAL-00071" />
+      <option name="project" value="LOCAL" />
+      <updated>1718687963253</updated>
+    </task>
+    <option name="localTasksCounter" value="72" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -541,7 +542,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 2597. The Number of Beautiful Subsets" />
     <MESSAGE value="Leetcode: 1255. Maximum Score Words Formed by Letters" />
     <MESSAGE value="Leetcode: 140. Word Break II" />
     <MESSAGE value="Leetcode: 552. Student Attendance Record II" />
@@ -566,6 +566,7 @@
     <MESSAGE value="Leetcode: 49. Group Anagrams" />
     <MESSAGE value="Leetcode: 118. Pascal's Triangle" />
     <MESSAGE value="Leetcode: 929. Unique Email Addresses" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 929. Unique Email Addresses" />
+    <MESSAGE value="Leetcode: 205. Isomorphic Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 205. Isomorphic Strings" />
   </component>
 </project>
