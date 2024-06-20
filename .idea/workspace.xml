@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 205. Isomorphic Strings" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 605. Can Place Flowers">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode169.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -131,14 +134,8 @@
       <workItem from="1718532614289" duration="463000" />
       <workItem from="1718641737747" duration="1131000" />
       <workItem from="1718687807593" duration="250000" />
-    </task>
-    <task id="LOCAL-00023" summary="Leetcode: 2816. Double a Number Represented as a Linked List">
-      <option name="closed" value="true" />
-      <created>1715094294120</created>
-      <option name="number" value="00023" />
-      <option name="presentableId" value="LOCAL-00023" />
-      <option name="project" value="LOCAL" />
-      <updated>1715094294120</updated>
+      <workItem from="1718774493694" duration="671000" />
+      <workItem from="1718887259382" duration="726000" />
     </task>
     <task id="LOCAL-00024" summary="Leetcode: 506. Relative Ranks">
       <option name="closed" value="true" />
@@ -524,7 +521,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718687963253</updated>
     </task>
-    <option name="localTasksCounter" value="72" />
+    <task id="LOCAL-00072" summary="Leetcode: 605. Can Place Flowers">
+      <option name="closed" value="true" />
+      <created>1718774664167</created>
+      <option name="number" value="00072" />
+      <option name="presentableId" value="LOCAL-00072" />
+      <option name="project" value="LOCAL" />
+      <updated>1718774664167</updated>
+    </task>
+    <option name="localTasksCounter" value="73" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -542,7 +547,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1255. Maximum Score Words Formed by Letters" />
     <MESSAGE value="Leetcode: 140. Word Break II" />
     <MESSAGE value="Leetcode: 552. Student Attendance Record II" />
     <MESSAGE value="Leetcode: 1608. Special Array With X Elements Greater Than or Equal X" />
@@ -567,6 +571,7 @@
     <MESSAGE value="Leetcode: 118. Pascal's Triangle" />
     <MESSAGE value="Leetcode: 929. Unique Email Addresses" />
     <MESSAGE value="Leetcode: 205. Isomorphic Strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 205. Isomorphic Strings" />
+    <MESSAGE value="Leetcode: 605. Can Place Flowers" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 605. Can Place Flowers" />
   </component>
 </project>
