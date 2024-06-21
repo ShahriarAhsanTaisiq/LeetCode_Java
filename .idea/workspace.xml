@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 169. Majority Element">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode20.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 20. Valid Parentheses">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode69.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -136,15 +136,7 @@
       <workItem from="1718687807593" duration="250000" />
       <workItem from="1718774493694" duration="671000" />
       <workItem from="1718887259382" duration="783000" />
-      <workItem from="1718943482667" duration="509000" />
-    </task>
-    <task id="LOCAL-00025" summary="Leetcode: 3075. Maximize Happiness of Selected Children">
-      <option name="closed" value="true" />
-      <created>1715227625424</created>
-      <option name="number" value="00025" />
-      <option name="presentableId" value="LOCAL-00025" />
-      <option name="project" value="LOCAL" />
-      <updated>1715227625424</updated>
+      <workItem from="1718943482667" duration="1872000" />
     </task>
     <task id="LOCAL-00026" summary="Leetcode: 3075. Maximize Happiness of Selected Children">
       <option name="closed" value="true" />
@@ -530,7 +522,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718888022507</updated>
     </task>
-    <option name="localTasksCounter" value="74" />
+    <task id="LOCAL-00074" summary="Leetcode: 20. Valid Parentheses">
+      <option name="closed" value="true" />
+      <created>1718944102531</created>
+      <option name="number" value="00074" />
+      <option name="presentableId" value="LOCAL-00074" />
+      <option name="project" value="LOCAL" />
+      <updated>1718944102531</updated>
+    </task>
+    <option name="localTasksCounter" value="75" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -548,7 +548,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 552. Student Attendance Record II" />
     <MESSAGE value="Leetcode: 1608. Special Array With X Elements Greater Than or Equal X" />
     <MESSAGE value="Leetcode: 1208. Get Equal Substrings Within Budget" />
     <MESSAGE value="Leetcode: 1404. Number of Steps to Reduce a Number in Binary Representation to One" />
@@ -573,6 +572,7 @@
     <MESSAGE value="Leetcode: 205. Isomorphic Strings" />
     <MESSAGE value="Leetcode: 605. Can Place Flowers" />
     <MESSAGE value="Leetcode: 169. Majority Element" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 169. Majority Element" />
+    <MESSAGE value="Leetcode: 20. Valid Parentheses" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 20. Valid Parentheses" />
   </component>
 </project>
