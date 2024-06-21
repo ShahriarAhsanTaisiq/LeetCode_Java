@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 605. Can Place Flowers">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode169.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 169. Majority Element">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode20.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -135,15 +135,8 @@
       <workItem from="1718641737747" duration="1131000" />
       <workItem from="1718687807593" duration="250000" />
       <workItem from="1718774493694" duration="671000" />
-      <workItem from="1718887259382" duration="726000" />
-    </task>
-    <task id="LOCAL-00024" summary="Leetcode: 506. Relative Ranks">
-      <option name="closed" value="true" />
-      <created>1715139138618</created>
-      <option name="number" value="00024" />
-      <option name="presentableId" value="LOCAL-00024" />
-      <option name="project" value="LOCAL" />
-      <updated>1715139138618</updated>
+      <workItem from="1718887259382" duration="783000" />
+      <workItem from="1718943482667" duration="509000" />
     </task>
     <task id="LOCAL-00025" summary="Leetcode: 3075. Maximize Happiness of Selected Children">
       <option name="closed" value="true" />
@@ -529,7 +522,15 @@
       <option name="project" value="LOCAL" />
       <updated>1718774664167</updated>
     </task>
-    <option name="localTasksCounter" value="73" />
+    <task id="LOCAL-00073" summary="Leetcode: 169. Majority Element">
+      <option name="closed" value="true" />
+      <created>1718888022506</created>
+      <option name="number" value="00073" />
+      <option name="presentableId" value="LOCAL-00073" />
+      <option name="project" value="LOCAL" />
+      <updated>1718888022507</updated>
+    </task>
+    <option name="localTasksCounter" value="74" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -547,7 +548,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 140. Word Break II" />
     <MESSAGE value="Leetcode: 552. Student Attendance Record II" />
     <MESSAGE value="Leetcode: 1608. Special Array With X Elements Greater Than or Equal X" />
     <MESSAGE value="Leetcode: 1208. Get Equal Substrings Within Budget" />
@@ -572,6 +572,7 @@
     <MESSAGE value="Leetcode: 929. Unique Email Addresses" />
     <MESSAGE value="Leetcode: 205. Isomorphic Strings" />
     <MESSAGE value="Leetcode: 605. Can Place Flowers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 605. Can Place Flowers" />
+    <MESSAGE value="Leetcode: 169. Majority Element" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 169. Majority Element" />
   </component>
 </project>
