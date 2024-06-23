@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 28. Find the Index of the First Occurrence in a String">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode268.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 268. Missing Number">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode66.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -137,15 +137,8 @@
       <workItem from="1718774493694" duration="671000" />
       <workItem from="1718887259382" duration="783000" />
       <workItem from="1718943482667" duration="2182000" />
-      <workItem from="1719033324449" duration="1464000" />
-    </task>
-    <task id="LOCAL-00028" summary="Leetcode: 857. Minimum Cost to Hire K Workers">
-      <option name="closed" value="true" />
-      <created>1715406970108</created>
-      <option name="number" value="00028" />
-      <option name="presentableId" value="LOCAL-00028" />
-      <option name="project" value="LOCAL" />
-      <updated>1715406970108</updated>
+      <workItem from="1719033324449" duration="1569000" />
+      <workItem from="1719127892030" duration="308000" />
     </task>
     <task id="LOCAL-00029" summary="Leetcode: 2373. Largest Local Values in a Matrix">
       <option name="closed" value="true" />
@@ -531,7 +524,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719033684774</updated>
     </task>
-    <option name="localTasksCounter" value="77" />
+    <task id="LOCAL-00077" summary="Leetcode: 268. Missing Number">
+      <option name="closed" value="true" />
+      <created>1719034860208</created>
+      <option name="number" value="00077" />
+      <option name="presentableId" value="LOCAL-00077" />
+      <option name="project" value="LOCAL" />
+      <updated>1719034860208</updated>
+    </task>
+    <option name="localTasksCounter" value="78" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -549,7 +550,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1404. Number of Steps to Reduce a Number in Binary Representation to One" />
     <MESSAGE value="Leetcode: 260. Single Number III" />
     <MESSAGE value="Leetcode: 3110. Score of a String" />
     <MESSAGE value="Leetcode: 2486. Append Characters to String to Make Subsequence" />
@@ -574,6 +574,7 @@
     <MESSAGE value="Leetcode: 20. Valid Parentheses" />
     <MESSAGE value="Leetcode: 69. Sqrt(x)" />
     <MESSAGE value="Leetcode: 28. Find the Index of the First Occurrence in a String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 28. Find the Index of the First Occurrence in a String" />
+    <MESSAGE value="Leetcode: 268. Missing Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 268. Missing Number" />
   </component>
 </project>
