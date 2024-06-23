@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 268. Missing Number">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode66.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 66. Plus One">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode70.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -138,15 +138,7 @@
       <workItem from="1718887259382" duration="783000" />
       <workItem from="1718943482667" duration="2182000" />
       <workItem from="1719033324449" duration="1569000" />
-      <workItem from="1719127892030" duration="308000" />
-    </task>
-    <task id="LOCAL-00029" summary="Leetcode: 2373. Largest Local Values in a Matrix">
-      <option name="closed" value="true" />
-      <created>1715491176530</created>
-      <option name="number" value="00029" />
-      <option name="presentableId" value="LOCAL-00029" />
-      <option name="project" value="LOCAL" />
-      <updated>1715491176530</updated>
+      <workItem from="1719127892030" duration="1437000" />
     </task>
     <task id="LOCAL-00030" summary="Leetcode: 861. Score After Flipping Matrix">
       <option name="closed" value="true" />
@@ -532,7 +524,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719034860208</updated>
     </task>
-    <option name="localTasksCounter" value="78" />
+    <task id="LOCAL-00078" summary="Leetcode: 66. Plus One">
+      <option name="closed" value="true" />
+      <created>1719128462163</created>
+      <option name="number" value="00078" />
+      <option name="presentableId" value="LOCAL-00078" />
+      <option name="project" value="LOCAL" />
+      <updated>1719128462163</updated>
+    </task>
+    <option name="localTasksCounter" value="79" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -550,7 +550,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 260. Single Number III" />
     <MESSAGE value="Leetcode: 3110. Score of a String" />
     <MESSAGE value="Leetcode: 2486. Append Characters to String to Make Subsequence" />
     <MESSAGE value="Leetcode: 344: Reverse String" />
@@ -575,6 +574,7 @@
     <MESSAGE value="Leetcode: 69. Sqrt(x)" />
     <MESSAGE value="Leetcode: 28. Find the Index of the First Occurrence in a String" />
     <MESSAGE value="Leetcode: 268. Missing Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 268. Missing Number" />
+    <MESSAGE value="Leetcode: 66. Plus One" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 66. Plus One" />
   </component>
 </project>
