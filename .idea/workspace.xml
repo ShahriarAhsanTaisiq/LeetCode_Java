@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 70. Climbing Stairs">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode136.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 136. Single Number">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode326.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -139,15 +139,8 @@
       <workItem from="1718943482667" duration="2182000" />
       <workItem from="1719033324449" duration="1569000" />
       <workItem from="1719127892030" duration="2181000" />
-      <workItem from="1719248253550" duration="299000" />
-    </task>
-    <task id="LOCAL-00031" summary="Leetcode: 1219. Path with Maximum Gold">
-      <option name="closed" value="true" />
-      <created>1715693099336</created>
-      <option name="number" value="00031" />
-      <option name="presentableId" value="LOCAL-00031" />
-      <option name="project" value="LOCAL" />
-      <updated>1715693099336</updated>
+      <workItem from="1719248253550" duration="1018000" />
+      <workItem from="1719325939815" duration="343000" />
     </task>
     <task id="LOCAL-00032" summary="Leetcode: 2812. Find the Safest Path in a Grid">
       <option name="closed" value="true" />
@@ -533,7 +526,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719129351327</updated>
     </task>
-    <option name="localTasksCounter" value="80" />
+    <task id="LOCAL-00080" summary="Leetcode: 136. Single Number">
+      <option name="closed" value="true" />
+      <created>1719248669500</created>
+      <option name="number" value="00080" />
+      <option name="presentableId" value="LOCAL-00080" />
+      <option name="project" value="LOCAL" />
+      <updated>1719248669501</updated>
+    </task>
+    <option name="localTasksCounter" value="81" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -551,7 +552,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 2486. Append Characters to String to Make Subsequence" />
     <MESSAGE value="Leetcode: 344: Reverse String" />
     <MESSAGE value="Leetcode: 409. Longest Palindrome" />
     <MESSAGE value="Leetcode: 27. Remove Element" />
@@ -576,6 +576,7 @@
     <MESSAGE value="Leetcode: 268. Missing Number" />
     <MESSAGE value="Leetcode: 66. Plus One" />
     <MESSAGE value="Leetcode: 70. Climbing Stairs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 70. Climbing Stairs" />
+    <MESSAGE value="Leetcode: 136. Single Number" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 136. Single Number" />
   </component>
 </project>
