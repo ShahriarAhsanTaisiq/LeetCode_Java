@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 136. Single Number">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode326.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 326. Power of Three">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode121.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -140,23 +140,8 @@
       <workItem from="1719033324449" duration="1569000" />
       <workItem from="1719127892030" duration="2181000" />
       <workItem from="1719248253550" duration="1018000" />
-      <workItem from="1719325939815" duration="343000" />
-    </task>
-    <task id="LOCAL-00032" summary="Leetcode: 2812. Find the Safest Path in a Grid">
-      <option name="closed" value="true" />
-      <created>1715782995589</created>
-      <option name="number" value="00032" />
-      <option name="presentableId" value="LOCAL-00032" />
-      <option name="project" value="LOCAL" />
-      <updated>1715782995589</updated>
-    </task>
-    <task id="LOCAL-00033" summary="Leetcode: 2331. Evaluate Boolean Binary Tree">
-      <option name="closed" value="true" />
-      <created>1715849522186</created>
-      <option name="number" value="00033" />
-      <option name="presentableId" value="LOCAL-00033" />
-      <option name="project" value="LOCAL" />
-      <updated>1715849522186</updated>
+      <workItem from="1719325939815" duration="1567000" />
+      <workItem from="1719380014644" duration="329000" />
     </task>
     <task id="LOCAL-00034" summary="Leetcode: 1325. Delete Leaves With a Given Value">
       <option name="closed" value="true" />
@@ -534,7 +519,23 @@
       <option name="project" value="LOCAL" />
       <updated>1719248669501</updated>
     </task>
-    <option name="localTasksCounter" value="81" />
+    <task id="LOCAL-00081" summary="Leetcode: 326. Power of Three">
+      <option name="closed" value="true" />
+      <created>1719326513416</created>
+      <option name="number" value="00081" />
+      <option name="presentableId" value="LOCAL-00081" />
+      <option name="project" value="LOCAL" />
+      <updated>1719326513416</updated>
+    </task>
+    <task id="LOCAL-00082" summary="Leetcode: 326. Power of Three">
+      <option name="closed" value="true" />
+      <created>1719326805510</created>
+      <option name="number" value="00082" />
+      <option name="presentableId" value="LOCAL-00082" />
+      <option name="project" value="LOCAL" />
+      <updated>1719326805510</updated>
+    </task>
+    <option name="localTasksCounter" value="83" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -552,7 +553,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 344: Reverse String" />
     <MESSAGE value="Leetcode: 409. Longest Palindrome" />
     <MESSAGE value="Leetcode: 27. Remove Element" />
     <MESSAGE value="Leetcode: 217. Contains Duplicate" />
@@ -577,6 +577,7 @@
     <MESSAGE value="Leetcode: 66. Plus One" />
     <MESSAGE value="Leetcode: 70. Climbing Stairs" />
     <MESSAGE value="Leetcode: 136. Single Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 136. Single Number" />
+    <MESSAGE value="Leetcode: 326. Power of Three" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 326. Power of Three" />
   </component>
 </project>
