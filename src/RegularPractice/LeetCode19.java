@@ -39,6 +39,7 @@ class RemoveNthNodeFromLast{
             curr = curr.next;
             size++;
         }
+        //base case
         if(size == n){
             return head.next;
         }
