@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 234. Palindrome Linked List">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode141.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 141. Linked List Cycle">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode75.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -147,15 +147,10 @@
       <workItem from="1719553901759" duration="1870000" />
       <workItem from="1719573765550" duration="1239000" />
       <workItem from="1719586719331" duration="2486000" />
-      <workItem from="1719643796687" duration="325000" />
-    </task>
-    <task id="LOCAL-00040" summary="Leetcode: 2597. The Number of Beautiful Subsets">
-      <option name="closed" value="true" />
-      <created>1716442305008</created>
-      <option name="number" value="00040" />
-      <option name="presentableId" value="LOCAL-00040" />
-      <option name="project" value="LOCAL" />
-      <updated>1716442305008</updated>
+      <workItem from="1719643796687" duration="1007000" />
+      <workItem from="1719667499785" duration="698000" />
+      <workItem from="1719722923528" duration="774000" />
+      <workItem from="1719751484409" duration="415000" />
     </task>
     <task id="LOCAL-00041" summary="Leetcode: 1255. Maximum Score Words Formed by Letters">
       <option name="closed" value="true" />
@@ -541,7 +536,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719588478511</updated>
     </task>
-    <option name="localTasksCounter" value="89" />
+    <task id="LOCAL-00089" summary="Leetcode: 141. Linked List Cycle">
+      <option name="closed" value="true" />
+      <created>1719644193357</created>
+      <option name="number" value="00089" />
+      <option name="presentableId" value="LOCAL-00089" />
+      <option name="project" value="LOCAL" />
+      <updated>1719644193358</updated>
+    </task>
+    <option name="localTasksCounter" value="90" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -559,7 +562,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1299. Replace Elements with Greatest Element on Right Side" />
     <MESSAGE value="Leetcode: 392. Is Subsequence" />
     <MESSAGE value="Leetcode: 1051. Height Checker" />
     <MESSAGE value="Leetcode: 1. Two Sum" />
@@ -584,6 +586,7 @@
     <MESSAGE value="Leetcode: 1791. Find Center of Star Graph" />
     <MESSAGE value="Leetcode: 19. Remove Nth Node From End of List" />
     <MESSAGE value="Leetcode: 234. Palindrome Linked List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 234. Palindrome Linked List" />
+    <MESSAGE value="Leetcode: 141. Linked List Cycle" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 141. Linked List Cycle" />
   </component>
 </project>
