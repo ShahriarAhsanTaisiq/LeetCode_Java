@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 141. Linked List Cycle">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode75.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 75. Sort Colors">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1550.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -150,15 +150,8 @@
       <workItem from="1719643796687" duration="1007000" />
       <workItem from="1719667499785" duration="698000" />
       <workItem from="1719722923528" duration="774000" />
-      <workItem from="1719751484409" duration="415000" />
-    </task>
-    <task id="LOCAL-00041" summary="Leetcode: 1255. Maximum Score Words Formed by Letters">
-      <option name="closed" value="true" />
-      <created>1716530583684</created>
-      <option name="number" value="00041" />
-      <option name="presentableId" value="LOCAL-00041" />
-      <option name="project" value="LOCAL" />
-      <updated>1716530583684</updated>
+      <workItem from="1719751484409" duration="1526000" />
+      <workItem from="1719853995238" duration="307000" />
     </task>
     <task id="LOCAL-00042" summary="Leetcode: 140. Word Break II">
       <option name="closed" value="true" />
@@ -544,7 +537,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719644193358</updated>
     </task>
-    <option name="localTasksCounter" value="90" />
+    <task id="LOCAL-00090" summary="Leetcode: 75. Sort Colors">
+      <option name="closed" value="true" />
+      <created>1719751911934</created>
+      <option name="number" value="00090" />
+      <option name="presentableId" value="LOCAL-00090" />
+      <option name="project" value="LOCAL" />
+      <updated>1719751911934</updated>
+    </task>
+    <option name="localTasksCounter" value="91" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -562,7 +563,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 392. Is Subsequence" />
     <MESSAGE value="Leetcode: 1051. Height Checker" />
     <MESSAGE value="Leetcode: 1. Two Sum" />
     <MESSAGE value="Leetcode: 14. Longest Common Prefix" />
@@ -587,6 +587,7 @@
     <MESSAGE value="Leetcode: 19. Remove Nth Node From End of List" />
     <MESSAGE value="Leetcode: 234. Palindrome Linked List" />
     <MESSAGE value="Leetcode: 141. Linked List Cycle" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 141. Linked List Cycle" />
+    <MESSAGE value="Leetcode: 75. Sort Colors" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 75. Sort Colors" />
   </component>
 </project>
