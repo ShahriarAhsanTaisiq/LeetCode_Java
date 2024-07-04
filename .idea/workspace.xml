@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1509. Minimum Difference Between Largest and Smallest Value in Three Moves">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode2181.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2181. Merge Nodes in Between Zeros">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode94.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -156,15 +156,8 @@
       <workItem from="1719923639813" duration="850000" />
       <workItem from="1719939603288" duration="655000" />
       <workItem from="1719994668574" duration="658000" />
-      <workItem from="1720068647561" duration="645000" />
-    </task>
-    <task id="LOCAL-00046" summary="Leetcode: 1404. Number of Steps to Reduce a Number in Binary Representation to One">
-      <option name="closed" value="true" />
-      <created>1716956979482</created>
-      <option name="number" value="00046" />
-      <option name="presentableId" value="LOCAL-00046" />
-      <option name="project" value="LOCAL" />
-      <updated>1716956979482</updated>
+      <workItem from="1720068647561" duration="1548000" />
+      <workItem from="1720094905882" duration="1559000" />
     </task>
     <task id="LOCAL-00047" summary="Leetcode: 1404. Number of Steps to Reduce a Number in Binary Representation to One">
       <option name="closed" value="true" />
@@ -550,7 +543,15 @@
       <option name="project" value="LOCAL" />
       <updated>1719995104419</updated>
     </task>
-    <option name="localTasksCounter" value="95" />
+    <task id="LOCAL-00095" summary="Leetcode: 2181. Merge Nodes in Between Zeros">
+      <option name="closed" value="true" />
+      <created>1720069552168</created>
+      <option name="number" value="00095" />
+      <option name="presentableId" value="LOCAL-00095" />
+      <option name="project" value="LOCAL" />
+      <updated>1720069552169</updated>
+    </task>
+    <option name="localTasksCounter" value="96" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +569,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 49. Group Anagrams" />
     <MESSAGE value="Leetcode: 118. Pascal's Triangle" />
     <MESSAGE value="Leetcode: 929. Unique Email Addresses" />
     <MESSAGE value="Leetcode: 205. Isomorphic Strings" />
@@ -593,6 +593,7 @@
     <MESSAGE value="Leetcode: 350. Intersection of Two Arrays II" />
     <MESSAGE value="Leetcode: 7. Reverse Integer" />
     <MESSAGE value="Leetcode: 1509. Minimum Difference Between Largest and Smallest Value in Three Moves" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1509. Minimum Difference Between Largest and Smallest Value in Three Moves" />
+    <MESSAGE value="Leetcode: 2181. Merge Nodes in Between Zeros" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2181. Merge Nodes in Between Zeros" />
   </component>
 </project>
