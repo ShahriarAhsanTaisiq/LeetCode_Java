@@ -4,8 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 144. Binary Tree Preorder Traversal">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode145.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 145. Binary Tree Postorder Traversal">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode222.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -156,15 +157,8 @@
       <workItem from="1719939603288" duration="655000" />
       <workItem from="1719994668574" duration="658000" />
       <workItem from="1720068647561" duration="1548000" />
-      <workItem from="1720094905882" duration="2633000" />
-    </task>
-    <task id="LOCAL-00050" summary="Leetcode: 2486. Append Characters to String to Make Subsequence">
-      <option name="closed" value="true" />
-      <created>1717432464085</created>
-      <option name="number" value="00050" />
-      <option name="presentableId" value="LOCAL-00050" />
-      <option name="project" value="LOCAL" />
-      <updated>1717432464085</updated>
+      <workItem from="1720094905882" duration="2831000" />
+      <workItem from="1720169413975" duration="940000" />
     </task>
     <task id="LOCAL-00051" summary="Leetcode: 2486. Append Characters to String to Make Subsequence">
       <option name="closed" value="true" />
@@ -550,7 +544,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720100064209</updated>
     </task>
-    <option name="localTasksCounter" value="99" />
+    <task id="LOCAL-00099" summary="Leetcode: 145. Binary Tree Postorder Traversal">
+      <option name="closed" value="true" />
+      <created>1720100545944</created>
+      <option name="number" value="00099" />
+      <option name="presentableId" value="LOCAL-00099" />
+      <option name="project" value="LOCAL" />
+      <updated>1720100545944</updated>
+    </task>
+    <option name="localTasksCounter" value="100" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -568,7 +570,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 205. Isomorphic Strings" />
     <MESSAGE value="Leetcode: 605. Can Place Flowers" />
     <MESSAGE value="Leetcode: 169. Majority Element" />
     <MESSAGE value="Leetcode: 20. Valid Parentheses" />
@@ -593,6 +594,7 @@
     <MESSAGE value="Leetcode: 2181. Merge Nodes in Between Zeros" />
     <MESSAGE value="Leetcode: 94. Binary Tree Inorder Traversal" />
     <MESSAGE value="Leetcode: 144. Binary Tree Preorder Traversal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 144. Binary Tree Preorder Traversal" />
+    <MESSAGE value="Leetcode: 145. Binary Tree Postorder Traversal" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 145. Binary Tree Postorder Traversal" />
   </component>
 </project>
