@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 104. Maximum Depth of Binary Tree">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode111.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Moved to Binary Tree Package.">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/BinaryTree/LeetCode543.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -165,23 +165,8 @@
       <workItem from="1720094905882" duration="2831000" />
       <workItem from="1720169413975" duration="1248000" />
       <workItem from="1720246834440" duration="332000" />
-      <workItem from="1720258734687" duration="1426000" />
-    </task>
-    <task id="LOCAL-00054" summary="Leetcode: 27. Remove Element">
-      <option name="closed" value="true" />
-      <created>1717570951840</created>
-      <option name="number" value="00054" />
-      <option name="presentableId" value="LOCAL-00054" />
-      <option name="project" value="LOCAL" />
-      <updated>1717570951841</updated>
-    </task>
-    <task id="LOCAL-00055" summary="Leetcode: 217. Contains Duplicate">
-      <option name="closed" value="true" />
-      <created>1717606076535</created>
-      <option name="number" value="00055" />
-      <option name="presentableId" value="LOCAL-00055" />
-      <option name="project" value="LOCAL" />
-      <updated>1717606076535</updated>
+      <workItem from="1720258734687" duration="1633000" />
+      <workItem from="1720266578948" duration="1813000" />
     </task>
     <task id="LOCAL-00056" summary="Leetcode: 242. Valid Anagram">
       <option name="closed" value="true" />
@@ -559,7 +544,23 @@
       <option name="project" value="LOCAL" />
       <updated>1720259956585</updated>
     </task>
-    <option name="localTasksCounter" value="103" />
+    <task id="LOCAL-00103" summary="Leetcode: 111. Minimum Depth of Binary Tree">
+      <option name="closed" value="true" />
+      <created>1720260550059</created>
+      <option name="number" value="00103" />
+      <option name="presentableId" value="LOCAL-00103" />
+      <option name="project" value="LOCAL" />
+      <updated>1720260550059</updated>
+    </task>
+    <task id="LOCAL-00104" summary="Moved to Binary Tree Package.">
+      <option name="closed" value="true" />
+      <created>1720266781847</created>
+      <option name="number" value="00104" />
+      <option name="presentableId" value="LOCAL-00104" />
+      <option name="project" value="LOCAL" />
+      <updated>1720266781847</updated>
+    </task>
+    <option name="localTasksCounter" value="105" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -577,8 +578,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 69. Sqrt(x)" />
-    <MESSAGE value="Leetcode: 28. Find the Index of the First Occurrence in a String" />
     <MESSAGE value="Leetcode: 268. Missing Number" />
     <MESSAGE value="Leetcode: 66. Plus One" />
     <MESSAGE value="Leetcode: 70. Climbing Stairs" />
@@ -602,6 +601,8 @@
     <MESSAGE value="Leetcode: 222. Count Complete Tree Nodes" />
     <MESSAGE value="Leetcode: 2582. Pass the Pillow" />
     <MESSAGE value="Leetcode: 104. Maximum Depth of Binary Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 104. Maximum Depth of Binary Tree" />
+    <MESSAGE value="Leetcode: 111. Minimum Depth of Binary Tree" />
+    <MESSAGE value="Moved to Binary Tree Package." />
+    <option name="LAST_COMMIT_MESSAGE" value="Moved to Binary Tree Package." />
   </component>
 </project>
