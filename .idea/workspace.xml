@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2582. Pass the Pillow">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode104.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 104. Maximum Depth of Binary Tree">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode111.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -62,6 +62,11 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="RegularPractice" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -160,15 +165,7 @@
       <workItem from="1720094905882" duration="2831000" />
       <workItem from="1720169413975" duration="1248000" />
       <workItem from="1720246834440" duration="332000" />
-      <workItem from="1720258734687" duration="925000" />
-    </task>
-    <task id="LOCAL-00053" summary="Leetcode: 409. Longest Palindrome">
-      <option name="closed" value="true" />
-      <created>1717520859129</created>
-      <option name="number" value="00053" />
-      <option name="presentableId" value="LOCAL-00053" />
-      <option name="project" value="LOCAL" />
-      <updated>1717520859130</updated>
+      <workItem from="1720258734687" duration="1426000" />
     </task>
     <task id="LOCAL-00054" summary="Leetcode: 27. Remove Element">
       <option name="closed" value="true" />
@@ -554,7 +551,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720247157337</updated>
     </task>
-    <option name="localTasksCounter" value="102" />
+    <task id="LOCAL-00102" summary="Leetcode: 104. Maximum Depth of Binary Tree">
+      <option name="closed" value="true" />
+      <created>1720259956585</created>
+      <option name="number" value="00102" />
+      <option name="presentableId" value="LOCAL-00102" />
+      <option name="project" value="LOCAL" />
+      <updated>1720259956585</updated>
+    </task>
+    <option name="localTasksCounter" value="103" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -572,7 +577,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 20. Valid Parentheses" />
     <MESSAGE value="Leetcode: 69. Sqrt(x)" />
     <MESSAGE value="Leetcode: 28. Find the Index of the First Occurrence in a String" />
     <MESSAGE value="Leetcode: 268. Missing Number" />
@@ -597,6 +601,7 @@
     <MESSAGE value="Leetcode: 145. Binary Tree Postorder Traversal" />
     <MESSAGE value="Leetcode: 222. Count Complete Tree Nodes" />
     <MESSAGE value="Leetcode: 2582. Pass the Pillow" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2582. Pass the Pillow" />
+    <MESSAGE value="Leetcode: 104. Maximum Depth of Binary Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 104. Maximum Depth of Binary Tree" />
   </component>
 </project>
