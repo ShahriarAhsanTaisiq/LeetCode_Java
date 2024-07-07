@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Moved to Binary Tree Package.">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/BinaryTree/LeetCode543.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 543. Diameter of Binary Tree">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1518.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -166,15 +166,9 @@
       <workItem from="1720169413975" duration="1248000" />
       <workItem from="1720246834440" duration="332000" />
       <workItem from="1720258734687" duration="1633000" />
-      <workItem from="1720266578948" duration="1813000" />
-    </task>
-    <task id="LOCAL-00056" summary="Leetcode: 242. Valid Anagram">
-      <option name="closed" value="true" />
-      <created>1717690866227</created>
-      <option name="number" value="00056" />
-      <option name="presentableId" value="LOCAL-00056" />
-      <option name="project" value="LOCAL" />
-      <updated>1717690866227</updated>
+      <workItem from="1720266578948" duration="2015000" />
+      <workItem from="1720312343301" duration="533000" />
+      <workItem from="1720328018844" duration="500000" />
     </task>
     <task id="LOCAL-00057" summary="Leetcode: 242. Valid Anagram">
       <option name="closed" value="true" />
@@ -560,7 +554,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720266781847</updated>
     </task>
-    <option name="localTasksCounter" value="105" />
+    <task id="LOCAL-00105" summary="Leetcode: 543. Diameter of Binary Tree">
+      <option name="closed" value="true" />
+      <created>1720268595007</created>
+      <option name="number" value="00105" />
+      <option name="presentableId" value="LOCAL-00105" />
+      <option name="project" value="LOCAL" />
+      <updated>1720268595007</updated>
+    </task>
+    <option name="localTasksCounter" value="106" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -578,7 +580,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 268. Missing Number" />
     <MESSAGE value="Leetcode: 66. Plus One" />
     <MESSAGE value="Leetcode: 70. Climbing Stairs" />
     <MESSAGE value="Leetcode: 136. Single Number" />
@@ -603,6 +604,7 @@
     <MESSAGE value="Leetcode: 104. Maximum Depth of Binary Tree" />
     <MESSAGE value="Leetcode: 111. Minimum Depth of Binary Tree" />
     <MESSAGE value="Moved to Binary Tree Package." />
-    <option name="LAST_COMMIT_MESSAGE" value="Moved to Binary Tree Package." />
+    <MESSAGE value="Leetcode: 543. Diameter of Binary Tree" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 543. Diameter of Binary Tree" />
   </component>
 </project>
