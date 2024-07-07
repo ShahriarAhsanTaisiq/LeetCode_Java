@@ -4,9 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 543. Diameter of Binary Tree">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1518.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1518. Water Bottles">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/BinaryTree/LeetCode572.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -64,6 +63,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
+      <recent name="RegularPractice.BinaryTree" />
       <recent name="RegularPractice" />
     </key>
   </component>
@@ -168,15 +168,7 @@
       <workItem from="1720258734687" duration="1633000" />
       <workItem from="1720266578948" duration="2015000" />
       <workItem from="1720312343301" duration="533000" />
-      <workItem from="1720328018844" duration="500000" />
-    </task>
-    <task id="LOCAL-00057" summary="Leetcode: 242. Valid Anagram">
-      <option name="closed" value="true" />
-      <created>1717691094714</created>
-      <option name="number" value="00057" />
-      <option name="presentableId" value="LOCAL-00057" />
-      <option name="project" value="LOCAL" />
-      <updated>1717691094714</updated>
+      <workItem from="1720328018844" duration="2858000" />
     </task>
     <task id="LOCAL-00058" summary="Leetcode: 242. Valid Anagram">
       <option name="closed" value="true" />
@@ -562,7 +554,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720268595007</updated>
     </task>
-    <option name="localTasksCounter" value="106" />
+    <task id="LOCAL-00106" summary="Leetcode: 1518. Water Bottles">
+      <option name="closed" value="true" />
+      <created>1720328551598</created>
+      <option name="number" value="00106" />
+      <option name="presentableId" value="LOCAL-00106" />
+      <option name="project" value="LOCAL" />
+      <updated>1720328551599</updated>
+    </task>
+    <option name="localTasksCounter" value="107" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -580,7 +580,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 66. Plus One" />
     <MESSAGE value="Leetcode: 70. Climbing Stairs" />
     <MESSAGE value="Leetcode: 136. Single Number" />
     <MESSAGE value="Leetcode: 326. Power of Three" />
@@ -605,6 +604,7 @@
     <MESSAGE value="Leetcode: 111. Minimum Depth of Binary Tree" />
     <MESSAGE value="Moved to Binary Tree Package." />
     <MESSAGE value="Leetcode: 543. Diameter of Binary Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 543. Diameter of Binary Tree" />
+    <MESSAGE value="Leetcode: 1518. Water Bottles" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1518. Water Bottles" />
   </component>
 </project>
