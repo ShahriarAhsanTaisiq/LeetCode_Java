@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1701. Average Waiting Time">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1598.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1598. Crawler Log Folder">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/BinaryTree/BinarySearchTree/LeetCode700.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -174,15 +174,7 @@
       <workItem from="1720414537488" duration="1509000" />
       <workItem from="1720430582387" duration="1495000" />
       <workItem from="1720542181973" duration="1143000" />
-      <workItem from="1720590564138" duration="315000" />
-    </task>
-    <task id="LOCAL-00061" summary="Leetcode: 1299. Replace Elements with Greatest Element on Right Side">
-      <option name="closed" value="true" />
-      <created>1717867994061</created>
-      <option name="number" value="00061" />
-      <option name="presentableId" value="LOCAL-00061" />
-      <option name="project" value="LOCAL" />
-      <updated>1717867994062</updated>
+      <workItem from="1720590564138" duration="2067000" />
     </task>
     <task id="LOCAL-00062" summary="Leetcode: 392. Is Subsequence">
       <option name="closed" value="true" />
@@ -568,7 +560,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720542595545</updated>
     </task>
-    <option name="localTasksCounter" value="110" />
+    <task id="LOCAL-00110" summary="Leetcode: 1598. Crawler Log Folder">
+      <option name="closed" value="true" />
+      <created>1720590953510</created>
+      <option name="number" value="00110" />
+      <option name="presentableId" value="LOCAL-00110" />
+      <option name="project" value="LOCAL" />
+      <updated>1720590953510</updated>
+    </task>
+    <option name="localTasksCounter" value="111" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -586,7 +586,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 121. Best Time to Buy and Sell Stock" />
     <MESSAGE value="Leetcode: 412. Fizz Buzz" />
     <MESSAGE value="Leetcode: 1791. Find Center of Star Graph" />
     <MESSAGE value="Leetcode: 19. Remove Nth Node From End of List" />
@@ -611,6 +610,7 @@
     <MESSAGE value="Leetcode: 572. Subtree of Another Tree" />
     <MESSAGE value="Leetcode: 1823. Find the Winner of the Circular Game" />
     <MESSAGE value="Leetcode: 1701. Average Waiting Time" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1701. Average Waiting Time" />
+    <MESSAGE value="Leetcode: 1598. Crawler Log Folder" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1598. Crawler Log Folder" />
   </component>
 </project>
