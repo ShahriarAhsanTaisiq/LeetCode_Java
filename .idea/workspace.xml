@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1823. Find the Winner of the Circular Game">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1701.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1701. Average Waiting Time">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1598.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -173,15 +173,8 @@
       <workItem from="1720395335262" duration="45000" />
       <workItem from="1720414537488" duration="1509000" />
       <workItem from="1720430582387" duration="1495000" />
-      <workItem from="1720542181973" duration="342000" />
-    </task>
-    <task id="LOCAL-00060" summary="Leetcode: 1929. Concatenation of Array">
-      <option name="closed" value="true" />
-      <created>1717772814812</created>
-      <option name="number" value="00060" />
-      <option name="presentableId" value="LOCAL-00060" />
-      <option name="project" value="LOCAL" />
-      <updated>1717772814812</updated>
+      <workItem from="1720542181973" duration="1143000" />
+      <workItem from="1720590564138" duration="315000" />
     </task>
     <task id="LOCAL-00061" summary="Leetcode: 1299. Replace Elements with Greatest Element on Right Side">
       <option name="closed" value="true" />
@@ -567,7 +560,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720415996454</updated>
     </task>
-    <option name="localTasksCounter" value="109" />
+    <task id="LOCAL-00109" summary="Leetcode: 1701. Average Waiting Time">
+      <option name="closed" value="true" />
+      <created>1720542595544</created>
+      <option name="number" value="00109" />
+      <option name="presentableId" value="LOCAL-00109" />
+      <option name="project" value="LOCAL" />
+      <updated>1720542595545</updated>
+    </task>
+    <option name="localTasksCounter" value="110" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,7 +586,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 326. Power of Three" />
     <MESSAGE value="Leetcode: 121. Best Time to Buy and Sell Stock" />
     <MESSAGE value="Leetcode: 412. Fizz Buzz" />
     <MESSAGE value="Leetcode: 1791. Find Center of Star Graph" />
@@ -610,6 +610,7 @@
     <MESSAGE value="Leetcode: 1518. Water Bottles" />
     <MESSAGE value="Leetcode: 572. Subtree of Another Tree" />
     <MESSAGE value="Leetcode: 1823. Find the Winner of the Circular Game" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1823. Find the Winner of the Circular Game" />
+    <MESSAGE value="Leetcode: 1701. Average Waiting Time" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1701. Average Waiting Time" />
   </component>
 </project>
