@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 98. Validate Binary Search Tree" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1190. Reverse Substrings Between Each Pair of Parentheses">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/BinaryTree/BinarySearchTree/LeetCode701.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -172,14 +175,8 @@
       <workItem from="1720430582387" duration="1495000" />
       <workItem from="1720542181973" duration="1143000" />
       <workItem from="1720590564138" duration="3354000" />
-    </task>
-    <task id="LOCAL-00064" summary="Leetcode: 1. Two Sum">
-      <option name="closed" value="true" />
-      <created>1718125003694</created>
-      <option name="number" value="00064" />
-      <option name="presentableId" value="LOCAL-00064" />
-      <option name="project" value="LOCAL" />
-      <updated>1718125003695</updated>
+      <workItem from="1720674138630" duration="230000" />
+      <workItem from="1720929529726" duration="944000" />
     </task>
     <task id="LOCAL-00065" summary="Leetcode: 14. Longest Common Prefix">
       <option name="closed" value="true" />
@@ -565,7 +562,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720598320334</updated>
     </task>
-    <option name="localTasksCounter" value="113" />
+    <task id="LOCAL-00113" summary="Leetcode: 1190. Reverse Substrings Between Each Pair of Parentheses">
+      <option name="closed" value="true" />
+      <created>1720674362039</created>
+      <option name="number" value="00113" />
+      <option name="presentableId" value="LOCAL-00113" />
+      <option name="project" value="LOCAL" />
+      <updated>1720674362039</updated>
+    </task>
+    <option name="localTasksCounter" value="114" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -583,7 +588,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 19. Remove Nth Node From End of List" />
     <MESSAGE value="Leetcode: 234. Palindrome Linked List" />
     <MESSAGE value="Leetcode: 141. Linked List Cycle" />
     <MESSAGE value="Leetcode: 75. Sort Colors" />
@@ -608,6 +612,7 @@
     <MESSAGE value="Leetcode: 1598. Crawler Log Folder" />
     <MESSAGE value="Leetcode: 700. Search in a Binary Search Tree" />
     <MESSAGE value="Leetcode: 98. Validate Binary Search Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 98. Validate Binary Search Tree" />
+    <MESSAGE value="Leetcode: 1190. Reverse Substrings Between Each Pair of Parentheses" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1190. Reverse Substrings Between Each Pair of Parentheses" />
   </component>
 </project>
