@@ -5,8 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 450. Delete Node in a BST">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode21.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/RegularPractice/BinaryTree/BinarySearchTree/LeetCode450.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RegularPractice/BinaryTree/BinarySearchTree/LeetCode450.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -178,15 +178,7 @@
       <workItem from="1720674138630" duration="230000" />
       <workItem from="1720929529726" duration="3196000" />
       <workItem from="1721013078498" duration="2475000" />
-      <workItem from="1721104823556" duration="602000" />
-    </task>
-    <task id="LOCAL-00067" summary="Leetcode: 49. Group Anagrams">
-      <option name="closed" value="true" />
-      <created>1718377694805</created>
-      <option name="number" value="00067" />
-      <option name="presentableId" value="LOCAL-00067" />
-      <option name="project" value="LOCAL" />
-      <updated>1718377694805</updated>
+      <workItem from="1721104823556" duration="962000" />
     </task>
     <task id="LOCAL-00068" summary="Leetcode: 118. Pascal's Triangle">
       <option name="closed" value="true" />
@@ -572,7 +564,15 @@
       <option name="project" value="LOCAL" />
       <updated>1720936448176</updated>
     </task>
-    <option name="localTasksCounter" value="116" />
+    <task id="LOCAL-00116" summary="Leetcode: 450. Delete Node in a BST">
+      <option name="closed" value="true" />
+      <created>1721107365735</created>
+      <option name="number" value="00116" />
+      <option name="presentableId" value="LOCAL-00116" />
+      <option name="project" value="LOCAL" />
+      <updated>1721107365735</updated>
+    </task>
+    <option name="localTasksCounter" value="117" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
