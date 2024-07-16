@@ -50,14 +50,17 @@ class DeleteNodeInBST{
         } else if (root.val < key) {
             root.right = deleteNode(root.right, key);
         } else {
+            // case 1
             if (root.left == null && root.right == null) {
                 return null;
             }
+            // case 2
             if (root.left == null) {
                 return root.right;
             } else if (root.right == null) {
                 return root.left;
             }
+            //case 3
             Node450 IS = inorderSuccessor(root.right);
             root.val = IS.val;
             root.right = deleteNode(root.right, IS.val);
