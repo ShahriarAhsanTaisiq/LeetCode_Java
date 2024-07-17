@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 102. Binary Tree Level Order Traversal">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/BinaryTree/LeetCode1110.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1110. Delete Nodes And Return Forest">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -180,15 +179,7 @@
       <workItem from="1721013078498" duration="2475000" />
       <workItem from="1721104823556" duration="1610000" />
       <workItem from="1721191375247" duration="1542000" />
-      <workItem from="1721228188586" duration="313000" />
-    </task>
-    <task id="LOCAL-00070" summary="Leetcode: 929. Unique Email Addresses">
-      <option name="closed" value="true" />
-      <created>1718642268047</created>
-      <option name="number" value="00070" />
-      <option name="presentableId" value="LOCAL-00070" />
-      <option name="project" value="LOCAL" />
-      <updated>1718642268048</updated>
+      <workItem from="1721228188586" duration="960000" />
     </task>
     <task id="LOCAL-00071" summary="Leetcode: 205. Isomorphic Strings">
       <option name="closed" value="true" />
@@ -574,7 +565,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721192173589</updated>
     </task>
-    <option name="localTasksCounter" value="119" />
+    <task id="LOCAL-00119" summary="Leetcode: 1110. Delete Nodes And Return Forest">
+      <option name="closed" value="true" />
+      <created>1721228833486</created>
+      <option name="number" value="00119" />
+      <option name="presentableId" value="LOCAL-00119" />
+      <option name="project" value="LOCAL" />
+      <updated>1721228833487</updated>
+    </task>
+    <option name="localTasksCounter" value="120" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -585,14 +584,33 @@
       <map>
         <entry key="MAIN">
           <value>
-            <State />
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                  <entry key="date">
+                    <value>
+                      <list>
+                        <option value="1721142684129" />
+                        <option value="" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
           </value>
         </entry>
       </map>
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 350. Intersection of Two Arrays II" />
     <MESSAGE value="Leetcode: 7. Reverse Integer" />
     <MESSAGE value="Leetcode: 1509. Minimum Difference Between Largest and Smallest Value in Three Moves" />
     <MESSAGE value="Leetcode: 2181. Merge Nodes in Between Zeros" />
@@ -617,6 +635,7 @@
     <MESSAGE value="Leetcode: 450. Delete Node in a BST" />
     <MESSAGE value="Leetcode: 21. Merge Two Sorted Lists" />
     <MESSAGE value="Leetcode: 102. Binary Tree Level Order Traversal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 102. Binary Tree Level Order Traversal" />
+    <MESSAGE value="Leetcode: 1110. Delete Nodes And Return Forest" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1110. Delete Nodes And Return Forest" />
   </component>
 </project>
