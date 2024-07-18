@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1110. Delete Nodes And Return Forest">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/BinaryTree/LeetCpde1530.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -179,15 +180,8 @@
       <workItem from="1721013078498" duration="2475000" />
       <workItem from="1721104823556" duration="1610000" />
       <workItem from="1721191375247" duration="1542000" />
-      <workItem from="1721228188586" duration="960000" />
-    </task>
-    <task id="LOCAL-00071" summary="Leetcode: 205. Isomorphic Strings">
-      <option name="closed" value="true" />
-      <created>1718687963252</created>
-      <option name="number" value="00071" />
-      <option name="presentableId" value="LOCAL-00071" />
-      <option name="project" value="LOCAL" />
-      <updated>1718687963253</updated>
+      <workItem from="1721228188586" duration="2311000" />
+      <workItem from="1721313511799" duration="579000" />
     </task>
     <task id="LOCAL-00072" summary="Leetcode: 605. Can Place Flowers">
       <option name="closed" value="true" />
@@ -573,7 +567,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721228833487</updated>
     </task>
-    <option name="localTasksCounter" value="120" />
+    <task id="LOCAL-00120" summary="Leetcode: 1110. Delete Nodes And Return Forest">
+      <option name="closed" value="true" />
+      <created>1721229248466</created>
+      <option name="number" value="00120" />
+      <option name="presentableId" value="LOCAL-00120" />
+      <option name="project" value="LOCAL" />
+      <updated>1721229248466</updated>
+    </task>
+    <option name="localTasksCounter" value="121" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
