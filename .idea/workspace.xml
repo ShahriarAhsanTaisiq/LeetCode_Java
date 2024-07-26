@@ -5,7 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 108. Convert Sorted Array to Binary Search Tree">
-      <change beforePath="$PROJECT_DIR$/src/RegularPractice/LeetCode108.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode108.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1380.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -187,14 +188,7 @@
       <workItem from="1721840185378" duration="236000" />
       <workItem from="1721840445492" duration="3455000" />
       <workItem from="1721924459301" duration="583000" />
-    </task>
-    <task id="LOCAL-00076" summary="Leetcode: 28. Find the Index of the First Occurrence in a String">
-      <option name="closed" value="true" />
-      <created>1719033684773</created>
-      <option name="number" value="00076" />
-      <option name="presentableId" value="LOCAL-00076" />
-      <option name="project" value="LOCAL" />
-      <updated>1719033684774</updated>
+      <workItem from="1721974190872" duration="1023000" />
     </task>
     <task id="LOCAL-00077" summary="Leetcode: 268. Missing Number">
       <option name="closed" value="true" />
@@ -580,7 +574,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721924943807</updated>
     </task>
-    <option name="localTasksCounter" value="125" />
+    <task id="LOCAL-00125" summary="Leetcode: 108. Convert Sorted Array to Binary Search Tree">
+      <option name="closed" value="true" />
+      <created>1721974304367</created>
+      <option name="number" value="00125" />
+      <option name="presentableId" value="LOCAL-00125" />
+      <option name="project" value="LOCAL" />
+      <updated>1721974304367</updated>
+    </task>
+    <option name="localTasksCounter" value="126" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
