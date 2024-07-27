@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 108. Convert Sorted Array to Binary Search Tree">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1380.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1380. Lucky Numbers in a Matrix">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode101.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -188,15 +188,8 @@
       <workItem from="1721840185378" duration="236000" />
       <workItem from="1721840445492" duration="3455000" />
       <workItem from="1721924459301" duration="583000" />
-      <workItem from="1721974190872" duration="1023000" />
-    </task>
-    <task id="LOCAL-00077" summary="Leetcode: 268. Missing Number">
-      <option name="closed" value="true" />
-      <created>1719034860208</created>
-      <option name="number" value="00077" />
-      <option name="presentableId" value="LOCAL-00077" />
-      <option name="project" value="LOCAL" />
-      <updated>1719034860208</updated>
+      <workItem from="1721974190872" duration="1102000" />
+      <workItem from="1722062392114" duration="334000" />
     </task>
     <task id="LOCAL-00078" summary="Leetcode: 66. Plus One">
       <option name="closed" value="true" />
@@ -582,7 +575,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721974304367</updated>
     </task>
-    <option name="localTasksCounter" value="126" />
+    <task id="LOCAL-00126" summary="Leetcode: 1380. Lucky Numbers in a Matrix">
+      <option name="closed" value="true" />
+      <created>1721975240211</created>
+      <option name="number" value="00126" />
+      <option name="presentableId" value="LOCAL-00126" />
+      <option name="project" value="LOCAL" />
+      <updated>1721975240211</updated>
+    </task>
+    <option name="localTasksCounter" value="127" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -620,7 +621,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 144. Binary Tree Preorder Traversal" />
     <MESSAGE value="Leetcode: 145. Binary Tree Postorder Traversal" />
     <MESSAGE value="Leetcode: 222. Count Complete Tree Nodes" />
     <MESSAGE value="Leetcode: 2582. Pass the Pillow" />
@@ -645,6 +645,7 @@
     <MESSAGE value="Leetcode: 37. Sudoku Solver" />
     <MESSAGE value="Leetcode: 2191. Sort the Jumbled Numbers" />
     <MESSAGE value="Leetcode: 108. Convert Sorted Array to Binary Search Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 108. Convert Sorted Array to Binary Search Tree" />
+    <MESSAGE value="Leetcode: 1380. Lucky Numbers in a Matrix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1380. Lucky Numbers in a Matrix" />
   </component>
 </project>
