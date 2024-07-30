@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 101. Symmetric Tree">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode160.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 160. Intersection of Two Linked Lists">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode171.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -191,15 +191,8 @@
       <workItem from="1721974190872" duration="1102000" />
       <workItem from="1722062392114" duration="689000" />
       <workItem from="1722077670885" duration="26000" />
-      <workItem from="1722182855486" duration="780000" />
-    </task>
-    <task id="LOCAL-00079" summary="Leetcode: 70. Climbing Stairs">
-      <option name="closed" value="true" />
-      <created>1719129351327</created>
-      <option name="number" value="00079" />
-      <option name="presentableId" value="LOCAL-00079" />
-      <option name="project" value="LOCAL" />
-      <updated>1719129351327</updated>
+      <workItem from="1722182855486" duration="846000" />
+      <workItem from="1722308646380" duration="301000" />
     </task>
     <task id="LOCAL-00080" summary="Leetcode: 136. Single Number">
       <option name="closed" value="true" />
@@ -585,7 +578,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722062808463</updated>
     </task>
-    <option name="localTasksCounter" value="128" />
+    <task id="LOCAL-00128" summary="Leetcode: 160. Intersection of Two Linked Lists">
+      <option name="closed" value="true" />
+      <created>1722183648019</created>
+      <option name="number" value="00128" />
+      <option name="presentableId" value="LOCAL-00128" />
+      <option name="project" value="LOCAL" />
+      <updated>1722183648019</updated>
+    </task>
+    <option name="localTasksCounter" value="129" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -623,7 +624,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 222. Count Complete Tree Nodes" />
     <MESSAGE value="Leetcode: 2582. Pass the Pillow" />
     <MESSAGE value="Leetcode: 104. Maximum Depth of Binary Tree" />
     <MESSAGE value="Leetcode: 111. Minimum Depth of Binary Tree" />
@@ -648,6 +648,7 @@
     <MESSAGE value="Leetcode: 108. Convert Sorted Array to Binary Search Tree" />
     <MESSAGE value="Leetcode: 1380. Lucky Numbers in a Matrix" />
     <MESSAGE value="Leetcode: 101. Symmetric Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 101. Symmetric Tree" />
+    <MESSAGE value="Leetcode: 160. Intersection of Two Linked Lists" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 160. Intersection of Two Linked Lists" />
   </component>
 </project>
