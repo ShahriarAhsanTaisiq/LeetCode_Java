@@ -10,7 +10,7 @@ The judge will test your solution with the following code:
 int[] nums = [...]; // Input array
 int val = ...; // Value to remove
 int[] expectedNums = [...]; // The expected answer with correct length.
-                            // It is sorted with no values equaling val.
+*  // It is sorted with no values equaling val.
 int k = removeElement(nums, val); // Calls your implementation
 assert k == expectedNums.length;
 sort(nums, 0, k); // Sort the first k elements of nums
@@ -35,15 +35,16 @@ Constraints:
 0 <= val <= 100
 * */
 class RemoveElements{
+    // Two pointer approach.
     int removeElement(int [] nums, int val){
-        int l = 0;
-        for(int r = 0; r < nums.length; r++){
-            if(nums[r] != val){
-                nums[l] = nums[r];
-                l++;
+        int left = 0;
+        for(int right = 0; right < nums.length; right++){
+            if(nums[right] != val){
+                nums[left] = nums[right];
+                left++;
             }
         }
-        return l;
+        return left;
     }
 }
 public class LeetCode27 {

@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 171. Excel Sheet Column Number">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1653.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1653. Minimum Deletions to Make String Balanced">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -192,15 +191,8 @@
       <workItem from="1722062392114" duration="689000" />
       <workItem from="1722077670885" duration="26000" />
       <workItem from="1722182855486" duration="846000" />
-      <workItem from="1722308646380" duration="1530000" />
-    </task>
-    <task id="LOCAL-00081" summary="Leetcode: 326. Power of Three">
-      <option name="closed" value="true" />
-      <created>1719326513416</created>
-      <option name="number" value="00081" />
-      <option name="presentableId" value="LOCAL-00081" />
-      <option name="project" value="LOCAL" />
-      <updated>1719326513416</updated>
+      <workItem from="1722308646380" duration="2161000" />
+      <workItem from="1722331918265" duration="26000" />
     </task>
     <task id="LOCAL-00082" summary="Leetcode: 326. Power of Three">
       <option name="closed" value="true" />
@@ -586,7 +578,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722308980085</updated>
     </task>
-    <option name="localTasksCounter" value="130" />
+    <task id="LOCAL-00130" summary="Leetcode: 1653. Minimum Deletions to Make String Balanced">
+      <option name="closed" value="true" />
+      <created>1722331002439</created>
+      <option name="number" value="00130" />
+      <option name="presentableId" value="LOCAL-00130" />
+      <option name="project" value="LOCAL" />
+      <updated>1722331002439</updated>
+    </task>
+    <option name="localTasksCounter" value="131" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -624,7 +624,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 104. Maximum Depth of Binary Tree" />
     <MESSAGE value="Leetcode: 111. Minimum Depth of Binary Tree" />
     <MESSAGE value="Moved to Binary Tree Package." />
     <MESSAGE value="Leetcode: 543. Diameter of Binary Tree" />
@@ -649,6 +648,7 @@
     <MESSAGE value="Leetcode: 101. Symmetric Tree" />
     <MESSAGE value="Leetcode: 160. Intersection of Two Linked Lists" />
     <MESSAGE value="Leetcode: 171. Excel Sheet Column Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 171. Excel Sheet Column Number" />
+    <MESSAGE value="Leetcode: 1653. Minimum Deletions to Make String Balanced" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1653. Minimum Deletions to Make String Balanced" />
   </component>
 </project>
