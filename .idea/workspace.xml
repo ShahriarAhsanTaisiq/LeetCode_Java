@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 27. Remove Element">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode2678.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2678. Number of Senior Citizens">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode80.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -195,15 +195,8 @@
       <workItem from="1722308646380" duration="2161000" />
       <workItem from="1722331918265" duration="26000" />
       <workItem from="1722446519449" duration="332000" />
-      <workItem from="1722509023778" duration="1008000" />
-    </task>
-    <task id="LOCAL-00083" summary="Leetcode: 121. Best Time to Buy and Sell Stock">
-      <option name="closed" value="true" />
-      <created>1719380684066</created>
-      <option name="number" value="00083" />
-      <option name="presentableId" value="LOCAL-00083" />
-      <option name="project" value="LOCAL" />
-      <updated>1719380684066</updated>
+      <workItem from="1722509023778" duration="1261000" />
+      <workItem from="1722589481035" duration="295000" />
     </task>
     <task id="LOCAL-00084" summary="Leetcode: 412. Fizz Buzz">
       <option name="closed" value="true" />
@@ -589,7 +582,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722446631197</updated>
     </task>
-    <option name="localTasksCounter" value="132" />
+    <task id="LOCAL-00132" summary="Leetcode: 2678. Number of Senior Citizens">
+      <option name="closed" value="true" />
+      <created>1722510095527</created>
+      <option name="number" value="00132" />
+      <option name="presentableId" value="LOCAL-00132" />
+      <option name="project" value="LOCAL" />
+      <updated>1722510095527</updated>
+    </task>
+    <option name="localTasksCounter" value="133" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -627,7 +628,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Moved to Binary Tree Package." />
     <MESSAGE value="Leetcode: 543. Diameter of Binary Tree" />
     <MESSAGE value="Leetcode: 1518. Water Bottles" />
     <MESSAGE value="Leetcode: 572. Subtree of Another Tree" />
@@ -652,6 +652,7 @@
     <MESSAGE value="Leetcode: 171. Excel Sheet Column Number" />
     <MESSAGE value="Leetcode: 1653. Minimum Deletions to Make String Balanced" />
     <MESSAGE value="Leetcode: 27. Remove Element" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 27. Remove Element" />
+    <MESSAGE value="Leetcode: 2678. Number of Senior Citizens" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2678. Number of Senior Citizens" />
   </component>
 </project>
