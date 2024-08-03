@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 80. Remove Duplicates from Sorted Array II">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1460.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1460. Make Two Arrays Equal by Reversing Subarrays">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode189.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -197,15 +197,8 @@
       <workItem from="1722446519449" duration="332000" />
       <workItem from="1722509023778" duration="1261000" />
       <workItem from="1722589481035" duration="343000" />
-      <workItem from="1722667882770" duration="756000" />
-    </task>
-    <task id="LOCAL-00085" summary="Leetcode: 1791. Find Center of Star Graph">
-      <option name="closed" value="true" />
-      <created>1719470963130</created>
-      <option name="number" value="00085" />
-      <option name="presentableId" value="LOCAL-00085" />
-      <option name="project" value="LOCAL" />
-      <updated>1719470963131</updated>
+      <workItem from="1722667882770" duration="1224000" />
+      <workItem from="1722700446953" duration="349000" />
     </task>
     <task id="LOCAL-00086" summary="Leetcode: 19. Remove Nth Node From End of List">
       <option name="closed" value="true" />
@@ -591,7 +584,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722589791089</updated>
     </task>
-    <option name="localTasksCounter" value="134" />
+    <task id="LOCAL-00134" summary="Leetcode: 1460. Make Two Arrays Equal by Reversing Subarrays">
+      <option name="closed" value="true" />
+      <created>1722668812589</created>
+      <option name="number" value="00134" />
+      <option name="presentableId" value="LOCAL-00134" />
+      <option name="project" value="LOCAL" />
+      <updated>1722668812590</updated>
+    </task>
+    <option name="localTasksCounter" value="135" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -629,7 +630,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1518. Water Bottles" />
     <MESSAGE value="Leetcode: 572. Subtree of Another Tree" />
     <MESSAGE value="Leetcode: 1823. Find the Winner of the Circular Game" />
     <MESSAGE value="Leetcode: 1701. Average Waiting Time" />
@@ -654,6 +654,7 @@
     <MESSAGE value="Leetcode: 27. Remove Element" />
     <MESSAGE value="Leetcode: 2678. Number of Senior Citizens" />
     <MESSAGE value="Leetcode: 80. Remove Duplicates from Sorted Array II" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 80. Remove Duplicates from Sorted Array II" />
+    <MESSAGE value="Leetcode: 1460. Make Two Arrays Equal by Reversing Subarrays" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1460. Make Two Arrays Equal by Reversing Subarrays" />
   </component>
 </project>
