@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1508. Range Sum of Sorted Subarray Sums">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode122.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 122. Best Time to Buy and Sell Stock II">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode55.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -200,15 +200,8 @@
       <workItem from="1722667882770" duration="1224000" />
       <workItem from="1722700446953" duration="1117000" />
       <workItem from="1722760423638" duration="1072000" />
-      <workItem from="1722878799206" duration="308000" />
-    </task>
-    <task id="LOCAL-00088" summary="Leetcode: 234. Palindrome Linked List">
-      <option name="closed" value="true" />
-      <created>1719588478511</created>
-      <option name="number" value="00088" />
-      <option name="presentableId" value="LOCAL-00088" />
-      <option name="project" value="LOCAL" />
-      <updated>1719588478511</updated>
+      <workItem from="1722878799206" duration="341000" />
+      <workItem from="1722938979329" duration="296000" />
     </task>
     <task id="LOCAL-00089" summary="Leetcode: 141. Linked List Cycle">
       <option name="closed" value="true" />
@@ -594,7 +587,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722760886817</updated>
     </task>
-    <option name="localTasksCounter" value="137" />
+    <task id="LOCAL-00137" summary="Leetcode: 122. Best Time to Buy and Sell Stock II">
+      <option name="closed" value="true" />
+      <created>1722879123834</created>
+      <option name="number" value="00137" />
+      <option name="presentableId" value="LOCAL-00137" />
+      <option name="project" value="LOCAL" />
+      <updated>1722879123834</updated>
+    </task>
+    <option name="localTasksCounter" value="138" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -632,7 +633,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1701. Average Waiting Time" />
     <MESSAGE value="Leetcode: 1598. Crawler Log Folder" />
     <MESSAGE value="Leetcode: 700. Search in a Binary Search Tree" />
     <MESSAGE value="Leetcode: 98. Validate Binary Search Tree" />
@@ -657,6 +657,7 @@
     <MESSAGE value="Leetcode: 1460. Make Two Arrays Equal by Reversing Subarrays" />
     <MESSAGE value="Leetcode: 189. Rotate Array" />
     <MESSAGE value="Leetcode: 1508. Range Sum of Sorted Subarray Sums" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1508. Range Sum of Sorted Subarray Sums" />
+    <MESSAGE value="Leetcode: 122. Best Time to Buy and Sell Stock II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 122. Best Time to Buy and Sell Stock II" />
   </component>
 </project>
