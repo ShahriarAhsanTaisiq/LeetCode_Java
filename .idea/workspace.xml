@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 122. Best Time to Buy and Sell Stock II">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode55.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: /*55. Jump Game" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -201,23 +198,7 @@
       <workItem from="1722700446953" duration="1117000" />
       <workItem from="1722760423638" duration="1072000" />
       <workItem from="1722878799206" duration="341000" />
-      <workItem from="1722938979329" duration="296000" />
-    </task>
-    <task id="LOCAL-00089" summary="Leetcode: 141. Linked List Cycle">
-      <option name="closed" value="true" />
-      <created>1719644193357</created>
-      <option name="number" value="00089" />
-      <option name="presentableId" value="LOCAL-00089" />
-      <option name="project" value="LOCAL" />
-      <updated>1719644193358</updated>
-    </task>
-    <task id="LOCAL-00090" summary="Leetcode: 75. Sort Colors">
-      <option name="closed" value="true" />
-      <created>1719751911934</created>
-      <option name="number" value="00090" />
-      <option name="presentableId" value="LOCAL-00090" />
-      <option name="project" value="LOCAL" />
-      <updated>1719751911934</updated>
+      <workItem from="1722938979329" duration="418000" />
     </task>
     <task id="LOCAL-00091" summary="Leetcode: 1550. Three Consecutive Odds">
       <option name="closed" value="true" />
@@ -595,7 +576,23 @@
       <option name="project" value="LOCAL" />
       <updated>1722879123834</updated>
     </task>
-    <option name="localTasksCounter" value="138" />
+    <task id="LOCAL-00138" summary="Leetcode: /*55. Jump Game">
+      <option name="closed" value="true" />
+      <created>1722939372044</created>
+      <option name="number" value="00138" />
+      <option name="presentableId" value="LOCAL-00138" />
+      <option name="project" value="LOCAL" />
+      <updated>1722939372044</updated>
+    </task>
+    <task id="LOCAL-00139" summary="Leetcode: /*55. Jump Game">
+      <option name="closed" value="true" />
+      <created>1722939380358</created>
+      <option name="number" value="00139" />
+      <option name="presentableId" value="LOCAL-00139" />
+      <option name="project" value="LOCAL" />
+      <updated>1722939380358</updated>
+    </task>
+    <option name="localTasksCounter" value="140" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -633,7 +630,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1598. Crawler Log Folder" />
     <MESSAGE value="Leetcode: 700. Search in a Binary Search Tree" />
     <MESSAGE value="Leetcode: 98. Validate Binary Search Tree" />
     <MESSAGE value="Leetcode: 1190. Reverse Substrings Between Each Pair of Parentheses" />
@@ -658,6 +654,7 @@
     <MESSAGE value="Leetcode: 189. Rotate Array" />
     <MESSAGE value="Leetcode: 1508. Range Sum of Sorted Subarray Sums" />
     <MESSAGE value="Leetcode: 122. Best Time to Buy and Sell Stock II" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 122. Best Time to Buy and Sell Stock II" />
+    <MESSAGE value="Leetcode: /*55. Jump Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: /*55. Jump Game" />
   </component>
 </project>
