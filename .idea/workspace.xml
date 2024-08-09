@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 274. H-Index">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode238.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 238. Product of Array Except Self">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -203,15 +202,7 @@
       <workItem from="1722878799206" duration="341000" />
       <workItem from="1722938979329" duration="418000" />
       <workItem from="1723015932200" duration="276000" />
-      <workItem from="1723103637843" duration="938000" />
-    </task>
-    <task id="LOCAL-00093" summary="Leetcode: 7. Reverse Integer">
-      <option name="closed" value="true" />
-      <created>1719924165613</created>
-      <option name="number" value="00093" />
-      <option name="presentableId" value="LOCAL-00093" />
-      <option name="project" value="LOCAL" />
-      <updated>1719924165614</updated>
+      <workItem from="1723103637843" duration="1670000" />
     </task>
     <task id="LOCAL-00094" summary="Leetcode: 1509. Minimum Difference Between Largest and Smallest Value in Three Moves">
       <option name="closed" value="true" />
@@ -597,7 +588,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723103945848</updated>
     </task>
-    <option name="localTasksCounter" value="142" />
+    <task id="LOCAL-00142" summary="Leetcode: 238. Product of Array Except Self">
+      <option name="closed" value="true" />
+      <created>1723104707243</created>
+      <option name="number" value="00142" />
+      <option name="presentableId" value="LOCAL-00142" />
+      <option name="project" value="LOCAL" />
+      <updated>1723104707243</updated>
+    </task>
+    <option name="localTasksCounter" value="143" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -635,7 +634,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1190. Reverse Substrings Between Each Pair of Parentheses" />
     <MESSAGE value="Leetcode: 701. Insert into a Binary Search Tree" />
     <MESSAGE value="Leetcode: 450. Delete Node in a BST" />
     <MESSAGE value="Leetcode: 21. Merge Two Sorted Lists" />
@@ -660,6 +658,7 @@
     <MESSAGE value="Leetcode: /*55. Jump Game" />
     <MESSAGE value="Leetcode: 45. Jump Game II" />
     <MESSAGE value="Leetcode: 274. H-Index" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 274. H-Index" />
+    <MESSAGE value="Leetcode: 238. Product of Array Except Self" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 238. Product of Array Except Self" />
   </component>
 </project>
