@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 134. Gas Station">
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 380. Insert Delete GetRandom O(1)">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -205,14 +205,7 @@
       <workItem from="1723103637843" duration="1670000" />
       <workItem from="1723225542069" duration="49000" />
       <workItem from="1723304975121" duration="654000" />
-    </task>
-    <task id="LOCAL-00096" summary="Leetcode: 94. Binary Tree Inorder Traversal">
-      <option name="closed" value="true" />
-      <created>1720099476004</created>
-      <option name="number" value="00096" />
-      <option name="presentableId" value="LOCAL-00096" />
-      <option name="project" value="LOCAL" />
-      <updated>1720099476004</updated>
+      <workItem from="1723388134420" duration="736000" />
     </task>
     <task id="LOCAL-00097" summary="Leetcode: 94. Binary Tree Inorder Traversal">
       <option name="closed" value="true" />
@@ -598,7 +591,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723305219756</updated>
     </task>
-    <option name="localTasksCounter" value="145" />
+    <task id="LOCAL-00145" summary="Leetcode: 380. Insert Delete GetRandom O(1)">
+      <option name="closed" value="true" />
+      <created>1723388377051</created>
+      <option name="number" value="00145" />
+      <option name="presentableId" value="LOCAL-00145" />
+      <option name="project" value="LOCAL" />
+      <updated>1723388377051</updated>
+    </task>
+    <option name="localTasksCounter" value="146" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -636,7 +637,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 450. Delete Node in a BST" />
     <MESSAGE value="Leetcode: 21. Merge Two Sorted Lists" />
     <MESSAGE value="Leetcode: 102. Binary Tree Level Order Traversal" />
     <MESSAGE value="Leetcode: 1110. Delete Nodes And Return Forest" />
@@ -661,6 +661,7 @@
     <MESSAGE value="Leetcode: 274. H-Index" />
     <MESSAGE value="Leetcode: 238. Product of Array Except Self" />
     <MESSAGE value="Leetcode: 134. Gas Station" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 134. Gas Station" />
+    <MESSAGE value="Leetcode: 380. Insert Delete GetRandom O(1)" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 380. Insert Delete GetRandom O(1)" />
   </component>
 </project>
