@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 238. Product of Array Except Self" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 134. Gas Station">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -202,14 +204,7 @@
       <workItem from="1723015932200" duration="276000" />
       <workItem from="1723103637843" duration="1670000" />
       <workItem from="1723225542069" duration="49000" />
-    </task>
-    <task id="LOCAL-00095" summary="Leetcode: 2181. Merge Nodes in Between Zeros">
-      <option name="closed" value="true" />
-      <created>1720069552168</created>
-      <option name="number" value="00095" />
-      <option name="presentableId" value="LOCAL-00095" />
-      <option name="project" value="LOCAL" />
-      <updated>1720069552169</updated>
+      <workItem from="1723304975121" duration="654000" />
     </task>
     <task id="LOCAL-00096" summary="Leetcode: 94. Binary Tree Inorder Traversal">
       <option name="closed" value="true" />
@@ -595,7 +590,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723225575854</updated>
     </task>
-    <option name="localTasksCounter" value="144" />
+    <task id="LOCAL-00144" summary="Leetcode: 134. Gas Station">
+      <option name="closed" value="true" />
+      <created>1723305219755</created>
+      <option name="number" value="00144" />
+      <option name="presentableId" value="LOCAL-00144" />
+      <option name="project" value="LOCAL" />
+      <updated>1723305219756</updated>
+    </task>
+    <option name="localTasksCounter" value="145" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -633,7 +636,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 701. Insert into a Binary Search Tree" />
     <MESSAGE value="Leetcode: 450. Delete Node in a BST" />
     <MESSAGE value="Leetcode: 21. Merge Two Sorted Lists" />
     <MESSAGE value="Leetcode: 102. Binary Tree Level Order Traversal" />
@@ -658,6 +660,7 @@
     <MESSAGE value="Leetcode: 45. Jump Game II" />
     <MESSAGE value="Leetcode: 274. H-Index" />
     <MESSAGE value="Leetcode: 238. Product of Array Except Self" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 238. Product of Array Except Self" />
+    <MESSAGE value="Leetcode: 134. Gas Station" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 134. Gas Station" />
   </component>
 </project>
