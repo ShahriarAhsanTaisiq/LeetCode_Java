@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 151. Reverse Words in a String">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode860.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 860. Lemonade Change">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode29.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -210,15 +210,9 @@
       <workItem from="1723481153411" duration="200000" />
       <workItem from="1723564040642" duration="224000" />
       <workItem from="1723610409185" duration="2799000" />
-      <workItem from="1723690938762" duration="597000" />
-    </task>
-    <task id="LOCAL-00102" summary="Leetcode: 104. Maximum Depth of Binary Tree">
-      <option name="closed" value="true" />
-      <created>1720259956585</created>
-      <option name="number" value="00102" />
-      <option name="presentableId" value="LOCAL-00102" />
-      <option name="project" value="LOCAL" />
-      <updated>1720259956585</updated>
+      <workItem from="1723690938762" duration="1420000" />
+      <workItem from="1723692840153" duration="1561000" />
+      <workItem from="1723802076449" duration="582000" />
     </task>
     <task id="LOCAL-00103" summary="Leetcode: 111. Minimum Depth of Binary Tree">
       <option name="closed" value="true" />
@@ -604,7 +598,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723620434885</updated>
     </task>
-    <option name="localTasksCounter" value="151" />
+    <task id="LOCAL-00151" summary="Leetcode: 860. Lemonade Change">
+      <option name="closed" value="true" />
+      <created>1723691718320</created>
+      <option name="number" value="00151" />
+      <option name="presentableId" value="LOCAL-00151" />
+      <option name="project" value="LOCAL" />
+      <updated>1723691718321</updated>
+    </task>
+    <option name="localTasksCounter" value="152" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -625,14 +627,6 @@
                       </list>
                     </value>
                   </entry>
-                  <entry key="date">
-                    <value>
-                      <list>
-                        <option value="" />
-                        <option value="1721723758075" />
-                      </list>
-                    </value>
-                  </entry>
                 </map>
               </option>
             </State>
@@ -642,7 +636,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 2191. Sort the Jumbled Numbers" />
     <MESSAGE value="Leetcode: 108. Convert Sorted Array to Binary Search Tree" />
     <MESSAGE value="Leetcode: 1380. Lucky Numbers in a Matrix" />
     <MESSAGE value="Leetcode: 101. Symmetric Tree" />
@@ -667,6 +660,7 @@
     <MESSAGE value="Leetcode: 40. Combination Sum II" />
     <MESSAGE value="Leetcode: 12. Integer to Roman" />
     <MESSAGE value="Leetcode: 151. Reverse Words in a String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 151. Reverse Words in a String" />
+    <MESSAGE value="Leetcode: 860. Lemonade Change" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 860. Lemonade Change" />
   </component>
 </project>
