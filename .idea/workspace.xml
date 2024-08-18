@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 29. Divide Two Integers">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode167.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 167. Two Sum II - Input Array Is Sorted" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -213,15 +210,7 @@
       <workItem from="1723690938762" duration="1420000" />
       <workItem from="1723692840153" duration="1561000" />
       <workItem from="1723802076449" duration="1347000" />
-      <workItem from="1723889327364" duration="379000" />
-    </task>
-    <task id="LOCAL-00104" summary="Moved to Binary Tree Package.">
-      <option name="closed" value="true" />
-      <created>1720266781847</created>
-      <option name="number" value="00104" />
-      <option name="presentableId" value="LOCAL-00104" />
-      <option name="project" value="LOCAL" />
-      <updated>1720266781847</updated>
+      <workItem from="1723889327364" duration="753000" />
     </task>
     <task id="LOCAL-00105" summary="Leetcode: 543. Diameter of Binary Tree">
       <option name="closed" value="true" />
@@ -607,7 +596,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723802823475</updated>
     </task>
-    <option name="localTasksCounter" value="153" />
+    <task id="LOCAL-00153" summary="Leetcode: 167. Two Sum II - Input Array Is Sorted">
+      <option name="closed" value="true" />
+      <created>1723889765687</created>
+      <option name="number" value="00153" />
+      <option name="presentableId" value="LOCAL-00153" />
+      <option name="project" value="LOCAL" />
+      <updated>1723889765688</updated>
+    </task>
+    <option name="localTasksCounter" value="154" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -637,7 +634,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1380. Lucky Numbers in a Matrix" />
     <MESSAGE value="Leetcode: 101. Symmetric Tree" />
     <MESSAGE value="Leetcode: 160. Intersection of Two Linked Lists" />
     <MESSAGE value="Leetcode: 171. Excel Sheet Column Number" />
@@ -662,6 +658,7 @@
     <MESSAGE value="Leetcode: 151. Reverse Words in a String" />
     <MESSAGE value="Leetcode: 860. Lemonade Change" />
     <MESSAGE value="Leetcode: 29. Divide Two Integers" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 29. Divide Two Integers" />
+    <MESSAGE value="Leetcode: 167. Two Sum II - Input Array Is Sorted" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 167. Two Sum II - Input Array Is Sorted" />
   </component>
 </project>
