@@ -17,7 +17,6 @@ Output: 0
 Constraints:
 1 <= n <= 1000
 * */
-
 class KeysKeyboard{
     public int minStep(int n){
         if (n == 1){
@@ -40,19 +39,15 @@ public class LeetCode650 {
     public static void main(String[] args) {
         KeysKeyboard keyboard = new KeysKeyboard();
 
-        // Test case 1
         int n1 = 3;
         System.out.println("Minimum steps to get " + n1 + " 'A's: " + keyboard.minStep(n1)); // Output: 3
 
-        // Test case 2
         int n2 = 1;
         System.out.println("Minimum steps to get " + n2 + " 'A's: " + keyboard.minStep(n2)); // Output: 0
 
-        // Test case 3
         int n3 = 6;
         System.out.println("Minimum steps to get " + n3 + " 'A's: " + keyboard.minStep(n3)); // Output: 5
 
-        // Test case 4
         int n4 = 9;
         System.out.println("Minimum steps to get " + n4 + " 'A's: " + keyboard.minStep(n4)); // Output: 6
     }

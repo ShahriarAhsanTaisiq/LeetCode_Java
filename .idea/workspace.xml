@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 11. Container With Most Water">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode650.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 650. 2 Keys Keyboard" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -215,15 +212,7 @@
       <workItem from="1723802076449" duration="1347000" />
       <workItem from="1723889327364" duration="753000" />
       <workItem from="1723997144260" duration="902000" />
-      <workItem from="1724084741054" duration="321000" />
-    </task>
-    <task id="LOCAL-00106" summary="Leetcode: 1518. Water Bottles">
-      <option name="closed" value="true" />
-      <created>1720328551598</created>
-      <option name="number" value="00106" />
-      <option name="presentableId" value="LOCAL-00106" />
-      <option name="project" value="LOCAL" />
-      <updated>1720328551599</updated>
+      <workItem from="1724084741054" duration="996000" />
     </task>
     <task id="LOCAL-00107" summary="Leetcode: 572. Subtree of Another Tree">
       <option name="closed" value="true" />
@@ -609,7 +598,15 @@
       <option name="project" value="LOCAL" />
       <updated>1723997323505</updated>
     </task>
-    <option name="localTasksCounter" value="155" />
+    <task id="LOCAL-00155" summary="Leetcode: 650. 2 Keys Keyboard">
+      <option name="closed" value="true" />
+      <created>1724085126113</created>
+      <option name="number" value="00155" />
+      <option name="presentableId" value="LOCAL-00155" />
+      <option name="project" value="LOCAL" />
+      <updated>1724085126114</updated>
+    </task>
+    <option name="localTasksCounter" value="156" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -639,7 +636,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 160. Intersection of Two Linked Lists" />
     <MESSAGE value="Leetcode: 171. Excel Sheet Column Number" />
     <MESSAGE value="Leetcode: 1653. Minimum Deletions to Make String Balanced" />
     <MESSAGE value="Leetcode: 27. Remove Element" />
@@ -664,6 +660,7 @@
     <MESSAGE value="Leetcode: 29. Divide Two Integers" />
     <MESSAGE value="Leetcode: 167. Two Sum II - Input Array Is Sorted" />
     <MESSAGE value="Leetcode: 11. Container With Most Water" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 11. Container With Most Water" />
+    <MESSAGE value="Leetcode: 650. 2 Keys Keyboard" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 650. 2 Keys Keyboard" />
   </component>
 </project>
