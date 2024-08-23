@@ -27,12 +27,10 @@ public class LeetCode476 {
     public static void main(String[] args) {
         // Create an instance of NumComplement class
         NumComplement numComplement = new NumComplement();
-
         // Test case 1
         int num1 = 5;
         int result1 = numComplement.findComplement(num1);
         System.out.println("Input: " + num1 + " | Complement: " + result1); // Expected output: 2
-
         // Test case 2
         int num2 = 1;
         int result2 = numComplement.findComplement(num2);
