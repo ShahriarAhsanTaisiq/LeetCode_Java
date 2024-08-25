@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 476. Number Complement" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 476. Number Complement">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode83.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -61,8 +64,8 @@
 }</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
-      <recent name="RegularPractice.BinaryTree" />
       <recent name="RegularPractice" />
+      <recent name="RegularPractice.BinaryTree" />
     </key>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
@@ -216,14 +219,8 @@
       <workItem from="1724176383053" duration="57000" />
       <workItem from="1724257785738" duration="1041000" />
       <workItem from="1724315634838" duration="238000" />
-    </task>
-    <task id="LOCAL-00110" summary="Leetcode: 1598. Crawler Log Folder">
-      <option name="closed" value="true" />
-      <created>1720590953510</created>
-      <option name="number" value="00110" />
-      <option name="presentableId" value="LOCAL-00110" />
-      <option name="project" value="LOCAL" />
-      <updated>1720590953510</updated>
+      <workItem from="1724433184963" duration="922000" />
+      <workItem from="1724554872857" duration="711000" />
     </task>
     <task id="LOCAL-00111" summary="Leetcode: 700. Search in a Binary Search Tree">
       <option name="closed" value="true" />
@@ -609,7 +606,15 @@
       <option name="project" value="LOCAL" />
       <updated>1724315850748</updated>
     </task>
-    <option name="localTasksCounter" value="159" />
+    <task id="LOCAL-00159" summary="Leetcode: 476. Number Complement">
+      <option name="closed" value="true" />
+      <created>1724433368271</created>
+      <option name="number" value="00159" />
+      <option name="presentableId" value="LOCAL-00159" />
+      <option name="project" value="LOCAL" />
+      <updated>1724433368271</updated>
+    </task>
+    <option name="localTasksCounter" value="160" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
