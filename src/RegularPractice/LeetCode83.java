@@ -60,7 +60,6 @@ public class LeetCode83 {
 
         // Create an instance of the class
         RemoveDuplicatesFromSortList solution = new RemoveDuplicatesFromSortList();
-
         // Process the first example
         System.out.println("Before removing duplicates:");
         ListNode83.printList(head1);
