@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 476. Number Complement">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode83.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 83. Remove Duplicates from Sorted List">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode590.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -220,23 +220,9 @@
       <workItem from="1724257785738" duration="1041000" />
       <workItem from="1724315634838" duration="238000" />
       <workItem from="1724433184963" duration="922000" />
-      <workItem from="1724554872857" duration="711000" />
-    </task>
-    <task id="LOCAL-00111" summary="Leetcode: 700. Search in a Binary Search Tree">
-      <option name="closed" value="true" />
-      <created>1720596398783</created>
-      <option name="number" value="00111" />
-      <option name="presentableId" value="LOCAL-00111" />
-      <option name="project" value="LOCAL" />
-      <updated>1720596398784</updated>
-    </task>
-    <task id="LOCAL-00112" summary="Leetcode: 98. Validate Binary Search Tree">
-      <option name="closed" value="true" />
-      <created>1720598320334</created>
-      <option name="number" value="00112" />
-      <option name="presentableId" value="LOCAL-00112" />
-      <option name="project" value="LOCAL" />
-      <updated>1720598320334</updated>
+      <workItem from="1724554872857" duration="1341000" />
+      <workItem from="1724678326328" duration="547000" />
+      <workItem from="1724737050790" duration="312000" />
     </task>
     <task id="LOCAL-00113" summary="Leetcode: 1190. Reverse Substrings Between Each Pair of Parentheses">
       <option name="closed" value="true" />
@@ -614,7 +600,23 @@
       <option name="project" value="LOCAL" />
       <updated>1724433368271</updated>
     </task>
-    <option name="localTasksCounter" value="160" />
+    <task id="LOCAL-00160" summary="Leetcode: 83. Remove Duplicates from Sorted List">
+      <option name="closed" value="true" />
+      <created>1724555608095</created>
+      <option name="number" value="00160" />
+      <option name="presentableId" value="LOCAL-00160" />
+      <option name="project" value="LOCAL" />
+      <updated>1724555608095</updated>
+    </task>
+    <task id="LOCAL-00161" summary="Leetcode: 83. Remove Duplicates from Sorted List">
+      <option name="closed" value="true" />
+      <created>1724678869415</created>
+      <option name="number" value="00161" />
+      <option name="presentableId" value="LOCAL-00161" />
+      <option name="project" value="LOCAL" />
+      <updated>1724678869416</updated>
+    </task>
+    <option name="localTasksCounter" value="162" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -644,7 +646,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 27. Remove Element" />
     <MESSAGE value="Leetcode: 2678. Number of Senior Citizens" />
     <MESSAGE value="Leetcode: 80. Remove Duplicates from Sorted Array II" />
     <MESSAGE value="Leetcode: 1460. Make Two Arrays Equal by Reversing Subarrays" />
@@ -669,6 +670,7 @@
     <MESSAGE value="Leetcode: 650. 2 Keys Keyboard" />
     <MESSAGE value="Leetcode: 209. Minimum Size Subarray Sum" />
     <MESSAGE value="Leetcode: 476. Number Complement" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 476. Number Complement" />
+    <MESSAGE value="Leetcode: 83. Remove Duplicates from Sorted List" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 83. Remove Duplicates from Sorted List" />
   </component>
 </project>
