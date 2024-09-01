@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 206. Reverse Linked List" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 283. Move Zeroes">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -223,14 +225,7 @@
       <workItem from="1724862733611" duration="410000" />
       <workItem from="1724906213415" duration="1326000" />
       <workItem from="1725017811406" duration="1395000" />
-    </task>
-    <task id="LOCAL-00118" summary="Leetcode: 102. Binary Tree Level Order Traversal">
-      <option name="closed" value="true" />
-      <created>1721192173588</created>
-      <option name="number" value="00118" />
-      <option name="presentableId" value="LOCAL-00118" />
-      <option name="project" value="LOCAL" />
-      <updated>1721192173589</updated>
+      <workItem from="1725086899196" duration="912000" />
     </task>
     <task id="LOCAL-00119" summary="Leetcode: 1110. Delete Nodes And Return Forest">
       <option name="closed" value="true" />
@@ -616,7 +611,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725018496486</updated>
     </task>
-    <option name="localTasksCounter" value="167" />
+    <task id="LOCAL-00167" summary="Leetcode: 283. Move Zeroes">
+      <option name="closed" value="true" />
+      <created>1725087197763</created>
+      <option name="number" value="00167" />
+      <option name="presentableId" value="LOCAL-00167" />
+      <option name="project" value="LOCAL" />
+      <updated>1725087197763</updated>
+    </task>
+    <option name="localTasksCounter" value="168" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -646,7 +649,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1508. Range Sum of Sorted Subarray Sums" />
     <MESSAGE value="Leetcode: 122. Best Time to Buy and Sell Stock II" />
     <MESSAGE value="Leetcode: /*55. Jump Game" />
     <MESSAGE value="Leetcode: 45. Jump Game II" />
@@ -671,6 +673,7 @@
     <MESSAGE value="Leetcode: 190. Reverse Bits" />
     <MESSAGE value="Leetcode: 191. Number of 1 Bits" />
     <MESSAGE value="Leetcode: 206. Reverse Linked List" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 206. Reverse Linked List" />
+    <MESSAGE value="Leetcode: 283. Move Zeroes" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 283. Move Zeroes" />
   </component>
 </project>

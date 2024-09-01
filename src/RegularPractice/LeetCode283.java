@@ -47,20 +47,5 @@ public class LeetCode283 {
         mz.moveZeroes(nums2);
         System.out.println("After moving zeroes: " + Arrays.toString(nums2));
 
-        // Additional test cases
-        int[] nums3 = {1, 2, 3, 0, 0};
-        System.out.println("Original array: " + Arrays.toString(nums3));
-        mz.moveZeroes(nums3);
-        System.out.println("After moving zeroes: " + Arrays.toString(nums3));
-
-        int[] nums4 = {0, 0, 0, 0, 1};
-        System.out.println("Original array: " + Arrays.toString(nums4));
-        mz.moveZeroes(nums4);
-        System.out.println("After moving zeroes: " + Arrays.toString(nums4));
-
-        int[] nums5 = {4, 2, 4, 0, 0, 3, 0, 5, 1, 0};
-        System.out.println("Original array: " + Arrays.toString(nums5));
-        mz.moveZeroes(nums5);
-        System.out.println("After moving zeroes: " + Arrays.toString(nums5));
     }
 }
