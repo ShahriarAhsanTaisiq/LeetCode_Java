@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 283. Move Zeroes">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode2022.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -226,14 +227,8 @@
       <workItem from="1724906213415" duration="1326000" />
       <workItem from="1725017811406" duration="1395000" />
       <workItem from="1725086899196" duration="912000" />
-    </task>
-    <task id="LOCAL-00119" summary="Leetcode: 1110. Delete Nodes And Return Forest">
-      <option name="closed" value="true" />
-      <created>1721228833486</created>
-      <option name="number" value="00119" />
-      <option name="presentableId" value="LOCAL-00119" />
-      <option name="project" value="LOCAL" />
-      <updated>1721228833487</updated>
+      <workItem from="1725208880853" duration="377000" />
+      <workItem from="1725292871783" duration="427000" />
     </task>
     <task id="LOCAL-00120" summary="Leetcode: 1110. Delete Nodes And Return Forest">
       <option name="closed" value="true" />
@@ -619,7 +614,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725087197763</updated>
     </task>
-    <option name="localTasksCounter" value="168" />
+    <task id="LOCAL-00168" summary="Leetcode: 283. Move Zeroes">
+      <option name="closed" value="true" />
+      <created>1725208926573</created>
+      <option name="number" value="00168" />
+      <option name="presentableId" value="LOCAL-00168" />
+      <option name="project" value="LOCAL" />
+      <updated>1725208926573</updated>
+    </task>
+    <option name="localTasksCounter" value="169" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
