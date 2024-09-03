@@ -25,9 +25,7 @@ Constraints:
 1 <= original[i] <= 105
 1 <= m, n <= 4 * 104
 * */
-
 import java.util.Arrays;
-
 class Convert1DTo2DArray{
    public int[][] construct2DArray( int [] original, int m, int n){
        if (m * n != original.length){
