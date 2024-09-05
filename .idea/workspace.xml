@@ -227,14 +227,7 @@
       <workItem from="1725208880853" duration="377000" />
       <workItem from="1725292871783" duration="1135000" />
       <workItem from="1725381377129" duration="62000" />
-    </task>
-    <task id="LOCAL-00122" summary="Leetcode: 37. Sudoku Solver">
-      <option name="closed" value="true" />
-      <created>1721842262085</created>
-      <option name="number" value="00122" />
-      <option name="presentableId" value="LOCAL-00122" />
-      <option name="project" value="LOCAL" />
-      <updated>1721842262085</updated>
+      <workItem from="1725471744487" duration="42000" />
     </task>
     <task id="LOCAL-00123" summary="Leetcode: 2191. Sort the Jumbled Numbers">
       <option name="closed" value="true" />
@@ -620,7 +613,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725381394300</updated>
     </task>
-    <option name="localTasksCounter" value="171" />
+    <task id="LOCAL-00171" summary="Leetcode: 2022. Convert 1D Array Into 2D Array">
+      <option name="closed" value="true" />
+      <created>1725471770762</created>
+      <option name="number" value="00171" />
+      <option name="presentableId" value="LOCAL-00171" />
+      <option name="project" value="LOCAL" />
+      <updated>1725471770763</updated>
+    </task>
+    <option name="localTasksCounter" value="172" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
