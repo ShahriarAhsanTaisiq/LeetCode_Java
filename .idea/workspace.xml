@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2028. Find Missing Observations">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode219.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 219. Contains Duplicate II">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1367.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -232,15 +232,8 @@
       <workItem from="1725381377129" duration="62000" />
       <workItem from="1725471744487" duration="42000" />
       <workItem from="1725557738919" duration="307000" />
-      <workItem from="1725619609605" duration="326000" />
-    </task>
-    <task id="LOCAL-00124" summary="Leetcode: 108. Convert Sorted Array to Binary Search Tree">
-      <option name="closed" value="true" />
-      <created>1721924943807</created>
-      <option name="number" value="00124" />
-      <option name="presentableId" value="LOCAL-00124" />
-      <option name="project" value="LOCAL" />
-      <updated>1721924943807</updated>
+      <workItem from="1725619609605" duration="940000" />
+      <workItem from="1725730363810" duration="867000" />
     </task>
     <task id="LOCAL-00125" summary="Leetcode: 108. Convert Sorted Array to Binary Search Tree">
       <option name="closed" value="true" />
@@ -626,7 +619,15 @@
       <option name="project" value="LOCAL" />
       <updated>1725557991043</updated>
     </task>
-    <option name="localTasksCounter" value="173" />
+    <task id="LOCAL-00173" summary="Leetcode: 219. Contains Duplicate II">
+      <option name="closed" value="true" />
+      <created>1725619949599</created>
+      <option name="number" value="00173" />
+      <option name="presentableId" value="LOCAL-00173" />
+      <option name="project" value="LOCAL" />
+      <updated>1725619949600</updated>
+    </task>
+    <option name="localTasksCounter" value="174" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -656,7 +657,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 45. Jump Game II" />
     <MESSAGE value="Leetcode: 274. H-Index" />
     <MESSAGE value="Leetcode: 238. Product of Array Except Self" />
     <MESSAGE value="Leetcode: 134. Gas Station" />
@@ -681,6 +681,7 @@
     <MESSAGE value="Leetcode: 283. Move Zeroes" />
     <MESSAGE value="Leetcode: 2022. Convert 1D Array Into 2D Array" />
     <MESSAGE value="Leetcode: 2028. Find Missing Observations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2028. Find Missing Observations" />
+    <MESSAGE value="Leetcode: 219. Contains Duplicate II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 219. Contains Duplicate II" />
   </component>
 </project>
