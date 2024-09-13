@@ -21,7 +21,6 @@ Constraints:
 The characters in allowed are distinct.
 words[i] and allowed contain only lowercase English letters.
 * */
-
 class NumOfConsistentString{
     public int countConsistentStrings(String allowed, String [] words){
         boolean [] freq = new boolean[26];

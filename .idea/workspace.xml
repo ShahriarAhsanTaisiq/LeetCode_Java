@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2220. Minimum Bit Flips to Convert Number">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1684.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1684. Count the Number of Consistent Strings" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -237,15 +234,7 @@
       <workItem from="1725815718849" duration="463000" />
       <workItem from="1725855767932" duration="881000" />
       <workItem from="1726061993423" duration="921000" />
-      <workItem from="1726118453309" duration="326000" />
-    </task>
-    <task id="LOCAL-00129" summary="Leetcode: 171. Excel Sheet Column Number">
-      <option name="closed" value="true" />
-      <created>1722308980084</created>
-      <option name="number" value="00129" />
-      <option name="presentableId" value="LOCAL-00129" />
-      <option name="project" value="LOCAL" />
-      <updated>1722308980085</updated>
+      <workItem from="1726118453309" duration="1057000" />
     </task>
     <task id="LOCAL-00130" summary="Leetcode: 1653. Minimum Deletions to Make String Balanced">
       <option name="closed" value="true" />
@@ -631,7 +620,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726062308104</updated>
     </task>
-    <option name="localTasksCounter" value="178" />
+    <task id="LOCAL-00178" summary="Leetcode: 1684. Count the Number of Consistent Strings">
+      <option name="closed" value="true" />
+      <created>1726118829219</created>
+      <option name="number" value="00178" />
+      <option name="presentableId" value="LOCAL-00178" />
+      <option name="project" value="LOCAL" />
+      <updated>1726118829219</updated>
+    </task>
+    <option name="localTasksCounter" value="179" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -661,7 +658,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 135. Candy" />
     <MESSAGE value="Leetcode: 703. Kth Largest Element in a Stream" />
     <MESSAGE value="Leetcode: 40. Combination Sum II" />
     <MESSAGE value="Leetcode: 12. Integer to Roman" />
@@ -686,6 +682,7 @@
     <MESSAGE value="Leetcode: 725. Split Linked List in Parts" />
     <MESSAGE value="Leetcode: 387. First Unique Character in a String" />
     <MESSAGE value="Leetcode: 2220. Minimum Bit Flips to Convert Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2220. Minimum Bit Flips to Convert Number" />
+    <MESSAGE value="Leetcode: 1684. Count the Number of Consistent Strings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1684. Count the Number of Consistent Strings" />
   </component>
 </project>
