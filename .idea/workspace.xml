@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1684. Count the Number of Consistent Strings" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1684. Count the Number of Consistent Strings">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -235,14 +237,7 @@
       <workItem from="1725855767932" duration="881000" />
       <workItem from="1726061993423" duration="921000" />
       <workItem from="1726118453309" duration="1057000" />
-    </task>
-    <task id="LOCAL-00130" summary="Leetcode: 1653. Minimum Deletions to Make String Balanced">
-      <option name="closed" value="true" />
-      <created>1722331002439</created>
-      <option name="number" value="00130" />
-      <option name="presentableId" value="LOCAL-00130" />
-      <option name="project" value="LOCAL" />
-      <updated>1722331002439</updated>
+      <workItem from="1726241655808" duration="671000" />
     </task>
     <task id="LOCAL-00131" summary="Leetcode: 27. Remove Element">
       <option name="closed" value="true" />
@@ -628,7 +623,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726118829219</updated>
     </task>
-    <option name="localTasksCounter" value="179" />
+    <task id="LOCAL-00179" summary="Leetcode: 1684. Count the Number of Consistent Strings">
+      <option name="closed" value="true" />
+      <created>1726241700152</created>
+      <option name="number" value="00179" />
+      <option name="presentableId" value="LOCAL-00179" />
+      <option name="project" value="LOCAL" />
+      <updated>1726241700153</updated>
+    </task>
+    <option name="localTasksCounter" value="180" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
