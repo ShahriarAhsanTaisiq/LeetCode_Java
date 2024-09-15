@@ -51,27 +51,21 @@ public class LeetCode2419 {
     public static void main(String[] args) {
         LongestSubarrayMaxBitwiseAnd solution = new LongestSubarrayMaxBitwiseAnd();
 
-        // Test case 1
         int[] nums1 = {1, 2, 3, 3, 2, 2};
         System.out.println("Test case 1: " + solution.longestSubarray(nums1)); // Expected output: 2
 
-        // Test case 2
         int[] nums2 = {1, 2, 3, 4};
         System.out.println("Test case 2: " + solution.longestSubarray(nums2)); // Expected output: 1
 
-        // Test case 3
         int[] nums3 = {4, 4, 4, 4, 4};
         System.out.println("Test case 3: " + solution.longestSubarray(nums3)); // Expected output: 5
 
-        // Test case 4
         int[] nums4 = {5, 5, 1, 5, 5, 5, 5};
         System.out.println("Test case 4: " + solution.longestSubarray(nums4)); // Expected output: 4
 
-        // Test case 5: Single element array
         int[] nums5 = {7};
         System.out.println("Test case 5: " + solution.longestSubarray(nums5)); // Expected output: 1
 
-        // Test case 6: Large array with alternating values
         int[] nums6 = {8, 6, 8, 6, 8, 6, 8, 8, 8, 6};
         System.out.println("Test case 6: " + solution.longestSubarray(nums6)); // Expected output: 3
     }
