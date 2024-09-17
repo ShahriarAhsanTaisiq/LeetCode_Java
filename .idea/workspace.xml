@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2419. Longest Subarray With Maximum Bitwise AND">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode539.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 539. Minimum Time Difference">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -241,15 +240,8 @@
       <workItem from="1726241655808" duration="671000" />
       <workItem from="1726322020273" duration="908000" />
       <workItem from="1726410579195" duration="87000" />
-      <workItem from="1726467817331" duration="500000" />
-    </task>
-    <task id="LOCAL-00133" summary="Leetcode: 80. Remove Duplicates from Sorted Array II">
-      <option name="closed" value="true" />
-      <created>1722589791088</created>
-      <option name="number" value="00133" />
-      <option name="presentableId" value="LOCAL-00133" />
-      <option name="project" value="LOCAL" />
-      <updated>1722589791089</updated>
+      <workItem from="1726467817331" duration="1472000" />
+      <workItem from="1726478307053" duration="832000" />
     </task>
     <task id="LOCAL-00134" summary="Leetcode: 1460. Make Two Arrays Equal by Reversing Subarrays">
       <option name="closed" value="true" />
@@ -635,7 +627,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726410605605</updated>
     </task>
-    <option name="localTasksCounter" value="182" />
+    <task id="LOCAL-00182" summary="Leetcode: 539. Minimum Time Difference">
+      <option name="closed" value="true" />
+      <created>1726468538993</created>
+      <option name="number" value="00182" />
+      <option name="presentableId" value="LOCAL-00182" />
+      <option name="project" value="LOCAL" />
+      <updated>1726468538993</updated>
+    </task>
+    <option name="localTasksCounter" value="183" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -665,7 +665,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 40. Combination Sum II" />
     <MESSAGE value="Leetcode: 12. Integer to Roman" />
     <MESSAGE value="Leetcode: 151. Reverse Words in a String" />
     <MESSAGE value="Leetcode: 860. Lemonade Change" />
@@ -690,6 +689,7 @@
     <MESSAGE value="Leetcode: 2220. Minimum Bit Flips to Convert Number" />
     <MESSAGE value="Leetcode: 1684. Count the Number of Consistent Strings" />
     <MESSAGE value="Leetcode: 2419. Longest Subarray With Maximum Bitwise AND" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2419. Longest Subarray With Maximum Bitwise AND" />
+    <MESSAGE value="Leetcode: 539. Minimum Time Difference" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 539. Minimum Time Difference" />
   </component>
 </project>

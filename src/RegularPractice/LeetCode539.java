@@ -12,9 +12,7 @@ Constraints:
 timePoints[i] is in the format "HH:MM".
 * */
 
-import java.util.Arrays;
-import java.util.List;
-
+import java.util.*;
 class MinTimeDiff{
     public int findMinDifference( List<String> timePoints){
         int [] minutes =  new int [timePoints.size()];
@@ -35,12 +33,10 @@ class MinTimeDiff{
 public class LeetCode539 {
     public static void main(String[] args) {
         MinTimeDiff minTimeDiff = new MinTimeDiff();
-
         // Test case 1
         List<String> timePoints1 = Arrays.asList("23:59", "00:00");
         int result1 = minTimeDiff.findMinDifference(timePoints1);
         System.out.println("Minimum difference for timePoints1: " + result1); // Expected output: 1
-
         // Test case 2
         List<String> timePoints2 = Arrays.asList("00:00", "23:59", "00:00");
         int result2 = minTimeDiff.findMinDifference(timePoints2);
