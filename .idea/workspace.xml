@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 539. Minimum Time Difference">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 539. Minimum Time Difference" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -243,14 +241,7 @@
       <workItem from="1726467817331" duration="1472000" />
       <workItem from="1726478307053" duration="832000" />
       <workItem from="1726580335773" duration="1252000" />
-    </task>
-    <task id="LOCAL-00135" summary="Leetcode: 189. Rotate Array">
-      <option name="closed" value="true" />
-      <created>1722700856582</created>
-      <option name="number" value="00135" />
-      <option name="presentableId" value="LOCAL-00135" />
-      <option name="project" value="LOCAL" />
-      <updated>1722700856583</updated>
+      <workItem from="1726673834613" duration="40000" />
     </task>
     <task id="LOCAL-00136" summary="Leetcode: 1508. Range Sum of Sorted Subarray Sums">
       <option name="closed" value="true" />
@@ -636,7 +627,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726580387341</updated>
     </task>
-    <option name="localTasksCounter" value="184" />
+    <task id="LOCAL-00184" summary="Leetcode: 539. Minimum Time Difference">
+      <option name="closed" value="true" />
+      <created>1726673861516</created>
+      <option name="number" value="00184" />
+      <option name="presentableId" value="LOCAL-00184" />
+      <option name="project" value="LOCAL" />
+      <updated>1726673861517</updated>
+    </task>
+    <option name="localTasksCounter" value="185" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
