@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 539. Minimum Time Difference" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 241. Different Ways to Add Parentheses">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode214.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -242,14 +245,8 @@
       <workItem from="1726478307053" duration="832000" />
       <workItem from="1726580335773" duration="1252000" />
       <workItem from="1726673834613" duration="40000" />
-    </task>
-    <task id="LOCAL-00136" summary="Leetcode: 1508. Range Sum of Sorted Subarray Sums">
-      <option name="closed" value="true" />
-      <created>1722760886817</created>
-      <option name="number" value="00136" />
-      <option name="presentableId" value="LOCAL-00136" />
-      <option name="project" value="LOCAL" />
-      <updated>1722760886817</updated>
+      <workItem from="1726764439949" duration="246000" />
+      <workItem from="1726840649378" duration="332000" />
     </task>
     <task id="LOCAL-00137" summary="Leetcode: 122. Best Time to Buy and Sell Stock II">
       <option name="closed" value="true" />
@@ -635,7 +632,15 @@
       <option name="project" value="LOCAL" />
       <updated>1726673861517</updated>
     </task>
-    <option name="localTasksCounter" value="185" />
+    <task id="LOCAL-00185" summary="Leetcode: 241. Different Ways to Add Parentheses">
+      <option name="closed" value="true" />
+      <created>1726764659934</created>
+      <option name="number" value="00185" />
+      <option name="presentableId" value="LOCAL-00185" />
+      <option name="project" value="LOCAL" />
+      <updated>1726764659935</updated>
+    </task>
+    <option name="localTasksCounter" value="186" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -665,7 +670,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 12. Integer to Roman" />
     <MESSAGE value="Leetcode: 151. Reverse Words in a String" />
     <MESSAGE value="Leetcode: 860. Lemonade Change" />
     <MESSAGE value="Leetcode: 29. Divide Two Integers" />
@@ -690,6 +694,7 @@
     <MESSAGE value="Leetcode: 1684. Count the Number of Consistent Strings" />
     <MESSAGE value="Leetcode: 2419. Longest Subarray With Maximum Bitwise AND" />
     <MESSAGE value="Leetcode: 539. Minimum Time Difference" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 539. Minimum Time Difference" />
+    <MESSAGE value="Leetcode: 241. Different Ways to Add Parentheses" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 241. Different Ways to Add Parentheses" />
   </component>
 </project>
