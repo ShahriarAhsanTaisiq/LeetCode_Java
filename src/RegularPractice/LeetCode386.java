@@ -41,11 +41,8 @@ public class LeetCode386 {
     public static void main(String[] args) {
         LexicoGraphicalNumbers solution = new LexicoGraphicalNumbers();
 
-        // Test case 1
         int n1 = 13;
         System.out.println("Lexicographical order for n = " + n1 + ": " + solution.lexicalOrder(n1));
-
-        // Test case 2
         int n2 = 2;
         System.out.println("Lexicographical order for n = " + n2 + ": " + solution.lexicalOrder(n2));
     }
