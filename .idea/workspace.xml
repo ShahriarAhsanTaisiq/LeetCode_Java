@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 386. Lexicographical Numbers">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode110.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -248,14 +249,8 @@
       <workItem from="1726840649378" duration="393000" />
       <workItem from="1726923741243" duration="1077000" />
       <workItem from="1727020161707" duration="1239000" />
-    </task>
-    <task id="LOCAL-00140" summary="Leetcode: 45. Jump Game II">
-      <option name="closed" value="true" />
-      <created>1723016177620</created>
-      <option name="number" value="00140" />
-      <option name="presentableId" value="LOCAL-00140" />
-      <option name="project" value="LOCAL" />
-      <updated>1723016177621</updated>
+      <workItem from="1727106209620" duration="623000" />
+      <workItem from="1727195910197" duration="337000" />
     </task>
     <task id="LOCAL-00141" summary="Leetcode: 274. H-Index">
       <option name="closed" value="true" />
@@ -641,7 +636,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727020192907</updated>
     </task>
-    <option name="localTasksCounter" value="189" />
+    <task id="LOCAL-00189" summary="Leetcode: 386. Lexicographical Numbers">
+      <option name="closed" value="true" />
+      <created>1727106232434</created>
+      <option name="number" value="00189" />
+      <option name="presentableId" value="LOCAL-00189" />
+      <option name="project" value="LOCAL" />
+      <updated>1727106232435</updated>
+    </task>
+    <option name="localTasksCounter" value="190" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -697,16 +700,5 @@
     <MESSAGE value="Leetcode: 241. Different Ways to Add Parentheses" />
     <MESSAGE value="Leetcode: 386. Lexicographical Numbers" />
     <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 386. Lexicographical Numbers" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/RegularPractice/LeetCode386.java</url>
-          <line>23</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
   </component>
 </project>
