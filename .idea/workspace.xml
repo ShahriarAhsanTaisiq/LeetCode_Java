@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 112. Path Sum">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode119.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 119. Pascal's Triangle II" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -256,15 +253,7 @@
       <workItem from="1727426177642" duration="188000" />
       <workItem from="1727446160022" duration="1458000" />
       <workItem from="1727515579075" duration="990000" />
-      <workItem from="1727631337994" duration="367000" />
-    </task>
-    <task id="LOCAL-00146" summary="Leetcode: 135. Candy">
-      <option name="closed" value="true" />
-      <created>1723389064291</created>
-      <option name="number" value="00146" />
-      <option name="presentableId" value="LOCAL-00146" />
-      <option name="project" value="LOCAL" />
-      <updated>1723389064291</updated>
+      <workItem from="1727631337994" duration="988000" />
     </task>
     <task id="LOCAL-00147" summary="Leetcode: 703. Kth Largest Element in a Stream">
       <option name="closed" value="true" />
@@ -650,7 +639,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727515955222</updated>
     </task>
-    <option name="localTasksCounter" value="195" />
+    <task id="LOCAL-00195" summary="Leetcode: 119. Pascal's Triangle II">
+      <option name="closed" value="true" />
+      <created>1727631726824</created>
+      <option name="number" value="00195" />
+      <option name="presentableId" value="LOCAL-00195" />
+      <option name="project" value="LOCAL" />
+      <updated>1727631726825</updated>
+    </task>
+    <option name="localTasksCounter" value="196" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -680,7 +677,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 209. Minimum Size Subarray Sum" />
     <MESSAGE value="Leetcode: 476. Number Complement" />
     <MESSAGE value="Leetcode: 83. Remove Duplicates from Sorted List" />
     <MESSAGE value="Leetcode: 590. N-ary Tree Postorder Traversal" />
@@ -705,6 +701,7 @@
     <MESSAGE value="Leetcode: 67. Add Binary" />
     <MESSAGE value="Leetcode: 100. Same Tree" />
     <MESSAGE value="Leetcode: 112. Path Sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 112. Path Sum" />
+    <MESSAGE value="Leetcode: 119. Pascal's Triangle II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 119. Pascal's Triangle II" />
   </component>
 </project>
