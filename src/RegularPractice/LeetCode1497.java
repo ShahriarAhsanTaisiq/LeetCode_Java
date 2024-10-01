@@ -24,7 +24,6 @@ n is even.
 -109 <= arr[i] <= 109
 1 <= k <= 105
 * */
-
 class CheckArrayPairIsDivisibleByK{
     public boolean canArrange(int [] arr, int k){
         int freq[] = new int[k];
