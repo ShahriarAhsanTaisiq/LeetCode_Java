@@ -26,7 +26,7 @@ n is even.
 * */
 class CheckArrayPairIsDivisibleByK{
     public boolean canArrange(int [] arr, int k){
-        int freq[] = new int[k];
+        int[] freq = new int[k];
         for (int nums : arr){
             int remainder = (nums % k + k) % k;
             freq[remainder]++;
@@ -46,18 +46,19 @@ class CheckArrayPairIsDivisibleByK{
 public class LeetCode1497 {
     public static void main(String[] args) {
         CheckArrayPairIsDivisibleByK solution = new CheckArrayPairIsDivisibleByK();
-
-        // Test Case 1
+        //Test Case 1
         int[] arr1 = {1, 2, 3, 4, 5, 10, 6, 7, 8, 9};
         int k1 = 5;
         System.out.println(solution.canArrange(arr1, k1));  // Output: true
 
-        // Test Case 2
+        //Test Case 2
+
         int[] arr2 = {1, 2, 3, 4, 5, 6};
         int k2 = 7;
         System.out.println(solution.canArrange(arr2, k2));  // Output: true
 
-        // Test Case 3
+        //Test Case 3
+
         int[] arr3 = {1, 2, 3, 4, 5, 6};
         int k3 = 10;
         System.out.println(solution.canArrange(arr3, k3));  // Output: false
