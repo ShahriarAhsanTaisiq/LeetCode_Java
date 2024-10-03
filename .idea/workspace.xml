@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1497. Check If Array Pairs Are Divisible by k" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1331. Rank Transform of an Array">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -257,14 +259,7 @@
       <workItem from="1727681183798" duration="913000" />
       <workItem from="1727767433658" duration="1071000" />
       <workItem from="1727805047742" duration="761000" />
-    </task>
-    <task id="LOCAL-00151" summary="Leetcode: 860. Lemonade Change">
-      <option name="closed" value="true" />
-      <created>1723691718320</created>
-      <option name="number" value="00151" />
-      <option name="presentableId" value="LOCAL-00151" />
-      <option name="project" value="LOCAL" />
-      <updated>1723691718321</updated>
+      <workItem from="1727847689538" duration="601000" />
     </task>
     <task id="LOCAL-00152" summary="Leetcode: 29. Divide Two Integers">
       <option name="closed" value="true" />
@@ -650,7 +645,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727805205217</updated>
     </task>
-    <option name="localTasksCounter" value="200" />
+    <task id="LOCAL-00200" summary="Leetcode: 1331. Rank Transform of an Array">
+      <option name="closed" value="true" />
+      <created>1727847991470</created>
+      <option name="number" value="00200" />
+      <option name="presentableId" value="LOCAL-00200" />
+      <option name="project" value="LOCAL" />
+      <updated>1727847991471</updated>
+    </task>
+    <option name="localTasksCounter" value="201" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -680,7 +683,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 590. N-ary Tree Postorder Traversal" />
     <MESSAGE value="Leetcode: 190. Reverse Bits" />
     <MESSAGE value="Leetcode: 191. Number of 1 Bits" />
     <MESSAGE value="Leetcode: 206. Reverse Linked List" />
@@ -705,6 +707,7 @@
     <MESSAGE value="Leetcode: 119. Pascal's Triangle II" />
     <MESSAGE value="Leetcode: 168. Excel Sheet Column Title" />
     <MESSAGE value="Leetcode: 1497. Check If Array Pairs Are Divisible by k" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1497. Check If Array Pairs Are Divisible by k" />
+    <MESSAGE value="Leetcode: 1331. Rank Transform of an Array" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1331. Rank Transform of an Array" />
   </component>
 </project>
