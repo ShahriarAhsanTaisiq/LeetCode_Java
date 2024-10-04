@@ -5,6 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1331. Rank Transform of an Array">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode2491.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -260,14 +261,8 @@
       <workItem from="1727767433658" duration="1071000" />
       <workItem from="1727805047742" duration="761000" />
       <workItem from="1727847689538" duration="601000" />
-    </task>
-    <task id="LOCAL-00152" summary="Leetcode: 29. Divide Two Integers">
-      <option name="closed" value="true" />
-      <created>1723802823474</created>
-      <option name="number" value="00152" />
-      <option name="presentableId" value="LOCAL-00152" />
-      <option name="project" value="LOCAL" />
-      <updated>1723802823475</updated>
+      <workItem from="1727959603825" duration="279000" />
+      <workItem from="1728036149144" duration="377000" />
     </task>
     <task id="LOCAL-00153" summary="Leetcode: 167. Two Sum II - Input Array Is Sorted">
       <option name="closed" value="true" />
@@ -653,7 +648,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727847991471</updated>
     </task>
-    <option name="localTasksCounter" value="201" />
+    <task id="LOCAL-00201" summary="Leetcode: 1331. Rank Transform of an Array">
+      <option name="closed" value="true" />
+      <created>1727959651418</created>
+      <option name="number" value="00201" />
+      <option name="presentableId" value="LOCAL-00201" />
+      <option name="project" value="LOCAL" />
+      <updated>1727959651419</updated>
+    </task>
+    <option name="localTasksCounter" value="202" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
