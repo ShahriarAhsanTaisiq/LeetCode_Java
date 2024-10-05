@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1331. Rank Transform of an Array">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode2491.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2491. Divide Players Into Teams of Equal Skill" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -262,15 +259,7 @@
       <workItem from="1727805047742" duration="761000" />
       <workItem from="1727847689538" duration="601000" />
       <workItem from="1727959603825" duration="279000" />
-      <workItem from="1728036149144" duration="377000" />
-    </task>
-    <task id="LOCAL-00153" summary="Leetcode: 167. Two Sum II - Input Array Is Sorted">
-      <option name="closed" value="true" />
-      <created>1723889765687</created>
-      <option name="number" value="00153" />
-      <option name="presentableId" value="LOCAL-00153" />
-      <option name="project" value="LOCAL" />
-      <updated>1723889765688</updated>
+      <workItem from="1728036149144" duration="1043000" />
     </task>
     <task id="LOCAL-00154" summary="Leetcode: 11. Container With Most Water">
       <option name="closed" value="true" />
@@ -656,7 +645,15 @@
       <option name="project" value="LOCAL" />
       <updated>1727959651419</updated>
     </task>
-    <option name="localTasksCounter" value="202" />
+    <task id="LOCAL-00202" summary="Leetcode: 2491. Divide Players Into Teams of Equal Skill">
+      <option name="closed" value="true" />
+      <created>1728036593706</created>
+      <option name="number" value="00202" />
+      <option name="presentableId" value="LOCAL-00202" />
+      <option name="project" value="LOCAL" />
+      <updated>1728036593707</updated>
+    </task>
+    <option name="localTasksCounter" value="203" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -686,7 +683,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 190. Reverse Bits" />
     <MESSAGE value="Leetcode: 191. Number of 1 Bits" />
     <MESSAGE value="Leetcode: 206. Reverse Linked List" />
     <MESSAGE value="Leetcode: 283. Move Zeroes" />
@@ -711,6 +707,7 @@
     <MESSAGE value="Leetcode: 168. Excel Sheet Column Title" />
     <MESSAGE value="Leetcode: 1497. Check If Array Pairs Are Divisible by k" />
     <MESSAGE value="Leetcode: 1331. Rank Transform of an Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1331. Rank Transform of an Array" />
+    <MESSAGE value="Leetcode: 2491. Divide Players Into Teams of Equal Skill" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2491. Divide Players Into Teams of Equal Skill" />
   </component>
 </project>
