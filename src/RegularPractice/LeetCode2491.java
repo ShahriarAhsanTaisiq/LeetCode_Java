@@ -48,13 +48,13 @@ class DividePlayers{
 public class LeetCode2491 {
     public static void main(String[] args) {
         DividePlayers dp = new DividePlayers();
-        // Test Case 1
+
         int[] skill1 = {3, 2, 5, 1, 3, 4};
         System.out.println("Output for skill1: " + dp.dividePlayers(skill1));  // Expected output: 22
-        // Test Case 2
+
         int[] skill2 = {3, 4};
         System.out.println("Output for skill2: " + dp.dividePlayers(skill2));  // Expected output: 12
-        // Test Case 3
+
         int[] skill3 = {1, 1, 2, 3};
         System.out.println("Output for skill3: " + dp.dividePlayers(skill3));  // Expected output: -1
     }
