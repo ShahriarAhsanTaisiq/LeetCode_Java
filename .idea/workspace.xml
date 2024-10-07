@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2491. Divide Players Into Teams of Equal Skill" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2491. Divide Players Into Teams of Equal Skill">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode2696.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -261,14 +264,8 @@
       <workItem from="1727959603825" duration="279000" />
       <workItem from="1728036149144" duration="1043000" />
       <workItem from="1728133166454" duration="54000" />
-    </task>
-    <task id="LOCAL-00155" summary="Leetcode: 650. 2 Keys Keyboard">
-      <option name="closed" value="true" />
-      <created>1724085126113</created>
-      <option name="number" value="00155" />
-      <option name="presentableId" value="LOCAL-00155" />
-      <option name="project" value="LOCAL" />
-      <updated>1724085126114</updated>
+      <workItem from="1728231433198" duration="629000" />
+      <workItem from="1728306049772" duration="319000" />
     </task>
     <task id="LOCAL-00156" summary="Leetcode: 650. 2 Keys Keyboard">
       <option name="closed" value="true" />
@@ -654,7 +651,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728133203597</updated>
     </task>
-    <option name="localTasksCounter" value="204" />
+    <task id="LOCAL-00204" summary="Leetcode: 2491. Divide Players Into Teams of Equal Skill">
+      <option name="closed" value="true" />
+      <created>1728231459742</created>
+      <option name="number" value="00204" />
+      <option name="presentableId" value="LOCAL-00204" />
+      <option name="project" value="LOCAL" />
+      <updated>1728231459742</updated>
+    </task>
+    <option name="localTasksCounter" value="205" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
