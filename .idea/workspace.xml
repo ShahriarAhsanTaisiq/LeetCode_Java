@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2491. Divide Players Into Teams of Equal Skill">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode2696.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2696. Minimum String Length After Removing Substrings">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1963.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -265,15 +265,8 @@
       <workItem from="1728036149144" duration="1043000" />
       <workItem from="1728133166454" duration="54000" />
       <workItem from="1728231433198" duration="629000" />
-      <workItem from="1728306049772" duration="319000" />
-    </task>
-    <task id="LOCAL-00156" summary="Leetcode: 650. 2 Keys Keyboard">
-      <option name="closed" value="true" />
-      <created>1724176415841</created>
-      <option name="number" value="00156" />
-      <option name="presentableId" value="LOCAL-00156" />
-      <option name="project" value="LOCAL" />
-      <updated>1724176415842</updated>
+      <workItem from="1728306049772" duration="542000" />
+      <workItem from="1728369090162" duration="375000" />
     </task>
     <task id="LOCAL-00157" summary="Leetcode: 209. Minimum Size Subarray Sum">
       <option name="closed" value="true" />
@@ -659,7 +652,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728231459742</updated>
     </task>
-    <option name="localTasksCounter" value="205" />
+    <task id="LOCAL-00205" summary="Leetcode: 2696. Minimum String Length After Removing Substrings">
+      <option name="closed" value="true" />
+      <created>1728306575518</created>
+      <option name="number" value="00205" />
+      <option name="presentableId" value="LOCAL-00205" />
+      <option name="project" value="LOCAL" />
+      <updated>1728306575518</updated>
+    </task>
+    <option name="localTasksCounter" value="206" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -689,7 +690,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 191. Number of 1 Bits" />
     <MESSAGE value="Leetcode: 206. Reverse Linked List" />
     <MESSAGE value="Leetcode: 283. Move Zeroes" />
     <MESSAGE value="Leetcode: 2022. Convert 1D Array Into 2D Array" />
@@ -714,6 +714,7 @@
     <MESSAGE value="Leetcode: 1497. Check If Array Pairs Are Divisible by k" />
     <MESSAGE value="Leetcode: 1331. Rank Transform of an Array" />
     <MESSAGE value="Leetcode: 2491. Divide Players Into Teams of Equal Skill" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2491. Divide Players Into Teams of Equal Skill" />
+    <MESSAGE value="Leetcode: 2696. Minimum String Length After Removing Substrings" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2696. Minimum String Length After Removing Substrings" />
   </component>
 </project>
