@@ -1,5 +1,4 @@
 package RegularPractice;
-
 /* 921. Minimum Add to Make Parentheses Valid
 * A parentheses string is valid if and only if:
 It is the empty string,
@@ -40,7 +39,6 @@ class MinAddForValidParenTheses{
 public class LeetCode921 {
     public static void main(String[] args) {
         MinAddForValidParenTheses solution = new MinAddForValidParenTheses();
-
         // Test case 1
         String s1 = "())";
         System.out.println("Input: " + s1);
