@@ -17,7 +17,6 @@ Constraints:
 1 <= s.length <= 1000
 s[i] is either '(' or ')'.
 * */
-
 class MinAddForValidParenTheses{
     public  int minAddToMakeValid( String s){
         int open = 0, misMatch = 0;
@@ -39,22 +38,19 @@ class MinAddForValidParenTheses{
 public class LeetCode921 {
     public static void main(String[] args) {
         MinAddForValidParenTheses solution = new MinAddForValidParenTheses();
-        // Test case 1
+
         String s1 = "())";
         System.out.println("Input: " + s1);
         System.out.println("Minimum Additions to Make Valid: " + solution.minAddToMakeValid(s1)); // Output: 1
 
-        // Test case 2
         String s2 = "(((";
         System.out.println("Input: " + s2);
         System.out.println("Minimum Additions to Make Valid: " + solution.minAddToMakeValid(s2)); // Output: 3
 
-        // Additional test case 3
         String s3 = "()";
         System.out.println("Input: " + s3);
         System.out.println("Minimum Additions to Make Valid: " + solution.minAddToMakeValid(s3)); // Output: 0
 
-        // Additional test case 4
         String s4 = "()))((";
         System.out.println("Input: " + s4);
         System.out.println("Minimum Additions to Make Valid: " + solution.minAddToMakeValid(s4)); // Output: 4
