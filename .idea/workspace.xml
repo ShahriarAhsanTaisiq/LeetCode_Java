@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 921. Minimum Add to Make Parentheses Valid" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 921. Minimum Add to Make Parentheses Valid">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode203.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -267,14 +270,9 @@
       <workItem from="1728371464182" duration="11000" />
       <workItem from="1728449508841" duration="870000" />
       <workItem from="1728577338049" duration="623000" />
-    </task>
-    <task id="LOCAL-00160" summary="Leetcode: 83. Remove Duplicates from Sorted List">
-      <option name="closed" value="true" />
-      <created>1724555608095</created>
-      <option name="number" value="00160" />
-      <option name="presentableId" value="LOCAL-00160" />
-      <option name="project" value="LOCAL" />
-      <updated>1724555608095</updated>
+      <workItem from="1728661811067" duration="630000" />
+      <workItem from="1728709327736" duration="28000" />
+      <workItem from="1728744851864" duration="374000" />
     </task>
     <task id="LOCAL-00161" summary="Leetcode: 83. Remove Duplicates from Sorted List">
       <option name="closed" value="true" />
@@ -660,7 +658,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728577359995</updated>
     </task>
-    <option name="localTasksCounter" value="209" />
+    <task id="LOCAL-00209" summary="Leetcode: 921. Minimum Add to Make Parentheses Valid">
+      <option name="closed" value="true" />
+      <created>1728661840036</created>
+      <option name="number" value="00209" />
+      <option name="presentableId" value="LOCAL-00209" />
+      <option name="project" value="LOCAL" />
+      <updated>1728661840037</updated>
+    </task>
+    <option name="localTasksCounter" value="210" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
