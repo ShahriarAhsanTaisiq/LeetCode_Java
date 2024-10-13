@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 921. Minimum Add to Make Parentheses Valid">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode203.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 203. Remove Linked List Elements">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode225.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -272,15 +272,8 @@
       <workItem from="1728577338049" duration="623000" />
       <workItem from="1728661811067" duration="630000" />
       <workItem from="1728709327736" duration="28000" />
-      <workItem from="1728744851864" duration="374000" />
-    </task>
-    <task id="LOCAL-00161" summary="Leetcode: 83. Remove Duplicates from Sorted List">
-      <option name="closed" value="true" />
-      <created>1724678869415</created>
-      <option name="number" value="00161" />
-      <option name="presentableId" value="LOCAL-00161" />
-      <option name="project" value="LOCAL" />
-      <updated>1724678869416</updated>
+      <workItem from="1728744851864" duration="1099000" />
+      <workItem from="1728795749556" duration="320000" />
     </task>
     <task id="LOCAL-00162" summary="Leetcode: 590. N-ary Tree Postorder Traversal">
       <option name="closed" value="true" />
@@ -666,7 +659,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728661840037</updated>
     </task>
-    <option name="localTasksCounter" value="210" />
+    <task id="LOCAL-00210" summary="Leetcode: 203. Remove Linked List Elements">
+      <option name="closed" value="true" />
+      <created>1728745341642</created>
+      <option name="number" value="00210" />
+      <option name="presentableId" value="LOCAL-00210" />
+      <option name="project" value="LOCAL" />
+      <updated>1728745341642</updated>
+    </task>
+    <option name="localTasksCounter" value="211" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -696,7 +697,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 2022. Convert 1D Array Into 2D Array" />
     <MESSAGE value="Leetcode: 2028. Find Missing Observations" />
     <MESSAGE value="Leetcode: 219. Contains Duplicate II" />
     <MESSAGE value="Leetcode: 1367. Linked List in Binary Tree" />
@@ -721,6 +721,7 @@
     <MESSAGE value="Leetcode: 2696. Minimum String Length After Removing Substrings" />
     <MESSAGE value="Leetcode: 1963. Minimum Number of Swaps to Make the String Balanced" />
     <MESSAGE value="Leetcode: 921. Minimum Add to Make Parentheses Valid" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 921. Minimum Add to Make Parentheses Valid" />
+    <MESSAGE value="Leetcode: 203. Remove Linked List Elements" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 203. Remove Linked List Elements" />
   </component>
 </project>
