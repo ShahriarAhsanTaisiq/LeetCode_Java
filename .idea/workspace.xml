@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 203. Remove Linked List Elements">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode225.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 225. Implement Stack using Queues">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode2530.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -273,15 +273,11 @@
       <workItem from="1728661811067" duration="630000" />
       <workItem from="1728709327736" duration="28000" />
       <workItem from="1728744851864" duration="1099000" />
-      <workItem from="1728795749556" duration="320000" />
-    </task>
-    <task id="LOCAL-00162" summary="Leetcode: 590. N-ary Tree Postorder Traversal">
-      <option name="closed" value="true" />
-      <created>1724737606477</created>
-      <option name="number" value="00162" />
-      <option name="presentableId" value="LOCAL-00162" />
-      <option name="project" value="LOCAL" />
-      <updated>1724737606478</updated>
+      <workItem from="1728795749556" duration="994000" />
+      <workItem from="1728812358659" duration="848000" />
+      <workItem from="1728813603223" duration="602000" />
+      <workItem from="1728884097992" duration="617000" />
+      <workItem from="1728907355242" duration="415000" />
     </task>
     <task id="LOCAL-00163" summary="Leetcode: 190. Reverse Bits">
       <option name="closed" value="true" />
@@ -667,7 +663,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728745341642</updated>
     </task>
-    <option name="localTasksCounter" value="211" />
+    <task id="LOCAL-00211" summary="Leetcode: 225. Implement Stack using Queues">
+      <option name="closed" value="true" />
+      <created>1728796139658</created>
+      <option name="number" value="00211" />
+      <option name="presentableId" value="LOCAL-00211" />
+      <option name="project" value="LOCAL" />
+      <updated>1728796139658</updated>
+    </task>
+    <option name="localTasksCounter" value="212" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -697,7 +701,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 2028. Find Missing Observations" />
     <MESSAGE value="Leetcode: 219. Contains Duplicate II" />
     <MESSAGE value="Leetcode: 1367. Linked List in Binary Tree" />
     <MESSAGE value="Leetcode: 725. Split Linked List in Parts" />
@@ -722,6 +725,7 @@
     <MESSAGE value="Leetcode: 1963. Minimum Number of Swaps to Make the String Balanced" />
     <MESSAGE value="Leetcode: 921. Minimum Add to Make Parentheses Valid" />
     <MESSAGE value="Leetcode: 203. Remove Linked List Elements" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 203. Remove Linked List Elements" />
+    <MESSAGE value="Leetcode: 225. Implement Stack using Queues" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 225. Implement Stack using Queues" />
   </component>
 </project>
