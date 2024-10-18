@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2530. Maximal Score After Applying K Operations" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2938. Separate Black and White Balls">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode226.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -275,14 +278,8 @@
       <workItem from="1728813603223" duration="602000" />
       <workItem from="1728884097992" duration="617000" />
       <workItem from="1728907355242" duration="539000" />
-    </task>
-    <task id="LOCAL-00164" summary="Leetcode: 190. Reverse Bits">
-      <option name="closed" value="true" />
-      <created>1724863103914</created>
-      <option name="number" value="00164" />
-      <option name="presentableId" value="LOCAL-00164" />
-      <option name="project" value="LOCAL" />
-      <updated>1724863103914</updated>
+      <workItem from="1728989894108" duration="345000" />
+      <workItem from="1729265685555" duration="325000" />
     </task>
     <task id="LOCAL-00165" summary="Leetcode: 191. Number of 1 Bits">
       <option name="closed" value="true" />
@@ -668,7 +665,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728907848899</updated>
     </task>
-    <option name="localTasksCounter" value="213" />
+    <task id="LOCAL-00213" summary="Leetcode: 2938. Separate Black and White Balls">
+      <option name="closed" value="true" />
+      <created>1728990213429</created>
+      <option name="number" value="00213" />
+      <option name="presentableId" value="LOCAL-00213" />
+      <option name="project" value="LOCAL" />
+      <updated>1728990213430</updated>
+    </task>
+    <option name="localTasksCounter" value="214" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -698,7 +703,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1367. Linked List in Binary Tree" />
     <MESSAGE value="Leetcode: 725. Split Linked List in Parts" />
     <MESSAGE value="Leetcode: 387. First Unique Character in a String" />
     <MESSAGE value="Leetcode: 2220. Minimum Bit Flips to Convert Number" />
@@ -723,6 +727,7 @@
     <MESSAGE value="Leetcode: 203. Remove Linked List Elements" />
     <MESSAGE value="Leetcode: 225. Implement Stack using Queues" />
     <MESSAGE value="Leetcode: 2530. Maximal Score After Applying K Operations" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2530. Maximal Score After Applying K Operations" />
+    <MESSAGE value="Leetcode: 2938. Separate Black and White Balls" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2938. Separate Black and White Balls" />
   </component>
 </project>
