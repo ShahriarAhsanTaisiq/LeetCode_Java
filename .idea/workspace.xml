@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 226. Invert Binary Tree">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1545.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1545. Find Kth Bit in Nth Binary String" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -280,15 +277,7 @@
       <workItem from="1728907355242" duration="539000" />
       <workItem from="1728989894108" duration="345000" />
       <workItem from="1729265685555" duration="1255000" />
-      <workItem from="1729298531284" duration="313000" />
-    </task>
-    <task id="LOCAL-00166" summary="Leetcode: 206. Reverse Linked List">
-      <option name="closed" value="true" />
-      <created>1725018496485</created>
-      <option name="number" value="00166" />
-      <option name="presentableId" value="LOCAL-00166" />
-      <option name="project" value="LOCAL" />
-      <updated>1725018496486</updated>
+      <workItem from="1729298531284" duration="958000" />
     </task>
     <task id="LOCAL-00167" summary="Leetcode: 283. Move Zeroes">
       <option name="closed" value="true" />
@@ -674,7 +663,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729266452021</updated>
     </task>
-    <option name="localTasksCounter" value="215" />
+    <task id="LOCAL-00215" summary="Leetcode: 1545. Find Kth Bit in Nth Binary String">
+      <option name="closed" value="true" />
+      <created>1729298886004</created>
+      <option name="number" value="00215" />
+      <option name="presentableId" value="LOCAL-00215" />
+      <option name="project" value="LOCAL" />
+      <updated>1729298886005</updated>
+    </task>
+    <option name="localTasksCounter" value="216" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -704,7 +701,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 387. First Unique Character in a String" />
     <MESSAGE value="Leetcode: 2220. Minimum Bit Flips to Convert Number" />
     <MESSAGE value="Leetcode: 1684. Count the Number of Consistent Strings" />
     <MESSAGE value="Leetcode: 2419. Longest Subarray With Maximum Bitwise AND" />
@@ -729,6 +725,7 @@
     <MESSAGE value="Leetcode: 2530. Maximal Score After Applying K Operations" />
     <MESSAGE value="Leetcode: 2938. Separate Black and White Balls" />
     <MESSAGE value="Leetcode: 226. Invert Binary Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 226. Invert Binary Tree" />
+    <MESSAGE value="Leetcode: 1545. Find Kth Bit in Nth Binary String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1545. Find Kth Bit in Nth Binary String" />
   </component>
 </project>
