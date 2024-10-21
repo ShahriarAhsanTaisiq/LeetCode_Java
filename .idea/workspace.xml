@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1545. Find Kth Bit in Nth Binary String" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 231. Power of Two" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -278,14 +278,7 @@
       <workItem from="1728989894108" duration="345000" />
       <workItem from="1729265685555" duration="1255000" />
       <workItem from="1729298531284" duration="958000" />
-    </task>
-    <task id="LOCAL-00167" summary="Leetcode: 283. Move Zeroes">
-      <option name="closed" value="true" />
-      <created>1725087197763</created>
-      <option name="number" value="00167" />
-      <option name="presentableId" value="LOCAL-00167" />
-      <option name="project" value="LOCAL" />
-      <updated>1725087197763</updated>
+      <workItem from="1729444115252" duration="275000" />
     </task>
     <task id="LOCAL-00168" summary="Leetcode: 283. Move Zeroes">
       <option name="closed" value="true" />
@@ -671,7 +664,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729298886005</updated>
     </task>
-    <option name="localTasksCounter" value="216" />
+    <task id="LOCAL-00216" summary="Leetcode: 231. Power of Two">
+      <option name="closed" value="true" />
+      <created>1729444307069</created>
+      <option name="number" value="00216" />
+      <option name="presentableId" value="LOCAL-00216" />
+      <option name="project" value="LOCAL" />
+      <updated>1729444307069</updated>
+    </task>
+    <option name="localTasksCounter" value="217" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -701,7 +702,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 2220. Minimum Bit Flips to Convert Number" />
     <MESSAGE value="Leetcode: 1684. Count the Number of Consistent Strings" />
     <MESSAGE value="Leetcode: 2419. Longest Subarray With Maximum Bitwise AND" />
     <MESSAGE value="Leetcode: 539. Minimum Time Difference" />
@@ -726,6 +726,7 @@
     <MESSAGE value="Leetcode: 2938. Separate Black and White Balls" />
     <MESSAGE value="Leetcode: 226. Invert Binary Tree" />
     <MESSAGE value="Leetcode: 1545. Find Kth Bit in Nth Binary String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1545. Find Kth Bit in Nth Binary String" />
+    <MESSAGE value="Leetcode: 231. Power of Two" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 231. Power of Two" />
   </component>
 </project>
