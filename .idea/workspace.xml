@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 231. Power of Two" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 257. Binary Tree Paths">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -279,14 +281,7 @@
       <workItem from="1729265685555" duration="1255000" />
       <workItem from="1729298531284" duration="958000" />
       <workItem from="1729444115252" duration="275000" />
-    </task>
-    <task id="LOCAL-00168" summary="Leetcode: 283. Move Zeroes">
-      <option name="closed" value="true" />
-      <created>1725208926573</created>
-      <option name="number" value="00168" />
-      <option name="presentableId" value="LOCAL-00168" />
-      <option name="project" value="LOCAL" />
-      <updated>1725208926573</updated>
+      <workItem from="1729529447504" duration="996000" />
     </task>
     <task id="LOCAL-00169" summary="Leetcode: 2022. Convert 1D Array Into 2D Array">
       <option name="closed" value="true" />
@@ -672,7 +667,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729444307069</updated>
     </task>
-    <option name="localTasksCounter" value="217" />
+    <task id="LOCAL-00217" summary="Leetcode: 257. Binary Tree Paths">
+      <option name="closed" value="true" />
+      <created>1729529799056</created>
+      <option name="number" value="00217" />
+      <option name="presentableId" value="LOCAL-00217" />
+      <option name="project" value="LOCAL" />
+      <updated>1729529799057</updated>
+    </task>
+    <option name="localTasksCounter" value="218" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -702,7 +705,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1684. Count the Number of Consistent Strings" />
     <MESSAGE value="Leetcode: 2419. Longest Subarray With Maximum Bitwise AND" />
     <MESSAGE value="Leetcode: 539. Minimum Time Difference" />
     <MESSAGE value="Leetcode: 241. Different Ways to Add Parentheses" />
@@ -727,6 +729,7 @@
     <MESSAGE value="Leetcode: 226. Invert Binary Tree" />
     <MESSAGE value="Leetcode: 1545. Find Kth Bit in Nth Binary String" />
     <MESSAGE value="Leetcode: 231. Power of Two" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 231. Power of Two" />
+    <MESSAGE value="Leetcode: 257. Binary Tree Paths" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 257. Binary Tree Paths" />
   </component>
 </project>
