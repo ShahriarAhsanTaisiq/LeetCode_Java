@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 263. Ugly Number">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode338.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 338. Counting Bits">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1233.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -285,15 +285,8 @@
       <workItem from="1729529447504" duration="996000" />
       <workItem from="1729614254038" duration="948000" />
       <workItem from="1729658908154" duration="1221000" />
-      <workItem from="1729770868112" duration="409000" />
-    </task>
-    <task id="LOCAL-00171" summary="Leetcode: 2022. Convert 1D Array Into 2D Array">
-      <option name="closed" value="true" />
-      <created>1725471770762</created>
-      <option name="number" value="00171" />
-      <option name="presentableId" value="LOCAL-00171" />
-      <option name="project" value="LOCAL" />
-      <updated>1725471770763</updated>
+      <workItem from="1729770868112" duration="1136000" />
+      <workItem from="1729836691654" duration="319000" />
     </task>
     <task id="LOCAL-00172" summary="Leetcode: 2028. Find Missing Observations">
       <option name="closed" value="true" />
@@ -679,7 +672,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729659530966</updated>
     </task>
-    <option name="localTasksCounter" value="220" />
+    <task id="LOCAL-00220" summary="Leetcode: 338. Counting Bits">
+      <option name="closed" value="true" />
+      <created>1729771336460</created>
+      <option name="number" value="00220" />
+      <option name="presentableId" value="LOCAL-00220" />
+      <option name="project" value="LOCAL" />
+      <updated>1729771336461</updated>
+    </task>
+    <option name="localTasksCounter" value="221" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -709,7 +710,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 241. Different Ways to Add Parentheses" />
     <MESSAGE value="Leetcode: 386. Lexicographical Numbers" />
     <MESSAGE value="Leetcode: 110. Balanced Binary Tree" />
     <MESSAGE value="Leetcode: 35. Search Insert Position" />
@@ -734,6 +734,7 @@
     <MESSAGE value="Leetcode: 257. Binary Tree Paths" />
     <MESSAGE value="Leetcode: 258. Add Digits" />
     <MESSAGE value="Leetcode: 263. Ugly Number" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 263. Ugly Number" />
+    <MESSAGE value="Leetcode: 338. Counting Bits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 338. Counting Bits" />
   </component>
 </project>
