@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1233. Remove Sub-Folders from the Filesystem">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode389.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 389. Find the Difference" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -287,15 +284,7 @@
       <workItem from="1729658908154" duration="1221000" />
       <workItem from="1729770868112" duration="1136000" />
       <workItem from="1729836691654" duration="1220000" />
-      <workItem from="1729919601159" duration="695000" />
-    </task>
-    <task id="LOCAL-00173" summary="Leetcode: 219. Contains Duplicate II">
-      <option name="closed" value="true" />
-      <created>1725619949599</created>
-      <option name="number" value="00173" />
-      <option name="presentableId" value="LOCAL-00173" />
-      <option name="project" value="LOCAL" />
-      <updated>1725619949600</updated>
+      <workItem from="1729919601159" duration="1144000" />
     </task>
     <task id="LOCAL-00174" summary="Leetcode: 1367. Linked List in Binary Tree">
       <option name="closed" value="true" />
@@ -681,7 +670,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729837080738</updated>
     </task>
-    <option name="localTasksCounter" value="222" />
+    <task id="LOCAL-00222" summary="Leetcode: 389. Find the Difference">
+      <option name="closed" value="true" />
+      <created>1729920317311</created>
+      <option name="number" value="00222" />
+      <option name="presentableId" value="LOCAL-00222" />
+      <option name="project" value="LOCAL" />
+      <updated>1729920317311</updated>
+    </task>
+    <option name="localTasksCounter" value="223" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -711,7 +708,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 110. Balanced Binary Tree" />
     <MESSAGE value="Leetcode: 35. Search Insert Position" />
     <MESSAGE value="Leetcode: 67. Add Binary" />
     <MESSAGE value="Leetcode: 100. Same Tree" />
@@ -736,6 +732,7 @@
     <MESSAGE value="Leetcode: 263. Ugly Number" />
     <MESSAGE value="Leetcode: 338. Counting Bits" />
     <MESSAGE value="Leetcode: 1233. Remove Sub-Folders from the Filesystem" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1233. Remove Sub-Folders from the Filesystem" />
+    <MESSAGE value="Leetcode: 389. Find the Difference" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 389. Find the Difference" />
   </component>
 </project>
