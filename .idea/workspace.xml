@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 389. Find the Difference" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1277. Count Square Submatrices with All Ones">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode559.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,19 +49,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="RegularPractice" />
@@ -285,14 +289,8 @@
       <workItem from="1729770868112" duration="1136000" />
       <workItem from="1729836691654" duration="1220000" />
       <workItem from="1729919601159" duration="1144000" />
-    </task>
-    <task id="LOCAL-00174" summary="Leetcode: 1367. Linked List in Binary Tree">
-      <option name="closed" value="true" />
-      <created>1725731331752</created>
-      <option name="number" value="00174" />
-      <option name="presentableId" value="LOCAL-00174" />
-      <option name="project" value="LOCAL" />
-      <updated>1725731331753</updated>
+      <workItem from="1730018447917" duration="436000" />
+      <workItem from="1730093630684" duration="2025000" />
     </task>
     <task id="LOCAL-00175" summary="Leetcode: 725. Split Linked List in Parts">
       <option name="closed" value="true" />
@@ -678,7 +676,15 @@
       <option name="project" value="LOCAL" />
       <updated>1729920317311</updated>
     </task>
-    <option name="localTasksCounter" value="223" />
+    <task id="LOCAL-00223" summary="Leetcode: 1277. Count Square Submatrices with All Ones">
+      <option name="closed" value="true" />
+      <created>1730018638695</created>
+      <option name="number" value="00223" />
+      <option name="presentableId" value="LOCAL-00223" />
+      <option name="project" value="LOCAL" />
+      <updated>1730018638695</updated>
+    </task>
+    <option name="localTasksCounter" value="224" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -708,7 +714,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 35. Search Insert Position" />
     <MESSAGE value="Leetcode: 67. Add Binary" />
     <MESSAGE value="Leetcode: 100. Same Tree" />
     <MESSAGE value="Leetcode: 112. Path Sum" />
@@ -733,6 +738,7 @@
     <MESSAGE value="Leetcode: 338. Counting Bits" />
     <MESSAGE value="Leetcode: 1233. Remove Sub-Folders from the Filesystem" />
     <MESSAGE value="Leetcode: 389. Find the Difference" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 389. Find the Difference" />
+    <MESSAGE value="Leetcode: 1277. Count Square Submatrices with All Ones" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1277. Count Square Submatrices with All Ones" />
   </component>
 </project>
