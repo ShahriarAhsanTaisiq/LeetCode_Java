@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 559. Maximum Depth of N-ary Tree">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode278.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 278. First Bad Version" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -291,15 +288,7 @@
       <workItem from="1729919601159" duration="1144000" />
       <workItem from="1730018447917" duration="436000" />
       <workItem from="1730093630684" duration="2647000" />
-      <workItem from="1730200199355" duration="1581000" />
-    </task>
-    <task id="LOCAL-00176" summary="Leetcode: 387. First Unique Character in a String">
-      <option name="closed" value="true" />
-      <created>1725856122622</created>
-      <option name="number" value="00176" />
-      <option name="presentableId" value="LOCAL-00176" />
-      <option name="project" value="LOCAL" />
-      <updated>1725856122622</updated>
+      <workItem from="1730200199355" duration="1668000" />
     </task>
     <task id="LOCAL-00177" summary="Leetcode: 2220. Minimum Bit Flips to Convert Number">
       <option name="closed" value="true" />
@@ -685,7 +674,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730108306657</updated>
     </task>
-    <option name="localTasksCounter" value="225" />
+    <task id="LOCAL-00225" summary="Leetcode: 278. First Bad Version">
+      <option name="closed" value="true" />
+      <created>1730203297206</created>
+      <option name="number" value="00225" />
+      <option name="presentableId" value="LOCAL-00225" />
+      <option name="project" value="LOCAL" />
+      <updated>1730203297207</updated>
+    </task>
+    <option name="localTasksCounter" value="226" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -715,7 +712,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 100. Same Tree" />
     <MESSAGE value="Leetcode: 112. Path Sum" />
     <MESSAGE value="Leetcode: 119. Pascal's Triangle II" />
     <MESSAGE value="Leetcode: 168. Excel Sheet Column Title" />
@@ -740,6 +736,7 @@
     <MESSAGE value="Leetcode: 389. Find the Difference" />
     <MESSAGE value="Leetcode: 1277. Count Square Submatrices with All Ones" />
     <MESSAGE value="Leetcode: 559. Maximum Depth of N-ary Tree" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 559. Maximum Depth of N-ary Tree" />
+    <MESSAGE value="Leetcode: 278. First Bad Version" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 278. First Bad Version" />
   </component>
 </project>
