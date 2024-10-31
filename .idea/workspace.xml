@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 278. First Bad Version" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 342. Power of Four">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode345.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -289,14 +292,8 @@
       <workItem from="1730018447917" duration="436000" />
       <workItem from="1730093630684" duration="2647000" />
       <workItem from="1730200199355" duration="1668000" />
-    </task>
-    <task id="LOCAL-00177" summary="Leetcode: 2220. Minimum Bit Flips to Convert Number">
-      <option name="closed" value="true" />
-      <created>1726062308103</created>
-      <option name="number" value="00177" />
-      <option name="presentableId" value="LOCAL-00177" />
-      <option name="project" value="LOCAL" />
-      <updated>1726062308104</updated>
+      <workItem from="1730264900689" duration="1423000" />
+      <workItem from="1730373572781" duration="312000" />
     </task>
     <task id="LOCAL-00178" summary="Leetcode: 1684. Count the Number of Consistent Strings">
       <option name="closed" value="true" />
@@ -682,7 +679,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730203297207</updated>
     </task>
-    <option name="localTasksCounter" value="226" />
+    <task id="LOCAL-00226" summary="Leetcode: 342. Power of Four">
+      <option name="closed" value="true" />
+      <created>1730265116313</created>
+      <option name="number" value="00226" />
+      <option name="presentableId" value="LOCAL-00226" />
+      <option name="project" value="LOCAL" />
+      <updated>1730265116313</updated>
+    </task>
+    <option name="localTasksCounter" value="227" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -712,7 +717,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 112. Path Sum" />
     <MESSAGE value="Leetcode: 119. Pascal's Triangle II" />
     <MESSAGE value="Leetcode: 168. Excel Sheet Column Title" />
     <MESSAGE value="Leetcode: 1497. Check If Array Pairs Are Divisible by k" />
@@ -737,6 +741,7 @@
     <MESSAGE value="Leetcode: 1277. Count Square Submatrices with All Ones" />
     <MESSAGE value="Leetcode: 559. Maximum Depth of N-ary Tree" />
     <MESSAGE value="Leetcode: 278. First Bad Version" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 278. First Bad Version" />
+    <MESSAGE value="Leetcode: 342. Power of Four" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 342. Power of Four" />
   </component>
 </project>
