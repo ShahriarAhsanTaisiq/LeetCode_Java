@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1957. Delete Characters to Make Fancy String">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode2490.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2490. Circular Sentence" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -295,15 +292,7 @@
       <workItem from="1730264900689" duration="1423000" />
       <workItem from="1730373572781" duration="1254000" />
       <workItem from="1730472167481" duration="437000" />
-      <workItem from="1730564629082" duration="695000" />
-    </task>
-    <task id="LOCAL-00180" summary="Leetcode: 2419. Longest Subarray With Maximum Bitwise AND">
-      <option name="closed" value="true" />
-      <created>1726322319414</created>
-      <option name="number" value="00180" />
-      <option name="presentableId" value="LOCAL-00180" />
-      <option name="project" value="LOCAL" />
-      <updated>1726322319414</updated>
+      <workItem from="1730564629082" duration="1328000" />
     </task>
     <task id="LOCAL-00181" summary="Leetcode: 2419. Longest Subarray With Maximum Bitwise AND">
       <option name="closed" value="true" />
@@ -689,7 +678,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730472539235</updated>
     </task>
-    <option name="localTasksCounter" value="229" />
+    <task id="LOCAL-00229" summary="Leetcode: 2490. Circular Sentence">
+      <option name="closed" value="true" />
+      <created>1730565356394</created>
+      <option name="number" value="00229" />
+      <option name="presentableId" value="LOCAL-00229" />
+      <option name="project" value="LOCAL" />
+      <updated>1730565356395</updated>
+    </task>
+    <option name="localTasksCounter" value="230" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -719,7 +716,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1497. Check If Array Pairs Are Divisible by k" />
     <MESSAGE value="Leetcode: 1331. Rank Transform of an Array" />
     <MESSAGE value="Leetcode: 2491. Divide Players Into Teams of Equal Skill" />
     <MESSAGE value="Leetcode: 2696. Minimum String Length After Removing Substrings" />
@@ -744,6 +740,7 @@
     <MESSAGE value="Leetcode: 342. Power of Four" />
     <MESSAGE value="Leetcode: 345. Reverse Vowels of a String" />
     <MESSAGE value="Leetcode: 1957. Delete Characters to Make Fancy String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1957. Delete Characters to Make Fancy String" />
+    <MESSAGE value="Leetcode: 2490. Circular Sentence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2490. Circular Sentence" />
   </component>
 </project>
