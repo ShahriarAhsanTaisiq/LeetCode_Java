@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2490. Circular Sentence" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 796. Rotate String">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode3163.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -293,14 +296,8 @@
       <workItem from="1730373572781" duration="1254000" />
       <workItem from="1730472167481" duration="437000" />
       <workItem from="1730564629082" duration="1328000" />
-    </task>
-    <task id="LOCAL-00181" summary="Leetcode: 2419. Longest Subarray With Maximum Bitwise AND">
-      <option name="closed" value="true" />
-      <created>1726410605603</created>
-      <option name="number" value="00181" />
-      <option name="presentableId" value="LOCAL-00181" />
-      <option name="project" value="LOCAL" />
-      <updated>1726410605605</updated>
+      <workItem from="1730610595909" duration="838000" />
+      <workItem from="1730699645731" duration="3793000" />
     </task>
     <task id="LOCAL-00182" summary="Leetcode: 539. Minimum Time Difference">
       <option name="closed" value="true" />
@@ -686,7 +683,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730565356395</updated>
     </task>
-    <option name="localTasksCounter" value="230" />
+    <task id="LOCAL-00230" summary="Leetcode: 796. Rotate String">
+      <option name="closed" value="true" />
+      <created>1730610821323</created>
+      <option name="number" value="00230" />
+      <option name="presentableId" value="LOCAL-00230" />
+      <option name="project" value="LOCAL" />
+      <updated>1730610821324</updated>
+    </task>
+    <option name="localTasksCounter" value="231" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -716,7 +721,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1331. Rank Transform of an Array" />
     <MESSAGE value="Leetcode: 2491. Divide Players Into Teams of Equal Skill" />
     <MESSAGE value="Leetcode: 2696. Minimum String Length After Removing Substrings" />
     <MESSAGE value="Leetcode: 1963. Minimum Number of Swaps to Make the String Balanced" />
@@ -741,6 +745,7 @@
     <MESSAGE value="Leetcode: 345. Reverse Vowels of a String" />
     <MESSAGE value="Leetcode: 1957. Delete Characters to Make Fancy String" />
     <MESSAGE value="Leetcode: 2490. Circular Sentence" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2490. Circular Sentence" />
+    <MESSAGE value="Leetcode: 796. Rotate String" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 796. Rotate String" />
   </component>
 </project>
