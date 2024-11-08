@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 3011. Find if Array Can Be Sorted">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode2275.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2275. Largest Combination With Bitwise AND Greater Than Zero">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1829.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,24 +47,24 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.LeetCode2275.executor": "Run",
-    "Application.LeetCode3011.executor": "Run",
-    "Application.Test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LeetCode2275.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode3011.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="RegularPractice" />
@@ -312,15 +312,8 @@
       <workItem from="1730795293910" duration="710000" />
       <workItem from="1730906693554" duration="807000" />
       <workItem from="1730915239453" duration="229000" />
-      <workItem from="1730959052827" duration="338000" />
-    </task>
-    <task id="LOCAL-00185" summary="Leetcode: 241. Different Ways to Add Parentheses">
-      <option name="closed" value="true" />
-      <created>1726764659934</created>
-      <option name="number" value="00185" />
-      <option name="presentableId" value="LOCAL-00185" />
-      <option name="project" value="LOCAL" />
-      <updated>1726764659935</updated>
+      <workItem from="1730959052827" duration="411000" />
+      <workItem from="1731042053321" duration="327000" />
     </task>
     <task id="LOCAL-00186" summary="Leetcode: 241. Different Ways to Add Parentheses">
       <option name="closed" value="true" />
@@ -706,7 +699,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730910173750</updated>
     </task>
-    <option name="localTasksCounter" value="234" />
+    <task id="LOCAL-00234" summary="Leetcode: 2275. Largest Combination With Bitwise AND Greater Than Zero">
+      <option name="closed" value="true" />
+      <created>1730959413234</created>
+      <option name="number" value="00234" />
+      <option name="presentableId" value="LOCAL-00234" />
+      <option name="project" value="LOCAL" />
+      <updated>1730959413235</updated>
+    </task>
+    <option name="localTasksCounter" value="235" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -736,7 +737,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 921. Minimum Add to Make Parentheses Valid" />
     <MESSAGE value="Leetcode: 203. Remove Linked List Elements" />
     <MESSAGE value="Leetcode: 225. Implement Stack using Queues" />
     <MESSAGE value="Leetcode: 2530. Maximal Score After Applying K Operations" />
@@ -761,6 +761,7 @@
     <MESSAGE value="Leetcode: 3163. String Compression III" />
     <MESSAGE value="Leetcode: 2914. Minimum Number of Changes to Make Binary String Beautiful" />
     <MESSAGE value="Leetcode: 3011. Find if Array Can Be Sorted" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 3011. Find if Array Can Be Sorted" />
+    <MESSAGE value="Leetcode: 2275. Largest Combination With Bitwise AND Greater Than Zero" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2275. Largest Combination With Bitwise AND Greater Than Zero" />
   </component>
 </project>
