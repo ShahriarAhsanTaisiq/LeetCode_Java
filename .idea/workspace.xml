@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2275. Largest Combination With Bitwise AND Greater Than Zero">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1829.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1829. Maximum XOR for Each Query" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,24 +44,25 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.LeetCode2275.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode3011.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LeetCode1829.executor": "Run",
+    "Application.LeetCode2275.executor": "Run",
+    "Application.LeetCode3011.executor": "Run",
+    "Application.Test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="RegularPractice" />
@@ -313,15 +311,7 @@
       <workItem from="1730906693554" duration="807000" />
       <workItem from="1730915239453" duration="229000" />
       <workItem from="1730959052827" duration="411000" />
-      <workItem from="1731042053321" duration="327000" />
-    </task>
-    <task id="LOCAL-00186" summary="Leetcode: 241. Different Ways to Add Parentheses">
-      <option name="closed" value="true" />
-      <created>1726841032073</created>
-      <option name="number" value="00186" />
-      <option name="presentableId" value="LOCAL-00186" />
-      <option name="project" value="LOCAL" />
-      <updated>1726841032074</updated>
+      <workItem from="1731042053321" duration="1083000" />
     </task>
     <task id="LOCAL-00187" summary="Leetcode: 386. Lexicographical Numbers">
       <option name="closed" value="true" />
@@ -707,7 +697,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730959413235</updated>
     </task>
-    <option name="localTasksCounter" value="235" />
+    <task id="LOCAL-00235" summary="Leetcode: 1829. Maximum XOR for Each Query">
+      <option name="closed" value="true" />
+      <created>1731042519199</created>
+      <option name="number" value="00235" />
+      <option name="presentableId" value="LOCAL-00235" />
+      <option name="project" value="LOCAL" />
+      <updated>1731042519200</updated>
+    </task>
+    <option name="localTasksCounter" value="236" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -737,7 +735,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 203. Remove Linked List Elements" />
     <MESSAGE value="Leetcode: 225. Implement Stack using Queues" />
     <MESSAGE value="Leetcode: 2530. Maximal Score After Applying K Operations" />
     <MESSAGE value="Leetcode: 2938. Separate Black and White Balls" />
@@ -762,6 +759,7 @@
     <MESSAGE value="Leetcode: 2914. Minimum Number of Changes to Make Binary String Beautiful" />
     <MESSAGE value="Leetcode: 3011. Find if Array Can Be Sorted" />
     <MESSAGE value="Leetcode: 2275. Largest Combination With Bitwise AND Greater Than Zero" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2275. Largest Combination With Bitwise AND Greater Than Zero" />
+    <MESSAGE value="Leetcode: 1829. Maximum XOR for Each Query" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1829. Maximum XOR for Each Query" />
   </component>
 </project>
