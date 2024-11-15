@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2563. Count the Number of Fair Pairs">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2064. Minimized Maximum of Products Distributed to Any Store" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -49,6 +47,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.LeetCode1829.executor": "Run",
+    "Application.LeetCode2064.executor": "Run",
     "Application.LeetCode2070.executor": "Run",
     "Application.LeetCode2275.executor": "Run",
     "Application.LeetCode2563.executor": "Run",
@@ -323,14 +322,7 @@
       <workItem from="1731303789701" duration="849000" />
       <workItem from="1731386412908" duration="680000" />
       <workItem from="1731492408616" duration="1120000" />
-    </task>
-    <task id="LOCAL-00191" summary="Leetcode: 35. Search Insert Position">
-      <option name="closed" value="true" />
-      <created>1727246835916</created>
-      <option name="number" value="00191" />
-      <option name="presentableId" value="LOCAL-00191" />
-      <option name="project" value="LOCAL" />
-      <updated>1727246835917</updated>
+      <workItem from="1731595316925" duration="778000" />
     </task>
     <task id="LOCAL-00192" summary="Leetcode: 67. Add Binary">
       <option name="closed" value="true" />
@@ -716,7 +708,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731492816399</updated>
     </task>
-    <option name="localTasksCounter" value="240" />
+    <task id="LOCAL-00240" summary="Leetcode: 2064. Minimized Maximum of Products Distributed to Any Store">
+      <option name="closed" value="true" />
+      <created>1731595487639</created>
+      <option name="number" value="00240" />
+      <option name="presentableId" value="LOCAL-00240" />
+      <option name="project" value="LOCAL" />
+      <updated>1731595487639</updated>
+    </task>
+    <option name="localTasksCounter" value="241" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -746,7 +746,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1545. Find Kth Bit in Nth Binary String" />
     <MESSAGE value="Leetcode: 231. Power of Two" />
     <MESSAGE value="Leetcode: 257. Binary Tree Paths" />
     <MESSAGE value="Leetcode: 258. Add Digits" />
@@ -771,6 +770,7 @@
     <MESSAGE value="Leetcode: 2601. Prime Subtraction Operation" />
     <MESSAGE value="Leetcode: 2070. Most Beautiful Item for Each Query" />
     <MESSAGE value="Leetcode: 2563. Count the Number of Fair Pairs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2563. Count the Number of Fair Pairs" />
+    <MESSAGE value="Leetcode: 2064. Minimized Maximum of Products Distributed to Any Store" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2064. Minimized Maximum of Products Distributed to Any Store" />
   </component>
 </project>
