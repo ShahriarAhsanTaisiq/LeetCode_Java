@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2064. Minimized Maximum of Products Distributed to Any Store" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1574. Shortest Subarray to be Removed to Make Array Sortede" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -46,6 +46,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Application.LeetCode1574.executor": "Run",
     "Application.LeetCode1829.executor": "Run",
     "Application.LeetCode2064.executor": "Run",
     "Application.LeetCode2070.executor": "Run",
@@ -323,14 +324,7 @@
       <workItem from="1731386412908" duration="680000" />
       <workItem from="1731492408616" duration="1120000" />
       <workItem from="1731595316925" duration="778000" />
-    </task>
-    <task id="LOCAL-00192" summary="Leetcode: 67. Add Binary">
-      <option name="closed" value="true" />
-      <created>1727365743367</created>
-      <option name="number" value="00192" />
-      <option name="presentableId" value="LOCAL-00192" />
-      <option name="project" value="LOCAL" />
-      <updated>1727365743368</updated>
+      <workItem from="1731679283446" duration="424000" />
     </task>
     <task id="LOCAL-00193" summary="Leetcode: 100. Same Tree">
       <option name="closed" value="true" />
@@ -716,7 +710,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731595487639</updated>
     </task>
-    <option name="localTasksCounter" value="241" />
+    <task id="LOCAL-00241" summary="Leetcode: 1574. Shortest Subarray to be Removed to Make Array Sortede">
+      <option name="closed" value="true" />
+      <created>1731679550770</created>
+      <option name="number" value="00241" />
+      <option name="presentableId" value="LOCAL-00241" />
+      <option name="project" value="LOCAL" />
+      <updated>1731679550771</updated>
+    </task>
+    <option name="localTasksCounter" value="242" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -746,7 +748,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 231. Power of Two" />
     <MESSAGE value="Leetcode: 257. Binary Tree Paths" />
     <MESSAGE value="Leetcode: 258. Add Digits" />
     <MESSAGE value="Leetcode: 263. Ugly Number" />
@@ -771,6 +772,7 @@
     <MESSAGE value="Leetcode: 2070. Most Beautiful Item for Each Query" />
     <MESSAGE value="Leetcode: 2563. Count the Number of Fair Pairs" />
     <MESSAGE value="Leetcode: 2064. Minimized Maximum of Products Distributed to Any Store" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2064. Minimized Maximum of Products Distributed to Any Store" />
+    <MESSAGE value="Leetcode: 1574. Shortest Subarray to be Removed to Make Array Sortede" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1574. Shortest Subarray to be Removed to Make Array Sortede" />
   </component>
 </project>

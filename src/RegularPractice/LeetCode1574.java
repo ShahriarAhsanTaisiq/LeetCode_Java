@@ -1,9 +1,7 @@
 package RegularPractice;
 /* 1574. Shortest Subarray to be Removed to Make Array Sorted
 * Given an integer array arr, remove a subarray (can be empty) from arr such that the remaining elements in arr are non-decreasing.
-
 Return the length of the shortest subarray to remove.
-
 A subarray is a contiguous subsequence of the array.
 
 Example 1:
@@ -23,9 +21,7 @@ Input: arr = [1,2,3]
 Output: 0
 Explanation: The array is already non-decreasing. We do not need to remove any elements.
 
-
 Constraints:
-
 1 <= arr.length <= 105
 0 <= arr[i] <= 109
 
