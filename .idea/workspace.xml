@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1574. Shortest Subarray to be Removed to Make Array Sortede" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 862. Shortest Subarray with Sum at Least K">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1652.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,31 +47,33 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.LeetCode1574.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1829.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2064.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2070.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2275.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2563.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2601.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode3011.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode3133.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LeetCode1574.executor": "Run",
+    "Application.LeetCode1652.executor": "Run",
+    "Application.LeetCode1829.executor": "Run",
+    "Application.LeetCode2064.executor": "Run",
+    "Application.LeetCode2070.executor": "Run",
+    "Application.LeetCode2275.executor": "Run",
+    "Application.LeetCode2563.executor": "Run",
+    "Application.LeetCode2601.executor": "Run",
+    "Application.LeetCode3011.executor": "Run",
+    "Application.LeetCode3133.executor": "Run",
+    "Application.LeetCode867.executor": "Run",
+    "Application.Test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="RegularPractice" />
@@ -326,22 +331,8 @@
       <workItem from="1731595316925" duration="778000" />
       <workItem from="1731679283446" duration="424000" />
       <workItem from="1731759131294" duration="634000" />
-    </task>
-    <task id="LOCAL-00194" summary="Leetcode: 112. Path Sum">
-      <option name="closed" value="true" />
-      <created>1727515955221</created>
-      <option name="number" value="00194" />
-      <option name="presentableId" value="LOCAL-00194" />
-      <option name="project" value="LOCAL" />
-      <updated>1727515955222</updated>
-    </task>
-    <task id="LOCAL-00195" summary="Leetcode: 119. Pascal's Triangle II">
-      <option name="closed" value="true" />
-      <created>1727631726824</created>
-      <option name="number" value="00195" />
-      <option name="presentableId" value="LOCAL-00195" />
-      <option name="project" value="LOCAL" />
-      <updated>1727631726825</updated>
+      <workItem from="1731856228403" duration="295000" />
+      <workItem from="1731914365663" duration="1046000" />
     </task>
     <task id="LOCAL-00196" summary="Leetcode: 168. Excel Sheet Column Title">
       <option name="closed" value="true" />
@@ -719,7 +710,23 @@
       <option name="project" value="LOCAL" />
       <updated>1731759155983</updated>
     </task>
-    <option name="localTasksCounter" value="243" />
+    <task id="LOCAL-00243" summary="Leetcode: 862. Shortest Subarray with Sum at Least K">
+      <option name="closed" value="true" />
+      <created>1731856478636</created>
+      <option name="number" value="00243" />
+      <option name="presentableId" value="LOCAL-00243" />
+      <option name="project" value="LOCAL" />
+      <updated>1731856478636</updated>
+    </task>
+    <task id="LOCAL-00244" summary="Leetcode: 862. Shortest Subarray with Sum at Least K">
+      <option name="closed" value="true" />
+      <created>1731856518838</created>
+      <option name="number" value="00244" />
+      <option name="presentableId" value="LOCAL-00244" />
+      <option name="project" value="LOCAL" />
+      <updated>1731856518838</updated>
+    </task>
+    <option name="localTasksCounter" value="245" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -749,7 +756,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 257. Binary Tree Paths" />
     <MESSAGE value="Leetcode: 258. Add Digits" />
     <MESSAGE value="Leetcode: 263. Ugly Number" />
     <MESSAGE value="Leetcode: 338. Counting Bits" />
@@ -774,6 +780,7 @@
     <MESSAGE value="Leetcode: 2563. Count the Number of Fair Pairs" />
     <MESSAGE value="Leetcode: 2064. Minimized Maximum of Products Distributed to Any Store" />
     <MESSAGE value="Leetcode: 1574. Shortest Subarray to be Removed to Make Array Sortede" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1574. Shortest Subarray to be Removed to Make Array Sortede" />
+    <MESSAGE value="Leetcode: 862. Shortest Subarray with Sum at Least K" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 862. Shortest Subarray with Sum at Least K" />
   </component>
 </project>
