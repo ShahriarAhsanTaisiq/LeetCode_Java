@@ -4,8 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1652. Defuse the Bomb">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode2461.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2461. Maximum Sum of Distinct Subarrays With Length K">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -47,33 +46,34 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.LeetCode1574.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1652.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1829.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2064.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2070.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2275.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2563.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2601.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode3011.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode3133.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode867.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LeetCode1574.executor": "Run",
+    "Application.LeetCode1652.executor": "Run",
+    "Application.LeetCode1829.executor": "Run",
+    "Application.LeetCode2064.executor": "Run",
+    "Application.LeetCode2070.executor": "Run",
+    "Application.LeetCode2275.executor": "Run",
+    "Application.LeetCode2461.executor": "Run",
+    "Application.LeetCode2563.executor": "Run",
+    "Application.LeetCode2601.executor": "Run",
+    "Application.LeetCode3011.executor": "Run",
+    "Application.LeetCode3133.executor": "Run",
+    "Application.LeetCode867.executor": "Run",
+    "Application.Test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="RegularPractice" />
@@ -333,15 +333,7 @@
       <workItem from="1731759131294" duration="634000" />
       <workItem from="1731856228403" duration="295000" />
       <workItem from="1731914365663" duration="1550000" />
-      <workItem from="1731987296036" duration="363000" />
-    </task>
-    <task id="LOCAL-00197" summary="Leetcode: 1497. Check If Array Pairs Are Divisible by k">
-      <option name="closed" value="true" />
-      <created>1727767830460</created>
-      <option name="number" value="00197" />
-      <option name="presentableId" value="LOCAL-00197" />
-      <option name="project" value="LOCAL" />
-      <updated>1727767830461</updated>
+      <workItem from="1731987296036" duration="1734000" />
     </task>
     <task id="LOCAL-00198" summary="Leetcode: 1497. Check If Array Pairs Are Divisible by k">
       <option name="closed" value="true" />
@@ -727,7 +719,15 @@
       <option name="project" value="LOCAL" />
       <updated>1731915486663</updated>
     </task>
-    <option name="localTasksCounter" value="246" />
+    <task id="LOCAL-00246" summary="Leetcode: 2461. Maximum Sum of Distinct Subarrays With Length K">
+      <option name="closed" value="true" />
+      <created>1731987827780</created>
+      <option name="number" value="00246" />
+      <option name="presentableId" value="LOCAL-00246" />
+      <option name="project" value="LOCAL" />
+      <updated>1731987827780</updated>
+    </task>
+    <option name="localTasksCounter" value="247" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -757,7 +757,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 263. Ugly Number" />
     <MESSAGE value="Leetcode: 338. Counting Bits" />
     <MESSAGE value="Leetcode: 1233. Remove Sub-Folders from the Filesystem" />
     <MESSAGE value="Leetcode: 389. Find the Difference" />
@@ -782,6 +781,7 @@
     <MESSAGE value="Leetcode: 1574. Shortest Subarray to be Removed to Make Array Sortede" />
     <MESSAGE value="Leetcode: 862. Shortest Subarray with Sum at Least K" />
     <MESSAGE value="Leetcode: 1652. Defuse the Bomb" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1652. Defuse the Bomb" />
+    <MESSAGE value="Leetcode: 2461. Maximum Sum of Distinct Subarrays With Length K" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2461. Maximum Sum of Distinct Subarrays With Length K" />
   </component>
 </project>
