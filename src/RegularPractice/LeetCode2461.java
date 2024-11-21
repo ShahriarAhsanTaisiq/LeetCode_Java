@@ -64,8 +64,8 @@ class MaximumSubArraySum{
 }
 public class LeetCode2461 {
     public static void main(String[] args) {
-        MaximumSubArraySum maximumSubArraySum = new MaximumSubArraySum();
 
+        MaximumSubArraySum maximumSubArraySum = new MaximumSubArraySum();
         System.out.println(maximumSubArraySum.maximumSubarraySum(new int[]{1,5,4,2,9,9,9}, 3));
         System.out.println(maximumSubArraySum.maximumSubarraySum(new int[]{4,4,4}, 3));
     }
