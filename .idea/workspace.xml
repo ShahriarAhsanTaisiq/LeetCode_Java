@@ -333,14 +333,7 @@
       <workItem from="1731914365663" duration="1550000" />
       <workItem from="1731987296036" duration="1734000" />
       <workItem from="1732081734646" duration="695000" />
-    </task>
-    <task id="LOCAL-00199" summary="Leetcode: 1497. Check If Array Pairs Are Divisible by k">
-      <option name="closed" value="true" />
-      <created>1727805205217</created>
-      <option name="number" value="00199" />
-      <option name="presentableId" value="LOCAL-00199" />
-      <option name="project" value="LOCAL" />
-      <updated>1727805205217</updated>
+      <workItem from="1732164063502" duration="490000" />
     </task>
     <task id="LOCAL-00200" summary="Leetcode: 1331. Rank Transform of an Array">
       <option name="closed" value="true" />
@@ -726,7 +719,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732081780835</updated>
     </task>
-    <option name="localTasksCounter" value="248" />
+    <task id="LOCAL-00248" summary="Leetcode: 2461. Maximum Sum of Distinct Subarrays With Length K">
+      <option name="closed" value="true" />
+      <created>1732164092138</created>
+      <option name="number" value="00248" />
+      <option name="presentableId" value="LOCAL-00248" />
+      <option name="project" value="LOCAL" />
+      <updated>1732164092139</updated>
+    </task>
+    <option name="localTasksCounter" value="249" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
