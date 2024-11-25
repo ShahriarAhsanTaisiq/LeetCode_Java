@@ -58,31 +58,25 @@ class MaximumMatrixSum{
 public class LeetCode1975 {
     public static void main(String[] args) {
         MaximumMatrixSum mms = new MaximumMatrixSum();
-        // Test case 1: Example 1
+
         int[][] matrix1 = {{1, -1}, {-1, 1}};
         System.out.println("Maximum matrix sum: " + mms.maxMatrixSum(matrix1)); // Expected: 4
 
-        // Test case 2: Example 2
         int[][] matrix2 = {{1, 2, 3}, {-1, -2, -3}, {1, 2, 3}};
         System.out.println("Maximum matrix sum: " + mms.maxMatrixSum(matrix2)); // Expected: 16
 
-        // Test case 3: Single negative value
         int[][] matrix3 = {{-1}};
         System.out.println("Maximum matrix sum: " + mms.maxMatrixSum(matrix3)); // Expected: 1
 
-        // Test case 4: Mixed positive and negative values
         int[][] matrix4 = {{-1, 2, -3}, {4, -5, 6}, {-7, 8, -9}};
         System.out.println("Maximum matrix sum: " + mms.maxMatrixSum(matrix4)); // Expected: 45
 
-        // Test case 5: All positive values
         int[][] matrix5 = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
         System.out.println("Maximum matrix sum: " + mms.maxMatrixSum(matrix5)); // Expected: 45
 
-        // Test case 6: All negative values
         int[][] matrix6 = {{-1, -2, -3}, {-4, -5, -6}, {-7, -8, -9}};
         System.out.println("Maximum matrix sum: " + mms.maxMatrixSum(matrix6)); // Expected: 45
 
-        // Test case 7: Large numbers
         int[][] matrix7 = {{100000, -100000}, {-100000, 100000}};
         System.out.println("Maximum matrix sum: " + mms.maxMatrixSum(matrix7)); // Expected: 400000
     }
