@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1975. Maximum Matrix Sum" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1975. Maximum Matrix Sum">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode2924.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -57,6 +60,7 @@
     "Application.LeetCode2461.executor": "Run",
     "Application.LeetCode2563.executor": "Run",
     "Application.LeetCode2601.executor": "Run",
+    "Application.LeetCode2924.executor": "Run",
     "Application.LeetCode3011.executor": "Run",
     "Application.LeetCode3133.executor": "Run",
     "Application.LeetCode867.executor": "Run",
@@ -339,14 +343,8 @@
       <workItem from="1732276399919" duration="90000" />
       <workItem from="1732335663475" duration="1283000" />
       <workItem from="1732449122438" duration="702000" />
-    </task>
-    <task id="LOCAL-00203" summary="Leetcode: 2491. Divide Players Into Teams of Equal Skill">
-      <option name="closed" value="true" />
-      <created>1728133203597</created>
-      <option name="number" value="00203" />
-      <option name="presentableId" value="LOCAL-00203" />
-      <option name="project" value="LOCAL" />
-      <updated>1728133203597</updated>
+      <workItem from="1732512566077" duration="645000" />
+      <workItem from="1732629305301" duration="375000" />
     </task>
     <task id="LOCAL-00204" summary="Leetcode: 2491. Divide Players Into Teams of Equal Skill">
       <option name="closed" value="true" />
@@ -732,7 +730,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732450755679</updated>
     </task>
-    <option name="localTasksCounter" value="252" />
+    <task id="LOCAL-00252" summary="Leetcode: 1975. Maximum Matrix Sum">
+      <option name="closed" value="true" />
+      <created>1732512607621</created>
+      <option name="number" value="00252" />
+      <option name="presentableId" value="LOCAL-00252" />
+      <option name="project" value="LOCAL" />
+      <updated>1732512607622</updated>
+    </task>
+    <option name="localTasksCounter" value="253" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
