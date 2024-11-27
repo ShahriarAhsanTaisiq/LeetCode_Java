@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1975. Maximum Matrix Sum">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode2924.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2924. Find Champion II" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -344,15 +341,7 @@
       <workItem from="1732335663475" duration="1283000" />
       <workItem from="1732449122438" duration="702000" />
       <workItem from="1732512566077" duration="645000" />
-      <workItem from="1732629305301" duration="375000" />
-    </task>
-    <task id="LOCAL-00204" summary="Leetcode: 2491. Divide Players Into Teams of Equal Skill">
-      <option name="closed" value="true" />
-      <created>1728231459742</created>
-      <option name="number" value="00204" />
-      <option name="presentableId" value="LOCAL-00204" />
-      <option name="project" value="LOCAL" />
-      <updated>1728231459742</updated>
+      <workItem from="1732629305301" duration="442000" />
     </task>
     <task id="LOCAL-00205" summary="Leetcode: 2696. Minimum String Length After Removing Substrings">
       <option name="closed" value="true" />
@@ -738,7 +727,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732512607622</updated>
     </task>
-    <option name="localTasksCounter" value="253" />
+    <task id="LOCAL-00253" summary="Leetcode: 2924. Find Champion II">
+      <option name="closed" value="true" />
+      <created>1732629737176</created>
+      <option name="number" value="00253" />
+      <option name="presentableId" value="LOCAL-00253" />
+      <option name="project" value="LOCAL" />
+      <updated>1732629737177</updated>
+    </task>
+    <option name="localTasksCounter" value="254" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -768,7 +765,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 389. Find the Difference" />
     <MESSAGE value="Leetcode: 1277. Count Square Submatrices with All Ones" />
     <MESSAGE value="Leetcode: 559. Maximum Depth of N-ary Tree" />
     <MESSAGE value="Leetcode: 278. First Bad Version" />
@@ -793,6 +789,7 @@
     <MESSAGE value="Leetcode: 2461. Maximum Sum of Distinct Subarrays With Length K" />
     <MESSAGE value="Leetcode: 1861. Rotating the Box" />
     <MESSAGE value="Leetcode: 1975. Maximum Matrix Sum" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1975. Maximum Matrix Sum" />
+    <MESSAGE value="Leetcode: 2924. Find Champion II" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2924. Find Champion II" />
   </component>
 </project>
