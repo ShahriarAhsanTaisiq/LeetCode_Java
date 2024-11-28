@@ -17,7 +17,6 @@ Output: -1
 Explanation: Team 2 is weaker than team 0 and team 1. Team 3 is weaker than team 1. But team 1 and team 0 are not weaker than any other teams. So the answer is -1.
 
 Constraints:
-
 1 <= n <= 100
 m == edges.length
 0 <= m <= n * (n - 1) / 2
@@ -31,12 +30,10 @@ The input is generated such that if team a is stronger than team b and team b is
 class FindChampionII{
     public  int findChampion( int n , int [][] edges){
         int [] inDegree = new int [n];
-
         for( int [] edge : edges){
             inDegree[edge[1]]++;
         }
         int ans = -1, counter = 0;
-
         for (int i = 0; i < n; i++) {
             if (inDegree[i] == 0) {
                 ans = i;
