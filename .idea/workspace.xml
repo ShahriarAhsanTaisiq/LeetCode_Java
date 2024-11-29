@@ -343,14 +343,7 @@
       <workItem from="1732512566077" duration="645000" />
       <workItem from="1732629305301" duration="442000" />
       <workItem from="1732688136695" duration="61000" />
-    </task>
-    <task id="LOCAL-00206" summary="Leetcode: 1963. Minimum Number of Swaps to Make the String Balanced">
-      <option name="closed" value="true" />
-      <created>1728369555713</created>
-      <option name="number" value="00206" />
-      <option name="presentableId" value="LOCAL-00206" />
-      <option name="project" value="LOCAL" />
-      <updated>1728369555714</updated>
+      <workItem from="1732774595614" duration="44000" />
     </task>
     <task id="LOCAL-00207" summary="Leetcode: 921. Minimum Add to Make Parentheses Valid">
       <option name="closed" value="true" />
@@ -736,7 +729,15 @@
       <option name="project" value="LOCAL" />
       <updated>1732688186565</updated>
     </task>
-    <option name="localTasksCounter" value="255" />
+    <task id="LOCAL-00255" summary="Leetcode: 2924. Find Champion II">
+      <option name="closed" value="true" />
+      <created>1732774628760</created>
+      <option name="number" value="00255" />
+      <option name="presentableId" value="LOCAL-00255" />
+      <option name="project" value="LOCAL" />
+      <updated>1732774628761</updated>
+    </task>
+    <option name="localTasksCounter" value="256" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
