@@ -52,5 +52,6 @@ public class LeetCode2924 {
         System.out.println(findChampion.findChampion(3,new int[][]{{0,1},{1,2}}));
         System.out.println(findChampion.findChampion(4, new int[][]{{0,2},{1,3},{1,2}}));
         System.out.println(findChampion.findChampion(6, new int[][]{{0,1},{0,2},{1,3},{1,4},{2,5}}));
+        System.out.println(findChampion.findChampion(7,new int[][]{{0,1},{0,2},{1,3},{1,4},{2,5}}));
     }
 }
