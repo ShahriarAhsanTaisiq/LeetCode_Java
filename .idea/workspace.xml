@@ -4,7 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1346. Check If N and Its Double Exist">
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode2109.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -49,6 +50,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "Application.LeetCode1346.executor": "Run",
+    "Application.LeetCode1455.executor": "Run",
     "Application.LeetCode1574.executor": "Run",
     "Application.LeetCode1652.executor": "Run",
     "Application.LeetCode1829.executor": "Run",
@@ -56,6 +58,7 @@
     "Application.LeetCode1975.executor": "Run",
     "Application.LeetCode2064.executor": "Run",
     "Application.LeetCode2070.executor": "Run",
+    "Application.LeetCode2109.executor": "Run",
     "Application.LeetCode2275.executor": "Run",
     "Application.LeetCode2461.executor": "Run",
     "Application.LeetCode2563.executor": "Run",
@@ -350,14 +353,8 @@
       <workItem from="1732892999272" duration="253000" />
       <workItem from="1732970501729" duration="102000" />
       <workItem from="1733028630595" duration="310000" />
-    </task>
-    <task id="LOCAL-00210" summary="Leetcode: 203. Remove Linked List Elements">
-      <option name="closed" value="true" />
-      <created>1728745341642</created>
-      <option name="number" value="00210" />
-      <option name="presentableId" value="LOCAL-00210" />
-      <option name="project" value="LOCAL" />
-      <updated>1728745341642</updated>
+      <workItem from="1733133183240" duration="352000" />
+      <workItem from="1733223534991" duration="316000" />
     </task>
     <task id="LOCAL-00211" summary="Leetcode: 225. Implement Stack using Queues">
       <option name="closed" value="true" />
@@ -743,7 +740,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733028897356</updated>
     </task>
-    <option name="localTasksCounter" value="259" />
+    <task id="LOCAL-00259" summary="Leetcode: 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence">
+      <option name="closed" value="true" />
+      <created>1733133432161</created>
+      <option name="number" value="00259" />
+      <option name="presentableId" value="LOCAL-00259" />
+      <option name="project" value="LOCAL" />
+      <updated>1733133432161</updated>
+    </task>
+    <option name="localTasksCounter" value="260" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -773,7 +778,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 559. Maximum Depth of N-ary Tree" />
     <MESSAGE value="Leetcode: 278. First Bad Version" />
     <MESSAGE value="Leetcode: 342. Power of Four" />
     <MESSAGE value="Leetcode: 345. Reverse Vowels of a String" />
@@ -798,6 +802,7 @@
     <MESSAGE value="Leetcode: 1975. Maximum Matrix Sum" />
     <MESSAGE value="Leetcode: 2924. Find Champion II" />
     <MESSAGE value="Leetcode: 1346. Check If N and Its Double Exist" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1346. Check If N and Its Double Exist" />
+    <MESSAGE value="Leetcode: 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence" />
   </component>
 </project>
