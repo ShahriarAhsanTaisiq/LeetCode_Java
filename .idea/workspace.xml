@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2337. Move Pieces to Obtain a String">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode2554.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2554. Maximum Number of Integers to Choose From a Range I">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1760.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -53,6 +53,7 @@
     "Application.LeetCode1455.executor": "Run",
     "Application.LeetCode1574.executor": "Run",
     "Application.LeetCode1652.executor": "Run",
+    "Application.LeetCode1760.executor": "Run",
     "Application.LeetCode1829.executor": "Run",
     "Application.LeetCode1861.executor": "Run",
     "Application.LeetCode1975.executor": "Run",
@@ -360,15 +361,8 @@
       <workItem from="1733223534991" duration="1292000" />
       <workItem from="1733293057330" duration="339000" />
       <workItem from="1733378857688" duration="985000" />
-      <workItem from="1733496994910" duration="923000" />
-    </task>
-    <task id="LOCAL-00215" summary="Leetcode: 1545. Find Kth Bit in Nth Binary String">
-      <option name="closed" value="true" />
-      <created>1729298886004</created>
-      <option name="number" value="00215" />
-      <option name="presentableId" value="LOCAL-00215" />
-      <option name="project" value="LOCAL" />
-      <updated>1729298886005</updated>
+      <workItem from="1733496994910" duration="1906000" />
+      <workItem from="1733568626815" duration="543000" />
     </task>
     <task id="LOCAL-00216" summary="Leetcode: 231. Power of Two">
       <option name="closed" value="true" />
@@ -754,7 +748,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733379224776</updated>
     </task>
-    <option name="localTasksCounter" value="264" />
+    <task id="LOCAL-00264" summary="Leetcode: 2554. Maximum Number of Integers to Choose From a Range I">
+      <option name="closed" value="true" />
+      <created>1733498359241</created>
+      <option name="number" value="00264" />
+      <option name="presentableId" value="LOCAL-00264" />
+      <option name="project" value="LOCAL" />
+      <updated>1733498359241</updated>
+    </task>
+    <option name="localTasksCounter" value="265" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -784,7 +786,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1957. Delete Characters to Make Fancy String" />
     <MESSAGE value="Leetcode: 2490. Circular Sentence" />
     <MESSAGE value="Leetcode: 796. Rotate String" />
     <MESSAGE value="Leetcode: 3163. String Compression III" />
@@ -809,6 +810,7 @@
     <MESSAGE value="Leetcode: 2109. Adding Spaces to a String" />
     <MESSAGE value="Leetcode: 2825. Make String a Subsequence Using Cyclic Increments" />
     <MESSAGE value="Leetcode: 2337. Move Pieces to Obtain a String" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2337. Move Pieces to Obtain a String" />
+    <MESSAGE value="Leetcode: 2554. Maximum Number of Integers to Choose From a Range I" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2554. Maximum Number of Integers to Choose From a Range I" />
   </component>
 </project>
