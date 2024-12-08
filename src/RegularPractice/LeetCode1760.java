@@ -58,5 +58,6 @@ public class LeetCode1760 {
         MinLimitOFBallsInBag obj = new MinLimitOFBallsInBag();
         System.out.println(obj.minimumSize(new int[]{9}, 2));
         System.out.println(obj.minimumSize(new int[]{2,4,8,2}, 4));
+        System.out.println(obj.minimumSize(new int[]{6,9,12,24}, 5));
     }
 }

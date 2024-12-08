@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2554. Maximum Number of Integers to Choose From a Range I">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1760.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1760. Minimum Limit of Balls in a Bag" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -362,15 +359,7 @@
       <workItem from="1733293057330" duration="339000" />
       <workItem from="1733378857688" duration="985000" />
       <workItem from="1733496994910" duration="1906000" />
-      <workItem from="1733568626815" duration="543000" />
-    </task>
-    <task id="LOCAL-00216" summary="Leetcode: 231. Power of Two">
-      <option name="closed" value="true" />
-      <created>1729444307069</created>
-      <option name="number" value="00216" />
-      <option name="presentableId" value="LOCAL-00216" />
-      <option name="project" value="LOCAL" />
-      <updated>1729444307069</updated>
+      <workItem from="1733568626815" duration="742000" />
     </task>
     <task id="LOCAL-00217" summary="Leetcode: 257. Binary Tree Paths">
       <option name="closed" value="true" />
@@ -756,7 +745,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733498359241</updated>
     </task>
-    <option name="localTasksCounter" value="265" />
+    <task id="LOCAL-00265" summary="Leetcode: 1760. Minimum Limit of Balls in a Bag">
+      <option name="closed" value="true" />
+      <created>1733569351002</created>
+      <option name="number" value="00265" />
+      <option name="presentableId" value="LOCAL-00265" />
+      <option name="project" value="LOCAL" />
+      <updated>1733569351002</updated>
+    </task>
+    <option name="localTasksCounter" value="266" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -786,7 +783,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 2490. Circular Sentence" />
     <MESSAGE value="Leetcode: 796. Rotate String" />
     <MESSAGE value="Leetcode: 3163. String Compression III" />
     <MESSAGE value="Leetcode: 2914. Minimum Number of Changes to Make Binary String Beautiful" />
@@ -811,6 +807,7 @@
     <MESSAGE value="Leetcode: 2825. Make String a Subsequence Using Cyclic Increments" />
     <MESSAGE value="Leetcode: 2337. Move Pieces to Obtain a String" />
     <MESSAGE value="Leetcode: 2554. Maximum Number of Integers to Choose From a Range I" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2554. Maximum Number of Integers to Choose From a Range I" />
+    <MESSAGE value="Leetcode: 1760. Minimum Limit of Balls in a Bag" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1760. Minimum Limit of Balls in a Bag" />
   </component>
 </project>
