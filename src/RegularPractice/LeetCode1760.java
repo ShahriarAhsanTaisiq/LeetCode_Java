@@ -60,5 +60,6 @@ public class LeetCode1760 {
         System.out.println(obj.minimumSize(new int[]{2,4,8,2}, 4));
         System.out.println(obj.minimumSize(new int[]{6,9,12,24}, 5));
         System.out.println(obj.minimumSize(new int[]{1,2,3,4,5,6,7,8,9}, 6));
+        System.out.println(obj.minimumSize(new int[]{14,15,16,27,38,49}, 3));
     }
 }

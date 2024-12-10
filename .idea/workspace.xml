@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1760. Minimum Limit of Balls in a Bag">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1760. Minimum Limit of Balls in a Bag" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -363,14 +361,7 @@
       <workItem from="1733496994910" duration="1906000" />
       <workItem from="1733568626815" duration="742000" />
       <workItem from="1733636556384" duration="639000" />
-    </task>
-    <task id="LOCAL-00218" summary="Leetcode: 258. Add Digits">
-      <option name="closed" value="true" />
-      <created>1729614551137</created>
-      <option name="number" value="00218" />
-      <option name="presentableId" value="LOCAL-00218" />
-      <option name="project" value="LOCAL" />
-      <updated>1729614551137</updated>
+      <workItem from="1733747303545" duration="665000" />
     </task>
     <task id="LOCAL-00219" summary="Leetcode: 263. Ugly Number">
       <option name="closed" value="true" />
@@ -756,7 +747,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733636979961</updated>
     </task>
-    <option name="localTasksCounter" value="267" />
+    <task id="LOCAL-00267" summary="Leetcode: 1760. Minimum Limit of Balls in a Bag">
+      <option name="closed" value="true" />
+      <created>1733747343911</created>
+      <option name="number" value="00267" />
+      <option name="presentableId" value="LOCAL-00267" />
+      <option name="project" value="LOCAL" />
+      <updated>1733747343911</updated>
+    </task>
+    <option name="localTasksCounter" value="268" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
