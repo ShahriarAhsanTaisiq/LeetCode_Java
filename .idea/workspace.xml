@@ -362,14 +362,7 @@
       <workItem from="1733568626815" duration="742000" />
       <workItem from="1733636556384" duration="639000" />
       <workItem from="1733747303545" duration="665000" />
-    </task>
-    <task id="LOCAL-00219" summary="Leetcode: 263. Ugly Number">
-      <option name="closed" value="true" />
-      <created>1729659530965</created>
-      <option name="number" value="00219" />
-      <option name="presentableId" value="LOCAL-00219" />
-      <option name="project" value="LOCAL" />
-      <updated>1729659530966</updated>
+      <workItem from="1733838473612" duration="874000" />
     </task>
     <task id="LOCAL-00220" summary="Leetcode: 338. Counting Bits">
       <option name="closed" value="true" />
@@ -755,7 +748,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733747343911</updated>
     </task>
-    <option name="localTasksCounter" value="268" />
+    <task id="LOCAL-00268" summary="Leetcode: 1760. Minimum Limit of Balls in a Bag">
+      <option name="closed" value="true" />
+      <created>1733838612192</created>
+      <option name="number" value="00268" />
+      <option name="presentableId" value="LOCAL-00268" />
+      <option name="project" value="LOCAL" />
+      <updated>1733838612192</updated>
+    </task>
+    <option name="localTasksCounter" value="269" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
