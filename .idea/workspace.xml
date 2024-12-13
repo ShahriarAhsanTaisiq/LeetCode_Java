@@ -46,45 +46,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.LeetCode1346.executor": "Run",
-    "Application.LeetCode1455.executor": "Run",
-    "Application.LeetCode1574.executor": "Run",
-    "Application.LeetCode1652.executor": "Run",
-    "Application.LeetCode1760.executor": "Run",
-    "Application.LeetCode1829.executor": "Run",
-    "Application.LeetCode1861.executor": "Run",
-    "Application.LeetCode1975.executor": "Run",
-    "Application.LeetCode2064.executor": "Run",
-    "Application.LeetCode2070.executor": "Run",
-    "Application.LeetCode2109.executor": "Run",
-    "Application.LeetCode2275.executor": "Run",
-    "Application.LeetCode2337.executor": "Run",
-    "Application.LeetCode2461.executor": "Run",
-    "Application.LeetCode2554.executor": "Run",
-    "Application.LeetCode2563.executor": "Run",
-    "Application.LeetCode2601.executor": "Run",
-    "Application.LeetCode2779.executor": "Run",
-    "Application.LeetCode2825.executor": "Run",
-    "Application.LeetCode2924.executor": "Run",
-    "Application.LeetCode3011.executor": "Run",
-    "Application.LeetCode3133.executor": "Run",
-    "Application.LeetCode867.executor": "Run",
-    "Application.Test.executor": "Run",
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false",
-    "git-widget-placeholder": "main",
-    "kotlin-language-version-configured": "true",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.LeetCode1346.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode1455.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode1574.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode1652.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode1760.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode1829.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode1861.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode1975.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode2064.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode2070.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode2109.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode2275.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode2337.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode2461.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode2554.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode2563.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode2601.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode2779.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode2825.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode2924.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode3011.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode3133.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode867.executor&quot;: &quot;Run&quot;,
+    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="RegularPractice" />
@@ -367,14 +367,7 @@
       <workItem from="1733747303545" duration="665000" />
       <workItem from="1733838473612" duration="874000" />
       <workItem from="1733925108686" duration="1354000" />
-    </task>
-    <task id="LOCAL-00221" summary="Leetcode: 1233. Remove Sub-Folders from the Filesystem">
-      <option name="closed" value="true" />
-      <created>1729837080737</created>
-      <option name="number" value="00221" />
-      <option name="presentableId" value="LOCAL-00221" />
-      <option name="project" value="LOCAL" />
-      <updated>1729837080738</updated>
+      <workItem from="1734005551608" duration="1244000" />
     </task>
     <task id="LOCAL-00222" summary="Leetcode: 389. Find the Difference">
       <option name="closed" value="true" />
@@ -760,7 +753,15 @@
       <option name="project" value="LOCAL" />
       <updated>1733925404031</updated>
     </task>
-    <option name="localTasksCounter" value="270" />
+    <task id="LOCAL-00270" summary="Leetcode: 2779. Maximum Beauty of an Array After Applying Operation">
+      <option name="closed" value="true" />
+      <created>1734005637605</created>
+      <option name="number" value="00270" />
+      <option name="presentableId" value="LOCAL-00270" />
+      <option name="project" value="LOCAL" />
+      <updated>1734005637605</updated>
+    </task>
+    <option name="localTasksCounter" value="271" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

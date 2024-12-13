@@ -68,5 +68,6 @@ public class LeetCode2779 {
         System.out.println(maxBeauty.maximumBeauty(new int[]{4,6,1,2}, 2));
         System.out.println(maxBeauty.maximumBeauty(new int[]{1,1,1,1}, 10));
         System.out.println(maxBeauty.maximumBeauty(new int[]{4,6,5,3,6,8,9}, 2));
+        System.out.println(maxBeauty.maximumBeauty(new int[]{5,3,6,8,9}, 4));
     }
 }
