@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2779. Maximum Beauty of an Array After Applying Operation">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2779. Maximum Beauty of an Array After Applying Operation" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -368,14 +366,7 @@
       <workItem from="1733838473612" duration="874000" />
       <workItem from="1733925108686" duration="1354000" />
       <workItem from="1734005551608" duration="1244000" />
-    </task>
-    <task id="LOCAL-00222" summary="Leetcode: 389. Find the Difference">
-      <option name="closed" value="true" />
-      <created>1729920317311</created>
-      <option name="number" value="00222" />
-      <option name="presentableId" value="LOCAL-00222" />
-      <option name="project" value="LOCAL" />
-      <updated>1729920317311</updated>
+      <workItem from="1734077309015" duration="59000" />
     </task>
     <task id="LOCAL-00223" summary="Leetcode: 1277. Count Square Submatrices with All Ones">
       <option name="closed" value="true" />
@@ -761,7 +752,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734005637605</updated>
     </task>
-    <option name="localTasksCounter" value="271" />
+    <task id="LOCAL-00271" summary="Leetcode: 2779. Maximum Beauty of an Array After Applying Operation">
+      <option name="closed" value="true" />
+      <created>1734077351457</created>
+      <option name="number" value="00271" />
+      <option name="presentableId" value="LOCAL-00271" />
+      <option name="project" value="LOCAL" />
+      <updated>1734077351458</updated>
+    </task>
+    <option name="localTasksCounter" value="272" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
