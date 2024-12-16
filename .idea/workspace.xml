@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2779. Maximum Beauty of an Array After Applying Operation">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1792.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1792. Maximum Average Pass Ratio">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode3264.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +54,7 @@
     &quot;Application.LeetCode1574.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeetCode1652.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeetCode1760.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode1792.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeetCode1829.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeetCode1861.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeetCode1975.executor&quot;: &quot;Run&quot;,
@@ -391,15 +392,8 @@
       <workItem from="1734005551608" duration="1244000" />
       <workItem from="1734077309015" duration="59000" />
       <workItem from="1734183973975" duration="1263000" />
-      <workItem from="1734274535221" duration="305000" />
-    </task>
-    <task id="LOCAL-00224" summary="Leetcode: 559. Maximum Depth of N-ary Tree">
-      <option name="closed" value="true" />
-      <created>1730108306656</created>
-      <option name="number" value="00224" />
-      <option name="presentableId" value="LOCAL-00224" />
-      <option name="project" value="LOCAL" />
-      <updated>1730108306657</updated>
+      <workItem from="1734274535221" duration="1178000" />
+      <workItem from="1734325446876" duration="318000" />
     </task>
     <task id="LOCAL-00225" summary="Leetcode: 278. First Bad Version">
       <option name="closed" value="true" />
@@ -785,7 +779,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734184030267</updated>
     </task>
-    <option name="localTasksCounter" value="273" />
+    <task id="LOCAL-00273" summary="Leetcode: 1792. Maximum Average Pass Ratio">
+      <option name="closed" value="true" />
+      <created>1734274989125</created>
+      <option name="number" value="00273" />
+      <option name="presentableId" value="LOCAL-00273" />
+      <option name="project" value="LOCAL" />
+      <updated>1734274989125</updated>
+    </task>
+    <option name="localTasksCounter" value="274" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -815,7 +817,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 3163. String Compression III" />
     <MESSAGE value="Leetcode: 2914. Minimum Number of Changes to Make Binary String Beautiful" />
     <MESSAGE value="Leetcode: 3011. Find if Array Can Be Sorted" />
     <MESSAGE value="Leetcode: 2275. Largest Combination With Bitwise AND Greater Than Zero" />
@@ -840,6 +841,7 @@
     <MESSAGE value="Leetcode: 2554. Maximum Number of Integers to Choose From a Range I" />
     <MESSAGE value="Leetcode: 1760. Minimum Limit of Balls in a Bag" />
     <MESSAGE value="Leetcode: 2779. Maximum Beauty of an Array After Applying Operation" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2779. Maximum Beauty of an Array After Applying Operation" />
+    <MESSAGE value="Leetcode: 1792. Maximum Average Pass Ratio" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1792. Maximum Average Pass Ratio" />
   </component>
 </project>
