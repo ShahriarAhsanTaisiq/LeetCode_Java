@@ -78,5 +78,13 @@ public class LeetCode3264 {
         int multiplier2 = 4;
         int[] result2 = a.getFinalState(nums2, k2, multiplier2);
         System.out.println("Final state for test case 2: " + java.util.Arrays.toString(result2));
+
+        // Test case 3
+        int [] nums3 = {4,5,3,6,8,12,13,16,11};
+        int k3 = 4;
+        int multiplier3 = 5;
+        int[] result3 = a.getFinalState(nums3, k3, multiplier3);
+        System.out.println("Final state for test case 3: " + java.util.Arrays.toString(result3));
+
     }
 }
