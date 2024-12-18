@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 3264. Final Array State After K Multiplication Operations I" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 3264. Final Array State After K Multiplication Operations I">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1475.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -48,6 +51,7 @@
   "keyToString": {
     "Application.LeetCode1346.executor": "Run",
     "Application.LeetCode1455.executor": "Run",
+    "Application.LeetCode1475.executor": "Run",
     "Application.LeetCode1574.executor": "Run",
     "Application.LeetCode1652.executor": "Run",
     "Application.LeetCode1760.executor": "Run",
@@ -392,14 +396,8 @@
       <workItem from="1734183973975" duration="1263000" />
       <workItem from="1734274535221" duration="1178000" />
       <workItem from="1734325446876" duration="940000" />
-    </task>
-    <task id="LOCAL-00226" summary="Leetcode: 342. Power of Four">
-      <option name="closed" value="true" />
-      <created>1730265116313</created>
-      <option name="number" value="00226" />
-      <option name="presentableId" value="LOCAL-00226" />
-      <option name="project" value="LOCAL" />
-      <updated>1730265116313</updated>
+      <workItem from="1734433221088" duration="128000" />
+      <workItem from="1734495953151" duration="337000" />
     </task>
     <task id="LOCAL-00227" summary="Leetcode: 345. Reverse Vowels of a String">
       <option name="closed" value="true" />
@@ -785,7 +783,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734325865743</updated>
     </task>
-    <option name="localTasksCounter" value="275" />
+    <task id="LOCAL-00275" summary="Leetcode: 3264. Final Array State After K Multiplication Operations I">
+      <option name="closed" value="true" />
+      <created>1734433335208</created>
+      <option name="number" value="00275" />
+      <option name="presentableId" value="LOCAL-00275" />
+      <option name="project" value="LOCAL" />
+      <updated>1734433335209</updated>
+    </task>
+    <option name="localTasksCounter" value="276" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
