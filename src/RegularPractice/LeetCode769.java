@@ -5,14 +5,13 @@ We split arr into some number of chunks (i.e., partitions), and individually sor
 Return the largest number of chunks we can make to sort the array.
 
 Example 1:
-
 Input: arr = [4,3,2,1,0]
 Output: 1
 Explanation:
 Splitting into two or more chunks will not return the required result.
 For example, splitting into [4, 3], [2, 1, 0] will result in [3, 4, 0, 1, 2], which isn't sorted.
+*
 Example 2:
-
 Input: arr = [1,0,2,3,4]
 Output: 4
 Explanation:
@@ -42,7 +41,6 @@ class MaxChunksToSorted{
 public class LeetCode769 {
     public static void main(String[] args) {
         MaxChunksToSorted maxChunksToSorted = new MaxChunksToSorted();
-
         int[] arr = {1,2,3,4,5};
         System.out.println(maxChunksToSorted.maxChunksToSorted(arr));
         int[] arr1 = {4,3,2,1,0};
