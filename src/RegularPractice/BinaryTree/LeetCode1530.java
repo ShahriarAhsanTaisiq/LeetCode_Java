@@ -67,7 +67,7 @@ class NumOfGoodLeaf{
         return leafDistance;
     }
 }
-public class LeetCpde1530 {
+public class LeetCode1530 {
     public static void main(String[] args) {
         // Example 1
         TreeNode1530 root1 = new TreeNode1530(1);

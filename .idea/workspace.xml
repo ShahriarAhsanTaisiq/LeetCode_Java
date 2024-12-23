@@ -400,14 +400,7 @@
       <workItem from="1734582158827" duration="959000" />
       <workItem from="1734669939070" duration="964000" />
       <workItem from="1734787084864" duration="371000" />
-    </task>
-    <task id="LOCAL-00231" summary="Leetcode: 3163. String Compression III">
-      <option name="closed" value="true" />
-      <created>1730703950548</created>
-      <option name="number" value="00231" />
-      <option name="presentableId" value="LOCAL-00231" />
-      <option name="project" value="LOCAL" />
-      <updated>1730703950549</updated>
+      <workItem from="1734873314042" duration="36000" />
     </task>
     <task id="LOCAL-00232" summary="Leetcode: 2914. Minimum Number of Changes to Make Binary String Beautiful">
       <option name="closed" value="true" />
@@ -793,7 +786,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734787194421</updated>
     </task>
-    <option name="localTasksCounter" value="280" />
+    <task id="LOCAL-00280" summary="Leetcode: 769. Max Chunks To Make Sorted">
+      <option name="closed" value="true" />
+      <created>1734873340706</created>
+      <option name="number" value="00280" />
+      <option name="presentableId" value="LOCAL-00280" />
+      <option name="project" value="LOCAL" />
+      <updated>1734873340706</updated>
+    </task>
+    <option name="localTasksCounter" value="281" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
