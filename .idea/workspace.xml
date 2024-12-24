@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 769. Max Chunks To Make Sorted" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1530. Number of Good Leaf Nodes Pairs">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -401,14 +403,7 @@
       <workItem from="1734669939070" duration="964000" />
       <workItem from="1734787084864" duration="371000" />
       <workItem from="1734873314042" duration="36000" />
-    </task>
-    <task id="LOCAL-00232" summary="Leetcode: 2914. Minimum Number of Changes to Make Binary String Beautiful">
-      <option name="closed" value="true" />
-      <created>1730788589161</created>
-      <option name="number" value="00232" />
-      <option name="presentableId" value="LOCAL-00232" />
-      <option name="project" value="LOCAL" />
-      <updated>1730788589162</updated>
+      <workItem from="1734945136532" duration="2309000" />
     </task>
     <task id="LOCAL-00233" summary="Leetcode: 3011. Find if Array Can Be Sorted">
       <option name="closed" value="true" />
@@ -794,7 +789,15 @@
       <option name="project" value="LOCAL" />
       <updated>1734873340706</updated>
     </task>
-    <option name="localTasksCounter" value="281" />
+    <task id="LOCAL-00281" summary="Leetcode: 1530. Number of Good Leaf Nodes Pairs">
+      <option name="closed" value="true" />
+      <created>1734945254551</created>
+      <option name="number" value="00281" />
+      <option name="presentableId" value="LOCAL-00281" />
+      <option name="project" value="LOCAL" />
+      <updated>1734945254552</updated>
+    </task>
+    <option name="localTasksCounter" value="282" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -824,7 +827,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 3133. Minimum Array End" />
     <MESSAGE value="Leetcode: 2601. Prime Subtraction Operation" />
     <MESSAGE value="Leetcode: 2070. Most Beautiful Item for Each Query" />
     <MESSAGE value="Leetcode: 2563. Count the Number of Fair Pairs" />
@@ -849,6 +851,7 @@
     <MESSAGE value="Leetcode: 1475. Final Prices With a Special Discount in a Shop" />
     <MESSAGE value="Leetcode: 2415. Reverse Odd Levels of Binary Tree" />
     <MESSAGE value="Leetcode: 769. Max Chunks To Make Sorted" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 769. Max Chunks To Make Sorted" />
+    <MESSAGE value="Leetcode: 1530. Number of Good Leaf Nodes Pairs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1530. Number of Good Leaf Nodes Pairs" />
   </component>
 </project>

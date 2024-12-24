@@ -49,5 +49,7 @@ public class LeetCode769 {
         System.out.println(maxChunksToSorted.maxChunksToSorted(arr2));
         int [] arr3 = {4,6,3,7,0,1};
         System.out.println(maxChunksToSorted.maxChunksToSorted(arr3));
+        int [] arr4 = {11,12,13,14,15};
+        System.out.println(maxChunksToSorted.maxChunksToSorted(arr4));
     }
 }
