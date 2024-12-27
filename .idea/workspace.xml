@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 515. Find Largest Value in Each Tree Row" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 494. Target Sum" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,6 +72,7 @@
     "Application.LeetCode3011.executor": "Run",
     "Application.LeetCode3133.executor": "Run",
     "Application.LeetCode3264.executor": "Run",
+    "Application.LeetCode494.executor": "Run",
     "Application.LeetCode515.executor": "Run",
     "Application.LeetCode769.executor": "Run",
     "Application.LeetCode867.executor": "Run",
@@ -405,14 +406,7 @@
       <workItem from="1734945136532" duration="2309000" />
       <workItem from="1735027223527" duration="87000" />
       <workItem from="1735107442906" duration="481000" />
-    </task>
-    <task id="LOCAL-00235" summary="Leetcode: 1829. Maximum XOR for Each Query">
-      <option name="closed" value="true" />
-      <created>1731042519199</created>
-      <option name="number" value="00235" />
-      <option name="presentableId" value="LOCAL-00235" />
-      <option name="project" value="LOCAL" />
-      <updated>1731042519200</updated>
+      <workItem from="1735225955439" duration="863000" />
     </task>
     <task id="LOCAL-00236" summary="Leetcode: 3133. Minimum Array End">
       <option name="closed" value="true" />
@@ -798,7 +792,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735107894961</updated>
     </task>
-    <option name="localTasksCounter" value="284" />
+    <task id="LOCAL-00284" summary="Leetcode: 494. Target Sum">
+      <option name="closed" value="true" />
+      <created>1735226209788</created>
+      <option name="number" value="00284" />
+      <option name="presentableId" value="LOCAL-00284" />
+      <option name="project" value="LOCAL" />
+      <updated>1735226209788</updated>
+    </task>
+    <option name="localTasksCounter" value="285" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -828,7 +830,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 2070. Most Beautiful Item for Each Query" />
     <MESSAGE value="Leetcode: 2563. Count the Number of Fair Pairs" />
     <MESSAGE value="Leetcode: 2064. Minimized Maximum of Products Distributed to Any Store" />
     <MESSAGE value="Leetcode: 1574. Shortest Subarray to be Removed to Make Array Sortede" />
@@ -853,6 +854,7 @@
     <MESSAGE value="Leetcode: 1530. Number of Good Leaf Nodes Pairs" />
     <MESSAGE value="Leetcode: 769. Max Chunks To Make Sorted" />
     <MESSAGE value="Leetcode: 515. Find Largest Value in Each Tree Row" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 515. Find Largest Value in Each Tree Row" />
+    <MESSAGE value="Leetcode: 494. Target Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 494. Target Sum" />
   </component>
 </project>
