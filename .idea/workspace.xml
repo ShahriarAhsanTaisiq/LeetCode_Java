@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1014. Best Sightseeing Pair">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1014. Best Sightseeing Pair" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,40 +97,6 @@
       <recent name="RegularPractice" />
       <recent name="RegularPractice.BinaryTree" />
     </key>
-  </component>
-  <component name="RunManager" selected="Application.LeetCode1014">
-    <configuration name="LeetCode1014" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RegularPractice.LeetCode1014" />
-      <module name="LeetCode_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RegularPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="LeetCode1792" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RegularPractice.LeetCode1792" />
-      <module name="LeetCode_Java" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="RegularPractice.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <recent_temporary>
-      <list>
-        <item itemvalue="Application.LeetCode1014" />
-        <item itemvalue="Application.LeetCode1792" />
-      </list>
-    </recent_temporary>
   </component>
   <component name="SharedIndexes">
     <attachedChunks>
@@ -426,14 +390,7 @@
       <workItem from="1735107442906" duration="481000" />
       <workItem from="1735225955439" duration="863000" />
       <workItem from="1735294232372" duration="614000" />
-    </task>
-    <task id="LOCAL-00237" summary="Leetcode: 2601. Prime Subtraction Operation">
-      <option name="closed" value="true" />
-      <created>1731304015782</created>
-      <option name="number" value="00237" />
-      <option name="presentableId" value="LOCAL-00237" />
-      <option name="project" value="LOCAL" />
-      <updated>1731304015782</updated>
+      <workItem from="1735384092525" duration="99000" />
     </task>
     <task id="LOCAL-00238" summary="Leetcode: 2070. Most Beautiful Item for Each Query">
       <option name="closed" value="true" />
@@ -819,7 +776,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735294457090</updated>
     </task>
-    <option name="localTasksCounter" value="286" />
+    <task id="LOCAL-00286" summary="Leetcode: 1014. Best Sightseeing Pair">
+      <option name="closed" value="true" />
+      <created>1735384146249</created>
+      <option name="number" value="00286" />
+      <option name="presentableId" value="LOCAL-00286" />
+      <option name="project" value="LOCAL" />
+      <updated>1735384146249</updated>
+    </task>
+    <option name="localTasksCounter" value="287" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

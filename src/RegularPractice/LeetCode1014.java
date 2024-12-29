@@ -47,5 +47,6 @@ public class LeetCode1014 {
         System.out.println(obj.maxScoreSightseeingPair(new int[]{8,1,5,2,6}));
         System.out.println(obj.maxScoreSightseeingPair(new int[]{1,2}));
         System.out.println(obj.maxScoreSightseeingPair(new int[]{7,5,8,9,3,4,1,2}));
+        System.out.println(obj.maxScoreSightseeingPair(new int[]{14,12,15,17}));
     }
 }
