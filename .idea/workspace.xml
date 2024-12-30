@@ -391,14 +391,7 @@
       <workItem from="1735225955439" duration="863000" />
       <workItem from="1735294232372" duration="614000" />
       <workItem from="1735384092525" duration="99000" />
-    </task>
-    <task id="LOCAL-00238" summary="Leetcode: 2070. Most Beautiful Item for Each Query">
-      <option name="closed" value="true" />
-      <created>1731386714177</created>
-      <option name="number" value="00238" />
-      <option name="presentableId" value="LOCAL-00238" />
-      <option name="project" value="LOCAL" />
-      <updated>1731386714178</updated>
+      <workItem from="1735477181826" duration="173000" />
     </task>
     <task id="LOCAL-00239" summary="Leetcode: 2563. Count the Number of Fair Pairs">
       <option name="closed" value="true" />
@@ -784,7 +777,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735384146249</updated>
     </task>
-    <option name="localTasksCounter" value="287" />
+    <task id="LOCAL-00287" summary="Leetcode: 1014. Best Sightseeing Pair">
+      <option name="closed" value="true" />
+      <created>1735477338463</created>
+      <option name="number" value="00287" />
+      <option name="presentableId" value="LOCAL-00287" />
+      <option name="project" value="LOCAL" />
+      <updated>1735477338463</updated>
+    </task>
+    <option name="localTasksCounter" value="288" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
