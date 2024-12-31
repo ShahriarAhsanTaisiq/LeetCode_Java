@@ -54,5 +54,6 @@ public class LeetCode2466 {
         CountWaysOfGoodStrings obj = new CountWaysOfGoodStrings();
         System.out.println(obj.countGoodStrings(3, 3, 1, 1));
         System.out.println(obj.countGoodStrings(2, 3, 1, 2));
+        System.out.println(obj.countGoodStrings(4, 4, 1, 3));
     }
 }
