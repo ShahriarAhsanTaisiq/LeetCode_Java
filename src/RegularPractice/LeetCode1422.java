@@ -60,5 +60,6 @@ public class LeetCode1422 {
         System.out.println(maxScore.maxScore("011101"));
         System.out.println(maxScore.maxScore("00111"));
         System.out.println(maxScore.maxScore("1111"));
+        System.out.println(maxScore.maxScore("10010"));
     }
 }
