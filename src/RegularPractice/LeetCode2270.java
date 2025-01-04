@@ -59,5 +59,6 @@ public class LeetCode2270 {
         System.out.println(numOfWaysToSplitArray.waysToSplitArray(new int[]{1,2,3}));
         System.out.println(numOfWaysToSplitArray.waysToSplitArray(new int[]{10,4,-8,7}));
         System.out.println(numOfWaysToSplitArray.waysToSplitArray(new int[]{2,3,1,0}));
+        System.out.println(numOfWaysToSplitArray.waysToSplitArray(new int[]{8,2,6,10,15,3}));
     }
 }
