@@ -401,14 +401,7 @@
       <workItem from="1735806649874" duration="1845000" />
       <workItem from="1735912332464" duration="994000" />
       <workItem from="1735989405116" duration="117000" />
-    </task>
-    <task id="LOCAL-00245" summary="Leetcode: 1652. Defuse the Bomb">
-      <option name="closed" value="true" />
-      <created>1731915486663</created>
-      <option name="number" value="00245" />
-      <option name="presentableId" value="LOCAL-00245" />
-      <option name="project" value="LOCAL" />
-      <updated>1731915486663</updated>
+      <workItem from="1736074427243" duration="48000" />
     </task>
     <task id="LOCAL-00246" summary="Leetcode: 2461. Maximum Sum of Distinct Subarrays With Length K">
       <option name="closed" value="true" />
@@ -794,7 +787,15 @@
       <option name="project" value="LOCAL" />
       <updated>1735989455843</updated>
     </task>
-    <option name="localTasksCounter" value="294" />
+    <task id="LOCAL-00294" summary="Leetcode: 2270. Number of Ways to Split Array">
+      <option name="closed" value="true" />
+      <created>1736074456836</created>
+      <option name="number" value="00294" />
+      <option name="presentableId" value="LOCAL-00294" />
+      <option name="project" value="LOCAL" />
+      <updated>1736074456836</updated>
+    </task>
+    <option name="localTasksCounter" value="295" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
