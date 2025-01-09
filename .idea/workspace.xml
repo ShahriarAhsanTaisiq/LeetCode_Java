@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1408. String Matching in an Array">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode3042.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 3042. Count Prefix and Suffix Pairs I" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,58 +44,59 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.LeetCode1014.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1346.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1408.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1422.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1455.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1475.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1574.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1652.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1760.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1792.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1829.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1861.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1975.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2064.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2070.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2109.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2270.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2275.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2337.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2415.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2461.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2466.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2554.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2563.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2601.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2779.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2825.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2924.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode3011.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode3133.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode3264.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode494.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode515.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode769.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode867.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor.code.editing&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LeetCode1014.executor": "Run",
+    "Application.LeetCode1346.executor": "Run",
+    "Application.LeetCode1408.executor": "Run",
+    "Application.LeetCode1422.executor": "Run",
+    "Application.LeetCode1455.executor": "Run",
+    "Application.LeetCode1475.executor": "Run",
+    "Application.LeetCode1574.executor": "Run",
+    "Application.LeetCode1652.executor": "Run",
+    "Application.LeetCode1760.executor": "Run",
+    "Application.LeetCode1792.executor": "Run",
+    "Application.LeetCode1829.executor": "Run",
+    "Application.LeetCode1861.executor": "Run",
+    "Application.LeetCode1975.executor": "Run",
+    "Application.LeetCode2064.executor": "Run",
+    "Application.LeetCode2070.executor": "Run",
+    "Application.LeetCode2109.executor": "Run",
+    "Application.LeetCode2270.executor": "Run",
+    "Application.LeetCode2275.executor": "Run",
+    "Application.LeetCode2337.executor": "Run",
+    "Application.LeetCode2415.executor": "Run",
+    "Application.LeetCode2461.executor": "Run",
+    "Application.LeetCode2466.executor": "Run",
+    "Application.LeetCode2554.executor": "Run",
+    "Application.LeetCode2563.executor": "Run",
+    "Application.LeetCode2601.executor": "Run",
+    "Application.LeetCode2779.executor": "Run",
+    "Application.LeetCode2825.executor": "Run",
+    "Application.LeetCode2924.executor": "Run",
+    "Application.LeetCode3011.executor": "Run",
+    "Application.LeetCode3042.executor": "Run",
+    "Application.LeetCode3133.executor": "Run",
+    "Application.LeetCode3264.executor": "Run",
+    "Application.LeetCode494.executor": "Run",
+    "Application.LeetCode515.executor": "Run",
+    "Application.LeetCode769.executor": "Run",
+    "Application.LeetCode867.executor": "Run",
+    "Application.Test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor.code.editing",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="RegularPractice" />
@@ -408,15 +406,7 @@
       <workItem from="1736074427243" duration="48000" />
       <workItem from="1736179003351" duration="315000" />
       <workItem from="1736259866739" duration="894000" />
-      <workItem from="1736345227758" duration="323000" />
-    </task>
-    <task id="LOCAL-00248" summary="Leetcode: 2461. Maximum Sum of Distinct Subarrays With Length K">
-      <option name="closed" value="true" />
-      <created>1732164092138</created>
-      <option name="number" value="00248" />
-      <option name="presentableId" value="LOCAL-00248" />
-      <option name="project" value="LOCAL" />
-      <updated>1732164092139</updated>
+      <workItem from="1736345227758" duration="1068000" />
     </task>
     <task id="LOCAL-00249" summary="Leetcode: 2461. Maximum Sum of Distinct Subarrays With Length K">
       <option name="closed" value="true" />
@@ -802,7 +792,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736260151328</updated>
     </task>
-    <option name="localTasksCounter" value="297" />
+    <task id="LOCAL-00297" summary="Leetcode: 3042. Count Prefix and Suffix Pairs I">
+      <option name="closed" value="true" />
+      <created>1736345652219</created>
+      <option name="number" value="00297" />
+      <option name="presentableId" value="LOCAL-00297" />
+      <option name="project" value="LOCAL" />
+      <updated>1736345652220</updated>
+    </task>
+    <option name="localTasksCounter" value="298" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -832,7 +830,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 2461. Maximum Sum of Distinct Subarrays With Length K" />
     <MESSAGE value="Leetcode: 1861. Rotating the Box" />
     <MESSAGE value="Leetcode: 1975. Maximum Matrix Sum" />
     <MESSAGE value="Leetcode: 2924. Find Champion II" />
@@ -857,7 +854,8 @@
     <MESSAGE value="Leetcode: 1422. Maximum Score After Splitting a String" />
     <MESSAGE value="Leetcode: 2270. Number of Ways to Split Array" />
     <MESSAGE value="Leetcode: 1408. String Matching in an Array" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1408. String Matching in an Array" />
+    <MESSAGE value="Leetcode: 3042. Count Prefix and Suffix Pairs I" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 3042. Count Prefix and Suffix Pairs I" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
