@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 3042. Count Prefix and Suffix Pairs I" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2185. Counting Words With a Given Prefix" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +62,7 @@
     "Application.LeetCode2064.executor": "Run",
     "Application.LeetCode2070.executor": "Run",
     "Application.LeetCode2109.executor": "Run",
+    "Application.LeetCode2185.executor": "Run",
     "Application.LeetCode2270.executor": "Run",
     "Application.LeetCode2275.executor": "Run",
     "Application.LeetCode2337.executor": "Run",
@@ -407,14 +408,7 @@
       <workItem from="1736179003351" duration="315000" />
       <workItem from="1736259866739" duration="894000" />
       <workItem from="1736345227758" duration="1068000" />
-    </task>
-    <task id="LOCAL-00249" summary="Leetcode: 2461. Maximum Sum of Distinct Subarrays With Length K">
-      <option name="closed" value="true" />
-      <created>1732276478285</created>
-      <option name="number" value="00249" />
-      <option name="presentableId" value="LOCAL-00249" />
-      <option name="project" value="LOCAL" />
-      <updated>1732276478285</updated>
+      <workItem from="1736397878818" duration="303000" />
     </task>
     <task id="LOCAL-00250" summary="Leetcode: 1861. Rotating the Box">
       <option name="closed" value="true" />
@@ -800,7 +794,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736345652220</updated>
     </task>
-    <option name="localTasksCounter" value="298" />
+    <task id="LOCAL-00298" summary="Leetcode: 2185. Counting Words With a Given Prefix">
+      <option name="closed" value="true" />
+      <created>1736398146149</created>
+      <option name="number" value="00298" />
+      <option name="presentableId" value="LOCAL-00298" />
+      <option name="project" value="LOCAL" />
+      <updated>1736398146149</updated>
+    </task>
+    <option name="localTasksCounter" value="299" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -830,7 +832,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1861. Rotating the Box" />
     <MESSAGE value="Leetcode: 1975. Maximum Matrix Sum" />
     <MESSAGE value="Leetcode: 2924. Find Champion II" />
     <MESSAGE value="Leetcode: 1346. Check If N and Its Double Exist" />
@@ -855,7 +856,8 @@
     <MESSAGE value="Leetcode: 2270. Number of Ways to Split Array" />
     <MESSAGE value="Leetcode: 1408. String Matching in an Array" />
     <MESSAGE value="Leetcode: 3042. Count Prefix and Suffix Pairs I" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 3042. Count Prefix and Suffix Pairs I" />
+    <MESSAGE value="Leetcode: 2185. Counting Words With a Given Prefix" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2185. Counting Words With a Given Prefix" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
