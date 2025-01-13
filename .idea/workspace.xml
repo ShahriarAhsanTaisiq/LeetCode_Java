@@ -4,11 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1400. Construct K Palindrome Strings">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode53.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/MinTimeLightKCandles.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 53. Maximum Subarray" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -419,15 +415,7 @@
       <workItem from="1736486044261" duration="669000" />
       <workItem from="1736520604874" duration="3909000" />
       <workItem from="1736574756390" duration="984000" />
-      <workItem from="1736664660179" duration="334000" />
-    </task>
-    <task id="LOCAL-00252" summary="Leetcode: 1975. Maximum Matrix Sum">
-      <option name="closed" value="true" />
-      <created>1732512607621</created>
-      <option name="number" value="00252" />
-      <option name="presentableId" value="LOCAL-00252" />
-      <option name="project" value="LOCAL" />
-      <updated>1732512607622</updated>
+      <workItem from="1736664660179" duration="988000" />
     </task>
     <task id="LOCAL-00253" summary="Leetcode: 2924. Find Champion II">
       <option name="closed" value="true" />
@@ -813,7 +801,15 @@
       <option name="project" value="LOCAL" />
       <updated>1736575137293</updated>
     </task>
-    <option name="localTasksCounter" value="301" />
+    <task id="LOCAL-00301" summary="Leetcode: 53. Maximum Subarray">
+      <option name="closed" value="true" />
+      <created>1736665012866</created>
+      <option name="number" value="00301" />
+      <option name="presentableId" value="LOCAL-00301" />
+      <option name="project" value="LOCAL" />
+      <updated>1736665012867</updated>
+    </task>
+    <option name="localTasksCounter" value="302" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -843,7 +839,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 2924. Find Champion II" />
     <MESSAGE value="Leetcode: 1346. Check If N and Its Double Exist" />
     <MESSAGE value="Leetcode: 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence" />
     <MESSAGE value="Leetcode: 2109. Adding Spaces to a String" />
@@ -868,7 +863,8 @@
     <MESSAGE value="Leetcode: 3042. Count Prefix and Suffix Pairs I" />
     <MESSAGE value="Leetcode: 2185. Counting Words With a Given Prefix" />
     <MESSAGE value="Leetcode: 1400. Construct K Palindrome Strings" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1400. Construct K Palindrome Strings" />
+    <MESSAGE value="Leetcode: 53. Maximum Subarray" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 53. Maximum Subarray" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

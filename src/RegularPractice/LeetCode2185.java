@@ -44,6 +44,5 @@ public class LeetCode2185 {
         CountWordsWithPrefix obj = new CountWordsWithPrefix();
         System.out.println(obj.countPrefix(new String[]{"pay","attention","practice","attend"},"at"));
         System.out.println(obj.countPrefix(new String[]{"leetcode","win","loops","success"},"code"));
-        System.out.println(obj.countPrefix(new String[]{"decode","win","codeloops","coder"},"code"));
     }
 }
