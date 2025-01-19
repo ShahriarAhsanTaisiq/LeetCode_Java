@@ -55,5 +55,6 @@ public class LeetCode2683 {
         System.out.println(obj.doesValidArrayExist(new int[]{1,1}));
         System.out.println(obj.doesValidArrayExist(new int[]{1,0}));
         System.out.println(obj.doesValidArrayExist(new int[]{1,1,1,0}));
+        System.out.println(obj.doesValidArrayExist(new int[]{1,0,0}));
     }
 }
