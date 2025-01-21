@@ -4,7 +4,9 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2683. Neighboring Bitwise XOR" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2683. Neighboring Bitwise XOR">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -425,14 +427,8 @@
       <workItem from="1737006559853" duration="866000" />
       <workItem from="1737110801604" duration="1165000" />
       <workItem from="1737214883498" duration="646000" />
-    </task>
-    <task id="LOCAL-00259" summary="Leetcode: 1455. Check If a Word Occurs As a Prefix of Any Word in a Sentence">
-      <option name="closed" value="true" />
-      <created>1733133432161</created>
-      <option name="number" value="00259" />
-      <option name="presentableId" value="LOCAL-00259" />
-      <option name="project" value="LOCAL" />
-      <updated>1733133432161</updated>
+      <workItem from="1737288272831" duration="111000" />
+      <workItem from="1737383224351" duration="631000" />
     </task>
     <task id="LOCAL-00260" summary="Leetcode: 2109. Adding Spaces to a String">
       <option name="closed" value="true" />
@@ -818,7 +814,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737214922694</updated>
     </task>
-    <option name="localTasksCounter" value="308" />
+    <task id="LOCAL-00308" summary="Leetcode: 2683. Neighboring Bitwise XOR">
+      <option name="closed" value="true" />
+      <created>1737288335885</created>
+      <option name="number" value="00308" />
+      <option name="presentableId" value="LOCAL-00308" />
+      <option name="project" value="LOCAL" />
+      <updated>1737288335886</updated>
+    </task>
+    <option name="localTasksCounter" value="309" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
