@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2683. Neighboring Bitwise XOR">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2683. Neighboring Bitwise XOR" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -429,14 +427,7 @@
       <workItem from="1737214883498" duration="646000" />
       <workItem from="1737288272831" duration="111000" />
       <workItem from="1737383224351" duration="631000" />
-    </task>
-    <task id="LOCAL-00260" summary="Leetcode: 2109. Adding Spaces to a String">
-      <option name="closed" value="true" />
-      <created>1733224467000</created>
-      <option name="number" value="00260" />
-      <option name="presentableId" value="LOCAL-00260" />
-      <option name="project" value="LOCAL" />
-      <updated>1733224467001</updated>
+      <workItem from="1737471344108" duration="23000" />
     </task>
     <task id="LOCAL-00261" summary="Leetcode: 2825. Make String a Subsequence Using Cyclic Increments">
       <option name="closed" value="true" />
@@ -822,7 +813,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737288335886</updated>
     </task>
-    <option name="localTasksCounter" value="309" />
+    <task id="LOCAL-00309" summary="Leetcode: 2683. Neighboring Bitwise XOR">
+      <option name="closed" value="true" />
+      <created>1737471354441</created>
+      <option name="number" value="00309" />
+      <option name="presentableId" value="LOCAL-00309" />
+      <option name="project" value="LOCAL" />
+      <updated>1737471354441</updated>
+    </task>
+    <option name="localTasksCounter" value="310" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
