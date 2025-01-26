@@ -49,5 +49,9 @@ public class LeetCode704 {
         int target = 6;
         System.out.println(binarySearch.search(nums, target));
 
+        int [] nums2 = {-5,0,3,4,9,12,23};
+        int target2 = 9;
+        System.out.println(binarySearch.search(nums2, target2));
+
     }
 }

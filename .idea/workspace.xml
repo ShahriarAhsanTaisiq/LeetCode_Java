@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1267. Count Servers that Communicate" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 704. Binary Search" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -87,6 +87,7 @@
     "Application.LeetCode494.executor": "Run",
     "Application.LeetCode515.executor": "Run",
     "Application.LeetCode53.executor": "Run",
+    "Application.LeetCode704.executor": "Debug",
     "Application.LeetCode769.executor": "Run",
     "Application.LeetCode867.executor": "Run",
     "Application.MinTimeLightKCandles.executor": "Run",
@@ -430,14 +431,7 @@
       <workItem from="1737383224351" duration="631000" />
       <workItem from="1737471344108" duration="23000" />
       <workItem from="1737613414068" duration="205000" />
-    </task>
-    <task id="LOCAL-00262" summary="Leetcode: 2825. Make String a Subsequence Using Cyclic Increments">
-      <option name="closed" value="true" />
-      <created>1733378915942</created>
-      <option name="number" value="00262" />
-      <option name="presentableId" value="LOCAL-00262" />
-      <option name="project" value="LOCAL" />
-      <updated>1733378915943</updated>
+      <workItem from="1737801563969" duration="287000" />
     </task>
     <task id="LOCAL-00263" summary="Leetcode: 2337. Move Pieces to Obtain a String">
       <option name="closed" value="true" />
@@ -823,7 +817,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737613608102</updated>
     </task>
-    <option name="localTasksCounter" value="311" />
+    <task id="LOCAL-00311" summary="Leetcode: 704. Binary Search">
+      <option name="closed" value="true" />
+      <created>1737801754821</created>
+      <option name="number" value="00311" />
+      <option name="presentableId" value="LOCAL-00311" />
+      <option name="project" value="LOCAL" />
+      <updated>1737801754821</updated>
+    </task>
+    <option name="localTasksCounter" value="312" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -853,7 +855,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 2337. Move Pieces to Obtain a String" />
     <MESSAGE value="Leetcode: 2554. Maximum Number of Integers to Choose From a Range I" />
     <MESSAGE value="Leetcode: 1760. Minimum Limit of Balls in a Bag" />
     <MESSAGE value="Leetcode: 2779. Maximum Beauty of an Array After Applying Operation" />
@@ -878,7 +879,8 @@
     <MESSAGE value="Leetcode: 2425. Bitwise XOR of All Pairings" />
     <MESSAGE value="Leetcode: 2683. Neighboring Bitwise XOR" />
     <MESSAGE value="Leetcode: 1267. Count Servers that Communicate" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1267. Count Servers that Communicate" />
+    <MESSAGE value="Leetcode: 704. Binary Search" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 704. Binary Search" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
