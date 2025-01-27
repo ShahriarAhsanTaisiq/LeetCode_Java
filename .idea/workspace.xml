@@ -87,7 +87,7 @@
     "Application.LeetCode494.executor": "Run",
     "Application.LeetCode515.executor": "Run",
     "Application.LeetCode53.executor": "Run",
-    "Application.LeetCode704.executor": "Debug",
+    "Application.LeetCode704.executor": "Run",
     "Application.LeetCode769.executor": "Run",
     "Application.LeetCode867.executor": "Run",
     "Application.MinTimeLightKCandles.executor": "Run",
@@ -432,14 +432,7 @@
       <workItem from="1737471344108" duration="23000" />
       <workItem from="1737613414068" duration="205000" />
       <workItem from="1737801563969" duration="287000" />
-    </task>
-    <task id="LOCAL-00263" summary="Leetcode: 2337. Move Pieces to Obtain a String">
-      <option name="closed" value="true" />
-      <created>1733379224776</created>
-      <option name="number" value="00263" />
-      <option name="presentableId" value="LOCAL-00263" />
-      <option name="project" value="LOCAL" />
-      <updated>1733379224776</updated>
+      <workItem from="1737901124235" duration="1271000" />
     </task>
     <task id="LOCAL-00264" summary="Leetcode: 2554. Maximum Number of Integers to Choose From a Range I">
       <option name="closed" value="true" />
@@ -825,7 +818,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737801754821</updated>
     </task>
-    <option name="localTasksCounter" value="312" />
+    <task id="LOCAL-00312" summary="Leetcode: 704. Binary Search">
+      <option name="closed" value="true" />
+      <created>1737901190263</created>
+      <option name="number" value="00312" />
+      <option name="presentableId" value="LOCAL-00312" />
+      <option name="project" value="LOCAL" />
+      <updated>1737901190264</updated>
+    </task>
+    <option name="localTasksCounter" value="313" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
