@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 704. Binary Search" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 292. Nim Game" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -79,6 +79,7 @@
     "Application.LeetCode2683.executor": "Run",
     "Application.LeetCode2779.executor": "Run",
     "Application.LeetCode2825.executor": "Run",
+    "Application.LeetCode292.executor": "Run",
     "Application.LeetCode2924.executor": "Run",
     "Application.LeetCode3011.executor": "Run",
     "Application.LeetCode3042.executor": "Run",
@@ -433,14 +434,7 @@
       <workItem from="1737613414068" duration="205000" />
       <workItem from="1737801563969" duration="287000" />
       <workItem from="1737901124235" duration="1271000" />
-    </task>
-    <task id="LOCAL-00264" summary="Leetcode: 2554. Maximum Number of Integers to Choose From a Range I">
-      <option name="closed" value="true" />
-      <created>1733498359241</created>
-      <option name="number" value="00264" />
-      <option name="presentableId" value="LOCAL-00264" />
-      <option name="project" value="LOCAL" />
-      <updated>1733498359241</updated>
+      <workItem from="1737969463902" duration="816000" />
     </task>
     <task id="LOCAL-00265" summary="Leetcode: 1760. Minimum Limit of Balls in a Bag">
       <option name="closed" value="true" />
@@ -826,7 +820,15 @@
       <option name="project" value="LOCAL" />
       <updated>1737901190264</updated>
     </task>
-    <option name="localTasksCounter" value="313" />
+    <task id="LOCAL-00313" summary="Leetcode: 292. Nim Game">
+      <option name="closed" value="true" />
+      <created>1737969677029</created>
+      <option name="number" value="00313" />
+      <option name="presentableId" value="LOCAL-00313" />
+      <option name="project" value="LOCAL" />
+      <updated>1737969677030</updated>
+    </task>
+    <option name="localTasksCounter" value="314" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -856,7 +858,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 2554. Maximum Number of Integers to Choose From a Range I" />
     <MESSAGE value="Leetcode: 1760. Minimum Limit of Balls in a Bag" />
     <MESSAGE value="Leetcode: 2779. Maximum Beauty of an Array After Applying Operation" />
     <MESSAGE value="Leetcode: 1792. Maximum Average Pass Ratio" />
@@ -881,7 +882,8 @@
     <MESSAGE value="Leetcode: 2683. Neighboring Bitwise XOR" />
     <MESSAGE value="Leetcode: 1267. Count Servers that Communicate" />
     <MESSAGE value="Leetcode: 704. Binary Search" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 704. Binary Search" />
+    <MESSAGE value="Leetcode: 292. Nim Game" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 292. Nim Game" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
