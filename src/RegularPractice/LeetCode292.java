@@ -39,7 +39,6 @@ Constraints:
 public class LeetCode292 {
      public static void main(String[] args) {
          NimGame nimGame = new NimGame();
-         System.out.println(nimGame.canWinNim(5));
          System.out.println(nimGame.canWinNim(4));
          System.out.println(nimGame.canWinNim(2));
          System.out.println(nimGame.canWinNim(10));
