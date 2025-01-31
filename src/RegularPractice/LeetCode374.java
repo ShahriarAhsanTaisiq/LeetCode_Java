@@ -69,6 +69,8 @@ public class LeetCode374 {
     public static void main(String[] args) {
         GuessGame game = new GuessGame(6);
         System.out.println(game.guessNumber(10));
+        GuessGame game2 = new GuessGame(12);
+        System.out.println(game2.guessNumber(20));
 
     }
 }
