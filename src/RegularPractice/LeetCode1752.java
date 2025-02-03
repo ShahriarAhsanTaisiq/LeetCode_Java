@@ -52,5 +52,6 @@ public class LeetCode1752 {
         SortedAndRotatedArray sortedAndRotatedArray = new SortedAndRotatedArray();
         System.out.println(sortedAndRotatedArray.check(new int[]{3,4,5,1,2}));
         System.out.println(sortedAndRotatedArray.check(new int[]{2,1,4,5,6,7}));
+        System.out.println(sortedAndRotatedArray.check(new int[]{1,2,3,4,5,6,7}));
     }
 }
