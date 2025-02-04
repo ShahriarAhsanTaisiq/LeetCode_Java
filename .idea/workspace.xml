@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1752. Check if Array Is Sorted and Rotated" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1752. Check if Array Is Sorted and Rotated">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1800.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -59,6 +62,7 @@
     "Application.LeetCode1752.executor": "Run",
     "Application.LeetCode1760.executor": "Run",
     "Application.LeetCode1792.executor": "Run",
+    "Application.LeetCode1800.executor": "Run",
     "Application.LeetCode1829.executor": "Run",
     "Application.LeetCode1861.executor": "Run",
     "Application.LeetCode1975.executor": "Run",
@@ -444,14 +448,8 @@
       <workItem from="1738327623852" duration="714000" />
       <workItem from="1738420244834" duration="1105000" />
       <workItem from="1738462016807" duration="279000" />
-    </task>
-    <task id="LOCAL-00272" summary="Leetcode: 2779. Maximum Beauty of an Array After Applying Operation">
-      <option name="closed" value="true" />
-      <created>1734184030267</created>
-      <option name="number" value="00272" />
-      <option name="presentableId" value="LOCAL-00272" />
-      <option name="project" value="LOCAL" />
-      <updated>1734184030267</updated>
+      <workItem from="1738549524798" duration="102000" />
+      <workItem from="1738679176470" duration="369000" />
     </task>
     <task id="LOCAL-00273" summary="Leetcode: 1792. Maximum Average Pass Ratio">
       <option name="closed" value="true" />
@@ -837,7 +835,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738462272390</updated>
     </task>
-    <option name="localTasksCounter" value="321" />
+    <task id="LOCAL-00321" summary="Leetcode: 1752. Check if Array Is Sorted and Rotated">
+      <option name="closed" value="true" />
+      <created>1738549608573</created>
+      <option name="number" value="00321" />
+      <option name="presentableId" value="LOCAL-00321" />
+      <option name="project" value="LOCAL" />
+      <updated>1738549608573</updated>
+    </task>
+    <option name="localTasksCounter" value="322" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
