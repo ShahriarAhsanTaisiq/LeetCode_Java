@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1752. Check if Array Is Sorted and Rotated">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1800.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1800. Maximum Ascending Subarray Sum" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -449,15 +446,7 @@
       <workItem from="1738420244834" duration="1105000" />
       <workItem from="1738462016807" duration="279000" />
       <workItem from="1738549524798" duration="102000" />
-      <workItem from="1738679176470" duration="369000" />
-    </task>
-    <task id="LOCAL-00273" summary="Leetcode: 1792. Maximum Average Pass Ratio">
-      <option name="closed" value="true" />
-      <created>1734274989125</created>
-      <option name="number" value="00273" />
-      <option name="presentableId" value="LOCAL-00273" />
-      <option name="project" value="LOCAL" />
-      <updated>1734274989125</updated>
+      <workItem from="1738679176470" duration="1028000" />
     </task>
     <task id="LOCAL-00274" summary="Leetcode: 3264. Final Array State After K Multiplication Operations I">
       <option name="closed" value="true" />
@@ -843,7 +832,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738549608573</updated>
     </task>
-    <option name="localTasksCounter" value="322" />
+    <task id="LOCAL-00322" summary="Leetcode: 1800. Maximum Ascending Subarray Sum">
+      <option name="closed" value="true" />
+      <created>1738679597805</created>
+      <option name="number" value="00322" />
+      <option name="presentableId" value="LOCAL-00322" />
+      <option name="project" value="LOCAL" />
+      <updated>1738679597806</updated>
+    </task>
+    <option name="localTasksCounter" value="323" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -873,7 +870,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 3264. Final Array State After K Multiplication Operations I" />
     <MESSAGE value="Leetcode: 1475. Final Prices With a Special Discount in a Shop" />
     <MESSAGE value="Leetcode: 2415. Reverse Odd Levels of Binary Tree" />
     <MESSAGE value="Leetcode: 1530. Number of Good Leaf Nodes Pairs" />
@@ -898,7 +894,8 @@
     <MESSAGE value="Leetcode: 374. Guess Number Higher or Lower" />
     <MESSAGE value="Leetcode: 3151. Special Array I" />
     <MESSAGE value="Leetcode: 1752. Check if Array Is Sorted and Rotated" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1752. Check if Array Is Sorted and Rotated" />
+    <MESSAGE value="Leetcode: 1800. Maximum Ascending Subarray Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1800. Maximum Ascending Subarray Sum" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
