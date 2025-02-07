@@ -448,14 +448,7 @@
       <workItem from="1738549524798" duration="102000" />
       <workItem from="1738679176470" duration="1028000" />
       <workItem from="1738762863949" duration="105000" />
-    </task>
-    <task id="LOCAL-00275" summary="Leetcode: 3264. Final Array State After K Multiplication Operations I">
-      <option name="closed" value="true" />
-      <created>1734433335208</created>
-      <option name="number" value="00275" />
-      <option name="presentableId" value="LOCAL-00275" />
-      <option name="project" value="LOCAL" />
-      <updated>1734433335209</updated>
+      <workItem from="1738863598852" duration="69000" />
     </task>
     <task id="LOCAL-00276" summary="Leetcode: 1475. Final Prices With a Special Discount in a Shop">
       <option name="closed" value="true" />
@@ -841,7 +834,15 @@
       <option name="project" value="LOCAL" />
       <updated>1738762932398</updated>
     </task>
-    <option name="localTasksCounter" value="324" />
+    <task id="LOCAL-00324" summary="Leetcode: 1800. Maximum Ascending Subarray Sum">
+      <option name="closed" value="true" />
+      <created>1738863655551</created>
+      <option name="number" value="00324" />
+      <option name="presentableId" value="LOCAL-00324" />
+      <option name="project" value="LOCAL" />
+      <updated>1738863655551</updated>
+    </task>
+    <option name="localTasksCounter" value="325" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">

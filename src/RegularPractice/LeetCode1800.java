@@ -45,11 +45,9 @@ public class LeetCode1800 {
     public static void main(String[] args) {
         int[] nums = {10,20,30,5,10,50,60};
         int[] nums2 = {12,17,15,13,10,11,12};
-        int [] nums3 = {10,20,30,40};
         MaxAscSubarraySum maxAscSubarraySum = new MaxAscSubarraySum();
         System.out.println(maxAscSubarraySum.maxAscendingSum(nums));
         System.out.println(maxAscSubarraySum.maxAscendingSum(nums2));
-        System.out.println(maxAscSubarraySum.maxAscendingSum(nums3));
 
     }
 }
