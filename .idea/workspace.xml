@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode:232. Implement Queue using Stacks" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode:3174. Clear Digits">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1910.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -62,6 +65,7 @@
     "Application.LeetCode1800.executor": "Run",
     "Application.LeetCode1829.executor": "Run",
     "Application.LeetCode1861.executor": "Run",
+    "Application.LeetCode1910.executor": "Run",
     "Application.LeetCode1975.executor": "Run",
     "Application.LeetCode2064.executor": "Run",
     "Application.LeetCode2070.executor": "Run",
@@ -89,6 +93,7 @@
     "Application.LeetCode3042.executor": "Run",
     "Application.LeetCode3133.executor": "Run",
     "Application.LeetCode3151.executor": "Run",
+    "Application.LeetCode3174.executor": "Run",
     "Application.LeetCode3264.executor": "Run",
     "Application.LeetCode374.executor": "Run",
     "Application.LeetCode494.executor": "Run",
@@ -454,14 +459,8 @@
       <workItem from="1738945703299" duration="633000" />
       <workItem from="1738997642335" duration="379000" />
       <workItem from="1739107069609" duration="1073000" />
-    </task>
-    <task id="LOCAL-00279" summary="Leetcode: 769. Max Chunks To Make Sorted">
-      <option name="closed" value="true" />
-      <created>1734787194420</created>
-      <option name="number" value="00279" />
-      <option name="presentableId" value="LOCAL-00279" />
-      <option name="project" value="LOCAL" />
-      <updated>1734787194421</updated>
+      <workItem from="1739201508435" duration="416000" />
+      <workItem from="1739247079891" duration="280000" />
     </task>
     <task id="LOCAL-00280" summary="Leetcode: 769. Max Chunks To Make Sorted">
       <option name="closed" value="true" />
@@ -847,7 +846,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739107539736</updated>
     </task>
-    <option name="localTasksCounter" value="328" />
+    <task id="LOCAL-00328" summary="Leetcode:3174. Clear Digits">
+      <option name="closed" value="true" />
+      <created>1739201779237</created>
+      <option name="number" value="00328" />
+      <option name="presentableId" value="LOCAL-00328" />
+      <option name="project" value="LOCAL" />
+      <updated>1739201779238</updated>
+    </task>
+    <option name="localTasksCounter" value="329" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -877,7 +884,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 2415. Reverse Odd Levels of Binary Tree" />
     <MESSAGE value="Leetcode: 1530. Number of Good Leaf Nodes Pairs" />
     <MESSAGE value="Leetcode: 769. Max Chunks To Make Sorted" />
     <MESSAGE value="Leetcode: 515. Find Largest Value in Each Tree Row" />
@@ -902,7 +908,8 @@
     <MESSAGE value="Leetcode: 1752. Check if Array Is Sorted and Rotated" />
     <MESSAGE value="Leetcode: 1800. Maximum Ascending Subarray Sum" />
     <MESSAGE value="Leetcode:232. Implement Queue using Stacks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode:232. Implement Queue using Stacks" />
+    <MESSAGE value="Leetcode:3174. Clear Digits" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode:3174. Clear Digits" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
