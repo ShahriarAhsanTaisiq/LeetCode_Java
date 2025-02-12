@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode:3174. Clear Digits">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1910.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode:1910. Remove All Occurrences of a Substring" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -460,15 +457,7 @@
       <workItem from="1738997642335" duration="379000" />
       <workItem from="1739107069609" duration="1073000" />
       <workItem from="1739201508435" duration="416000" />
-      <workItem from="1739247079891" duration="280000" />
-    </task>
-    <task id="LOCAL-00280" summary="Leetcode: 769. Max Chunks To Make Sorted">
-      <option name="closed" value="true" />
-      <created>1734873340706</created>
-      <option name="number" value="00280" />
-      <option name="presentableId" value="LOCAL-00280" />
-      <option name="project" value="LOCAL" />
-      <updated>1734873340706</updated>
+      <workItem from="1739247079891" duration="512000" />
     </task>
     <task id="LOCAL-00281" summary="Leetcode: 1530. Number of Good Leaf Nodes Pairs">
       <option name="closed" value="true" />
@@ -854,7 +843,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739201779238</updated>
     </task>
-    <option name="localTasksCounter" value="329" />
+    <task id="LOCAL-00329" summary="Leetcode:1910. Remove All Occurrences of a Substring">
+      <option name="closed" value="true" />
+      <created>1739247523184</created>
+      <option name="number" value="00329" />
+      <option name="presentableId" value="LOCAL-00329" />
+      <option name="project" value="LOCAL" />
+      <updated>1739247523184</updated>
+    </task>
+    <option name="localTasksCounter" value="330" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -884,7 +881,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1530. Number of Good Leaf Nodes Pairs" />
     <MESSAGE value="Leetcode: 769. Max Chunks To Make Sorted" />
     <MESSAGE value="Leetcode: 515. Find Largest Value in Each Tree Row" />
     <MESSAGE value="Leetcode: 494. Target Sum" />
@@ -909,7 +905,8 @@
     <MESSAGE value="Leetcode: 1800. Maximum Ascending Subarray Sum" />
     <MESSAGE value="Leetcode:232. Implement Queue using Stacks" />
     <MESSAGE value="Leetcode:3174. Clear Digits" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode:3174. Clear Digits" />
+    <MESSAGE value="Leetcode:1910. Remove All Occurrences of a Substring" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode:1910. Remove All Occurrences of a Substring" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />

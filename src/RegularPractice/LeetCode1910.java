@@ -49,5 +49,6 @@ public class LeetCode1910 {
         RemoveAllOccurrences removeAllOccurrences = new RemoveAllOccurrences();
         System.out.println(removeAllOccurrences.removeOccurrences("daabcbaabcbc","abc"));
         System.out.println(removeAllOccurrences.removeOccurrences("axxxxyyyyb","xy"));
+        System.out.println(removeAllOccurrences.removeOccurrences("fehdjfhjtdhs","dhgfjdf"));
     }
 }
