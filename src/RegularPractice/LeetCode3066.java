@@ -66,5 +66,6 @@ public class LeetCode3066 {
         MinOperationToExceedThreshold minOperation = new MinOperationToExceedThreshold();
         System.out.println(minOperation.minOperation(new int[]{2,11,10,1,3}, 10));
         System.out.println(minOperation.minOperation(new int[]{1,1,2,4,9}, 20));
+        System.out.println(minOperation.minOperation(new int [] {3,1,4,6,22,7,11},25));
     }
 }
