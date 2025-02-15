@@ -40,9 +40,7 @@ The input is generated such that an answer always exists. That is, there exists 
 
 * */
 
-import java.util.LinkedList;
-import java.util.PriorityQueue;
-import java.util.Queue;
+import java.util.*;
 
 class MinOperationToExceedThreshold {
     public int minOperation(int [] nums, int k) {
@@ -66,6 +64,5 @@ public class LeetCode3066 {
         MinOperationToExceedThreshold minOperation = new MinOperationToExceedThreshold();
         System.out.println(minOperation.minOperation(new int[]{2,11,10,1,3}, 10));
         System.out.println(minOperation.minOperation(new int[]{1,1,2,4,9}, 20));
-        System.out.println(minOperation.minOperation(new int [] {3,1,4,6,22,7,11},25));
     }
 }
