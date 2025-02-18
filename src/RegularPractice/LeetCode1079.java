@@ -54,5 +54,6 @@ public class LeetCode1079 {
         System.out.println(obj.numTilePossibilities("AAB"));
         System.out.println(obj.numTilePossibilities("AAABBC"));
         System.out.println(obj.numTilePossibilities("V"));
+        System.out.println(obj.numTilePossibilities("ABC"));
     }
 }

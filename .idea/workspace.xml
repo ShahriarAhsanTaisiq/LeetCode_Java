@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode:3066. Minimum Operations to Exceed Threshold Value II">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1079.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode:1079. Letter Tile Possibilities" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -468,15 +465,7 @@
       <workItem from="1739508646731" duration="313000" />
       <workItem from="1739635454053" duration="92000" />
       <workItem from="1739725856168" duration="78000" />
-      <workItem from="1739812666831" duration="391000" />
-    </task>
-    <task id="LOCAL-00286" summary="Leetcode: 1014. Best Sightseeing Pair">
-      <option name="closed" value="true" />
-      <created>1735384146249</created>
-      <option name="number" value="00286" />
-      <option name="presentableId" value="LOCAL-00286" />
-      <option name="project" value="LOCAL" />
-      <updated>1735384146249</updated>
+      <workItem from="1739812666831" duration="708000" />
     </task>
     <task id="LOCAL-00287" summary="Leetcode: 1014. Best Sightseeing Pair">
       <option name="closed" value="true" />
@@ -862,7 +851,15 @@
       <option name="project" value="LOCAL" />
       <updated>1739725911535</updated>
     </task>
-    <option name="localTasksCounter" value="335" />
+    <task id="LOCAL-00335" summary="Leetcode:1079. Letter Tile Possibilities">
+      <option name="closed" value="true" />
+      <created>1739813123828</created>
+      <option name="number" value="00335" />
+      <option name="presentableId" value="LOCAL-00335" />
+      <option name="project" value="LOCAL" />
+      <updated>1739813123828</updated>
+    </task>
+    <option name="localTasksCounter" value="336" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -892,7 +889,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 515. Find Largest Value in Each Tree Row" />
     <MESSAGE value="Leetcode: 494. Target Sum" />
     <MESSAGE value="Leetcode: 1014. Best Sightseeing Pair" />
     <MESSAGE value="Leetcode: 2466. Count Ways To Build Good Strings" />
@@ -917,7 +913,8 @@
     <MESSAGE value="Leetcode:3174. Clear Digits" />
     <MESSAGE value="Leetcode:1910. Remove All Occurrences of a Substring" />
     <MESSAGE value="Leetcode:3066. Minimum Operations to Exceed Threshold Value II" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode:3066. Minimum Operations to Exceed Threshold Value II" />
+    <MESSAGE value="Leetcode:1079. Letter Tile Possibilities" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode:1079. Letter Tile Possibilities" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
