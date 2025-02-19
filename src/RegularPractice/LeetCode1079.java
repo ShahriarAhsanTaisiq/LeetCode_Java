@@ -22,7 +22,6 @@ Constraints:
 
 1 <= tiles.length <= 7
 tiles consists of uppercase English letters.
-
 * */
 
 class LetterTilePossibilities{
@@ -52,7 +51,7 @@ public class LeetCode1079 {
     public static void main(String[] args) {
         LetterTilePossibilities obj = new LetterTilePossibilities();
         System.out.println(obj.numTilePossibilities("AAB"));
-        System.out.println(obj.numTilePossibilities("AAABBC"));
+        System.out.println(obj.numTilePossibilities("AAABBCDD"));
         System.out.println(obj.numTilePossibilities("V"));
         System.out.println(obj.numTilePossibilities("ABC"));
     }
