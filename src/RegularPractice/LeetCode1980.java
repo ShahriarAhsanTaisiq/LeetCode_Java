@@ -47,5 +47,6 @@ public class LeetCode1980 {
         UniqueBinaryString uniqueBinaryString = new UniqueBinaryString();
         System.out.println(uniqueBinaryString.findDifferentBinaryString(new String[] {"01","10"}));
         System.out.println(uniqueBinaryString.findDifferentBinaryString(new String[] {"111","011","001"}));
+        System.out.println(uniqueBinaryString.findDifferentBinaryString(new String[] {"11","10"}));
     }
 }
