@@ -4,9 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode:1980. Find Unique Binary String">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode:1980. Find Unique Binary String" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -473,14 +471,7 @@
       <workItem from="1739984124295" duration="60000" />
       <workItem from="1740041340142" duration="957000" />
       <workItem from="1740045753332" duration="4000" />
-    </task>
-    <task id="LOCAL-00290" summary="Leetcode: 1422. Maximum Score After Splitting a String">
-      <option name="closed" value="true" />
-      <created>1735707470289</created>
-      <option name="number" value="00290" />
-      <option name="presentableId" value="LOCAL-00290" />
-      <option name="project" value="LOCAL" />
-      <updated>1735707470290</updated>
+      <workItem from="1740112767901" duration="724000" />
     </task>
     <task id="LOCAL-00291" summary="Leetcode: 1422. Maximum Score After Splitting a String">
       <option name="closed" value="true" />
@@ -866,7 +857,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740041655314</updated>
     </task>
-    <option name="localTasksCounter" value="339" />
+    <task id="LOCAL-00339" summary="Leetcode:1980. Find Unique Binary String">
+      <option name="closed" value="true" />
+      <created>1740112886240</created>
+      <option name="number" value="00339" />
+      <option name="presentableId" value="LOCAL-00339" />
+      <option name="project" value="LOCAL" />
+      <updated>1740112886240</updated>
+    </task>
+    <option name="localTasksCounter" value="340" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
