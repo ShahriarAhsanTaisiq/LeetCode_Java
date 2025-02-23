@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode:1980. Find Unique Binary String" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode:1980. Find Unique Binary String">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode889.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -472,14 +475,8 @@
       <workItem from="1740041340142" duration="957000" />
       <workItem from="1740045753332" duration="4000" />
       <workItem from="1740112767901" duration="724000" />
-    </task>
-    <task id="LOCAL-00291" summary="Leetcode: 1422. Maximum Score After Splitting a String">
-      <option name="closed" value="true" />
-      <created>1735806694866</created>
-      <option name="number" value="00291" />
-      <option name="presentableId" value="LOCAL-00291" />
-      <option name="project" value="LOCAL" />
-      <updated>1735806694866</updated>
+      <workItem from="1740244362990" duration="639000" />
+      <workItem from="1740331872963" duration="566000" />
     </task>
     <task id="LOCAL-00292" summary="Leetcode: 2270. Number of Ways to Split Array">
       <option name="closed" value="true" />
@@ -865,7 +862,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740112886240</updated>
     </task>
-    <option name="localTasksCounter" value="340" />
+    <task id="LOCAL-00340" summary="Leetcode:1980. Find Unique Binary String">
+      <option name="closed" value="true" />
+      <created>1740244391021</created>
+      <option name="number" value="00340" />
+      <option name="presentableId" value="LOCAL-00340" />
+      <option name="project" value="LOCAL" />
+      <updated>1740244391021</updated>
+    </task>
+    <option name="localTasksCounter" value="341" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
