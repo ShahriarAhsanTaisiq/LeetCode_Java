@@ -64,8 +64,16 @@ public class LeetCode889 {
         ConstructBTFromPreAndPostOrder treeBuilder = new ConstructBTFromPreAndPostOrder();
         Node889 root = treeBuilder.constructFromPrePost(preorder, postorder);
 
+        int [] preorder2 = {1};
+        int [] postorder2 = {1};
+        ConstructBTFromPreAndPostOrder treeBuilder2 = new ConstructBTFromPreAndPostOrder();
+        Node889 result = treeBuilder2.constructFromPrePost(preorder2, postorder2);
+
         // Print the tree in pre-order traversal to verify correctness
+        System.out.println("First Tree: ");
         printPreOrder(root);
+        System.out.println("\nSecond Tree:");
+        printPreOrder(result);
     }
 
     private static void printPreOrder(Node889 root) {
