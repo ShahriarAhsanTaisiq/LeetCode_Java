@@ -32,7 +32,7 @@ Constraints:
 * */
 
 class NumSubArrayWithOddSum{
-    public int numOfSubarrays(int[] arr) {
+    public int numOfSubarray(int[] arr) {
         final int MOD = 1000000007;
         long odd = 0, even = 1, sum = 0, result = 0;
         for( int num : arr){
@@ -52,7 +52,7 @@ class NumSubArrayWithOddSum{
 public class LeetCode1524 {
     public static void main(String[] args) {
         NumSubArrayWithOddSum numSubArrayWithOddSum = new NumSubArrayWithOddSum();
-        System.out.println(numSubArrayWithOddSum.numOfSubarrays(new int[]{1,3,5}));
-        System.out.println(numSubArrayWithOddSum.numOfSubarrays(new int[]{2,4,6}));
+        System.out.println(numSubArrayWithOddSum.numOfSubarray(new int[]{1,3,5}));
+        System.out.println(numSubArrayWithOddSum.numOfSubarray(new int[]{2,4,6}));
     }
 }
