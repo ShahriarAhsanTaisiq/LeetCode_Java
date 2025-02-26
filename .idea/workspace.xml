@@ -4,8 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 889. Construct Binary Tree from Preorder and Postorder Traversal">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1524.java" afterDir="false" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1524. Number of Sub-arrays With Odd Sum">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode1749.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -58,6 +58,7 @@
     &quot;Application.LeetCode1422.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeetCode1455.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeetCode1475.executor&quot;: &quot;Run&quot;,
+    &quot;Application.LeetCode1524.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeetCode1574.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeetCode1652.executor&quot;: &quot;Run&quot;,
     &quot;Application.LeetCode1752.executor&quot;: &quot;Run&quot;,
@@ -479,23 +480,8 @@
       <workItem from="1740244362990" duration="639000" />
       <workItem from="1740331872963" duration="1375000" />
       <workItem from="1740412080073" duration="250000" />
-      <workItem from="1740502791793" duration="304000" />
-    </task>
-    <task id="LOCAL-00294" summary="Leetcode: 2270. Number of Ways to Split Array">
-      <option name="closed" value="true" />
-      <created>1736074456836</created>
-      <option name="number" value="00294" />
-      <option name="presentableId" value="LOCAL-00294" />
-      <option name="project" value="LOCAL" />
-      <updated>1736074456836</updated>
-    </task>
-    <task id="LOCAL-00295" summary="Leetcode: 2270. Number of Ways to Split Array">
-      <option name="closed" value="true" />
-      <created>1736179017017</created>
-      <option name="number" value="00295" />
-      <option name="presentableId" value="LOCAL-00295" />
-      <option name="project" value="LOCAL" />
-      <updated>1736179017017</updated>
+      <workItem from="1740502791793" duration="672000" />
+      <workItem from="1740591650170" duration="344000" />
     </task>
     <task id="LOCAL-00296" summary="Leetcode: 1408. String Matching in an Array">
       <option name="closed" value="true" />
@@ -873,7 +859,23 @@
       <option name="project" value="LOCAL" />
       <updated>1740412320865</updated>
     </task>
-    <option name="localTasksCounter" value="343" />
+    <task id="LOCAL-00343" summary="Leetcode: 1524. Number of Sub-arrays With Odd Sum">
+      <option name="closed" value="true" />
+      <created>1740503252759</created>
+      <option name="number" value="00343" />
+      <option name="presentableId" value="LOCAL-00343" />
+      <option name="project" value="LOCAL" />
+      <updated>1740503252759</updated>
+    </task>
+    <task id="LOCAL-00344" summary="Leetcode: 1524. Number of Sub-arrays With Odd Sum">
+      <option name="closed" value="true" />
+      <created>1740503382140</created>
+      <option name="number" value="00344" />
+      <option name="presentableId" value="LOCAL-00344" />
+      <option name="project" value="LOCAL" />
+      <updated>1740503382140</updated>
+    </task>
+    <option name="localTasksCounter" value="345" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -903,7 +905,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 2466. Count Ways To Build Good Strings" />
     <MESSAGE value="Leetcode: 1422. Maximum Score After Splitting a String" />
     <MESSAGE value="Leetcode: 2270. Number of Ways to Split Array" />
     <MESSAGE value="Leetcode: 1408. String Matching in an Array" />
@@ -928,7 +929,8 @@
     <MESSAGE value="Leetcode:1079. Letter Tile Possibilities" />
     <MESSAGE value="Leetcode:1980. Find Unique Binary String" />
     <MESSAGE value="Leetcode: 889. Construct Binary Tree from Preorder and Postorder Traversal" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 889. Construct Binary Tree from Preorder and Postorder Traversal" />
+    <MESSAGE value="Leetcode: 1524. Number of Sub-arrays With Odd Sum" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1524. Number of Sub-arrays With Odd Sum" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
