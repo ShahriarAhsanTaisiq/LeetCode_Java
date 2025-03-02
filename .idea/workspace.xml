@@ -482,14 +482,7 @@
       <workItem from="1740591650170" duration="1175000" />
       <workItem from="1740677067842" duration="352000" />
       <workItem from="1740751611275" duration="78000" />
-    </task>
-    <task id="LOCAL-00299" summary="Leetcode: 2185. Counting Words With a Given Prefix">
-      <option name="closed" value="true" />
-      <created>1736486109088</created>
-      <option name="number" value="00299" />
-      <option name="presentableId" value="LOCAL-00299" />
-      <option name="project" value="LOCAL" />
-      <updated>1736486109088</updated>
+      <workItem from="1740847000415" duration="870000" />
     </task>
     <task id="LOCAL-00300" summary="Leetcode: 1400. Construct K Palindrome Strings">
       <option name="closed" value="true" />
@@ -875,7 +868,15 @@
       <option name="project" value="LOCAL" />
       <updated>1740751670348</updated>
     </task>
-    <option name="localTasksCounter" value="348" />
+    <task id="LOCAL-00348" summary="Leetcode: 1749. Maximum Absolute Sum of Any Subarray">
+      <option name="closed" value="true" />
+      <created>1740847038883</created>
+      <option name="number" value="00348" />
+      <option name="presentableId" value="LOCAL-00348" />
+      <option name="project" value="LOCAL" />
+      <updated>1740847038883</updated>
+    </task>
+    <option name="localTasksCounter" value="349" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
