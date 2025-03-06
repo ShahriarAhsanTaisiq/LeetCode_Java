@@ -36,5 +36,6 @@ public class LeetCode2579 {
         CountNumOfColorCells obj = new CountNumOfColorCells();
         System.out.println(obj.coloredCells(3));
         System.out.println(obj.coloredCells(2));
+        System.out.println(obj.coloredCells(5));
     }
 }

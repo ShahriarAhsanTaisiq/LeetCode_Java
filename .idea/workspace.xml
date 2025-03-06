@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1780. Check if Number is a Sum of Powers of Three" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2579. Count Total Number of Colored Cellse" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,6 +86,7 @@
     "Application.LeetCode2466.executor": "Run",
     "Application.LeetCode2554.executor": "Run",
     "Application.LeetCode2563.executor": "Run",
+    "Application.LeetCode2579.executor": "Run",
     "Application.LeetCode2601.executor": "Run",
     "Application.LeetCode2683.executor": "Run",
     "Application.LeetCode2779.executor": "Run",
@@ -488,14 +489,7 @@
       <workItem from="1740937524652" duration="628000" />
       <workItem from="1741022291864" duration="454000" />
       <workItem from="1741109852498" duration="450000" />
-    </task>
-    <task id="LOCAL-00303" summary="Leetcode: 2185. Counting Words With a Given Prefix">
-      <option name="closed" value="true" />
-      <created>1736859135947</created>
-      <option name="number" value="00303" />
-      <option name="presentableId" value="LOCAL-00303" />
-      <option name="project" value="LOCAL" />
-      <updated>1736859135947</updated>
+      <workItem from="1741194862261" duration="815000" />
     </task>
     <task id="LOCAL-00304" summary="Leetcode: 2429. Minimize XOR">
       <option name="closed" value="true" />
@@ -881,7 +875,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741110073490</updated>
     </task>
-    <option name="localTasksCounter" value="352" />
+    <task id="LOCAL-00352" summary="Leetcode: 2579. Count Total Number of Colored Cellse">
+      <option name="closed" value="true" />
+      <created>1741195060912</created>
+      <option name="number" value="00352" />
+      <option name="presentableId" value="LOCAL-00352" />
+      <option name="project" value="LOCAL" />
+      <updated>1741195060912</updated>
+    </task>
+    <option name="localTasksCounter" value="353" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -911,7 +913,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 3042. Count Prefix and Suffix Pairs I" />
     <MESSAGE value="Leetcode: 1400. Construct K Palindrome Strings" />
     <MESSAGE value="Leetcode: 53. Maximum Subarray" />
     <MESSAGE value="Leetcode: 2185. Counting Words With a Given Prefix" />
@@ -936,7 +937,8 @@
     <MESSAGE value="Leetcode: 1749. Maximum Absolute Sum of Any Subarray" />
     <MESSAGE value="Leetcode: 2161. Partition Array According to Given Pivot" />
     <MESSAGE value="Leetcode: 1780. Check if Number is a Sum of Powers of Three" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1780. Check if Number is a Sum of Powers of Three" />
+    <MESSAGE value="Leetcode: 2579. Count Total Number of Colored Cellse" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2579. Count Total Number of Colored Cellse" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
