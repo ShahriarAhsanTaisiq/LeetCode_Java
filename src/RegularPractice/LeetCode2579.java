@@ -37,5 +37,6 @@ public class LeetCode2579 {
         System.out.println(obj.coloredCells(3));
         System.out.println(obj.coloredCells(2));
         System.out.println(obj.coloredCells(5));
+        System.out.println(obj.coloredCells(4));
     }
 }
