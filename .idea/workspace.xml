@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2579. Count Total Number of Colored Cellse" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2579. Count Total Number of Colored Cellse">
+      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode2379.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -44,86 +47,87 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Application.LeetCode1014.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1079.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1267.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1346.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1400.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1408.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1422.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1455.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1475.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1524.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1574.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1652.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1749.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1752.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1760.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1780.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1792.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1800.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1829.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1861.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1910.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1975.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode1980.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2064.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2070.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2109.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2161.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2185.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2270.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2275.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode232.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2337.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2364.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2415.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2425.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2429.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2461.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2466.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2554.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2563.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2579.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2601.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2683.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2779.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2825.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode292.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode2924.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode3011.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode3042.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode3066.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode3133.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode3151.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode3174.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode3264.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode374.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode494.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode515.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode53.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode704.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode769.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode867.executor&quot;: &quot;Run&quot;,
-    &quot;Application.LeetCode889.executor&quot;: &quot;Run&quot;,
-    &quot;Application.MinTimeLightKCandles.executor&quot;: &quot;Run&quot;,
-    &quot;Application.Test.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
-    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.editor.code.editing&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Application.LeetCode1014.executor": "Run",
+    "Application.LeetCode1079.executor": "Run",
+    "Application.LeetCode1267.executor": "Run",
+    "Application.LeetCode1346.executor": "Run",
+    "Application.LeetCode1400.executor": "Run",
+    "Application.LeetCode1408.executor": "Run",
+    "Application.LeetCode1422.executor": "Run",
+    "Application.LeetCode1455.executor": "Run",
+    "Application.LeetCode1475.executor": "Run",
+    "Application.LeetCode1524.executor": "Run",
+    "Application.LeetCode1574.executor": "Run",
+    "Application.LeetCode1652.executor": "Run",
+    "Application.LeetCode1749.executor": "Run",
+    "Application.LeetCode1752.executor": "Run",
+    "Application.LeetCode1760.executor": "Run",
+    "Application.LeetCode1780.executor": "Run",
+    "Application.LeetCode1792.executor": "Run",
+    "Application.LeetCode1800.executor": "Run",
+    "Application.LeetCode1829.executor": "Run",
+    "Application.LeetCode1861.executor": "Run",
+    "Application.LeetCode1910.executor": "Run",
+    "Application.LeetCode1975.executor": "Run",
+    "Application.LeetCode1980.executor": "Run",
+    "Application.LeetCode2064.executor": "Run",
+    "Application.LeetCode2070.executor": "Run",
+    "Application.LeetCode2109.executor": "Run",
+    "Application.LeetCode2161.executor": "Run",
+    "Application.LeetCode2185.executor": "Run",
+    "Application.LeetCode2270.executor": "Run",
+    "Application.LeetCode2275.executor": "Run",
+    "Application.LeetCode232.executor": "Run",
+    "Application.LeetCode2337.executor": "Run",
+    "Application.LeetCode2364.executor": "Run",
+    "Application.LeetCode2379.executor": "Run",
+    "Application.LeetCode2415.executor": "Run",
+    "Application.LeetCode2425.executor": "Run",
+    "Application.LeetCode2429.executor": "Run",
+    "Application.LeetCode2461.executor": "Run",
+    "Application.LeetCode2466.executor": "Run",
+    "Application.LeetCode2554.executor": "Run",
+    "Application.LeetCode2563.executor": "Run",
+    "Application.LeetCode2579.executor": "Run",
+    "Application.LeetCode2601.executor": "Run",
+    "Application.LeetCode2683.executor": "Run",
+    "Application.LeetCode2779.executor": "Run",
+    "Application.LeetCode2825.executor": "Run",
+    "Application.LeetCode292.executor": "Run",
+    "Application.LeetCode2924.executor": "Run",
+    "Application.LeetCode3011.executor": "Run",
+    "Application.LeetCode3042.executor": "Run",
+    "Application.LeetCode3066.executor": "Run",
+    "Application.LeetCode3133.executor": "Run",
+    "Application.LeetCode3151.executor": "Run",
+    "Application.LeetCode3174.executor": "Run",
+    "Application.LeetCode3264.executor": "Run",
+    "Application.LeetCode374.executor": "Run",
+    "Application.LeetCode494.executor": "Run",
+    "Application.LeetCode515.executor": "Run",
+    "Application.LeetCode53.executor": "Run",
+    "Application.LeetCode704.executor": "Run",
+    "Application.LeetCode769.executor": "Run",
+    "Application.LeetCode867.executor": "Run",
+    "Application.LeetCode889.executor": "Run",
+    "Application.MinTimeLightKCandles.executor": "Run",
+    "Application.Test.executor": "Run",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "git-widget-placeholder": "main",
+    "kotlin-language-version-configured": "true",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "preferences.editor.code.editing",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CreateClassDialog.RecentsKey">
       <recent name="RegularPractice" />
@@ -491,14 +495,8 @@
       <workItem from="1741109852498" duration="450000" />
       <workItem from="1741194862261" duration="815000" />
       <workItem from="1741282712267" duration="629000" />
-    </task>
-    <task id="LOCAL-00305" summary="Leetcode: 2425. Bitwise XOR of All Pairings">
-      <option name="closed" value="true" />
-      <created>1737006819393</created>
-      <option name="number" value="00305" />
-      <option name="presentableId" value="LOCAL-00305" />
-      <option name="project" value="LOCAL" />
-      <updated>1737006819393</updated>
+      <workItem from="1741364508051" duration="215000" />
+      <workItem from="1741412178179" duration="314000" />
     </task>
     <task id="LOCAL-00306" summary="Leetcode: 2683. Neighboring Bitwise XOR">
       <option name="closed" value="true" />
@@ -884,7 +882,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741282738902</updated>
     </task>
-    <option name="localTasksCounter" value="354" />
+    <task id="LOCAL-00354" summary="Leetcode: 2579. Count Total Number of Colored Cellse">
+      <option name="closed" value="true" />
+      <created>1741364527484</created>
+      <option name="number" value="00354" />
+      <option name="presentableId" value="LOCAL-00354" />
+      <option name="project" value="LOCAL" />
+      <updated>1741364527484</updated>
+    </task>
+    <option name="localTasksCounter" value="355" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
