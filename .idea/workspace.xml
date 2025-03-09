@@ -4,10 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2579. Count Total Number of Colored Cellse">
-      <change afterPath="$PROJECT_DIR$/src/RegularPractice/LeetCode2379.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2379. Minimum Recolors to Get K Consecutive Black Blocks" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -496,15 +493,7 @@
       <workItem from="1741194862261" duration="815000" />
       <workItem from="1741282712267" duration="629000" />
       <workItem from="1741364508051" duration="215000" />
-      <workItem from="1741412178179" duration="314000" />
-    </task>
-    <task id="LOCAL-00306" summary="Leetcode: 2683. Neighboring Bitwise XOR">
-      <option name="closed" value="true" />
-      <created>1737111896062</created>
-      <option name="number" value="00306" />
-      <option name="presentableId" value="LOCAL-00306" />
-      <option name="project" value="LOCAL" />
-      <updated>1737111896063</updated>
+      <workItem from="1741412178179" duration="380000" />
     </task>
     <task id="LOCAL-00307" summary="Leetcode: 2683. Neighboring Bitwise XOR">
       <option name="closed" value="true" />
@@ -890,7 +879,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741364527484</updated>
     </task>
-    <option name="localTasksCounter" value="355" />
+    <task id="LOCAL-00355" summary="Leetcode: 2379. Minimum Recolors to Get K Consecutive Black Blocks">
+      <option name="closed" value="true" />
+      <created>1741412503477</created>
+      <option name="number" value="00355" />
+      <option name="presentableId" value="LOCAL-00355" />
+      <option name="project" value="LOCAL" />
+      <updated>1741412503478</updated>
+    </task>
+    <option name="localTasksCounter" value="356" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -920,7 +917,6 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
-    <MESSAGE value="Leetcode: 1400. Construct K Palindrome Strings" />
     <MESSAGE value="Leetcode: 53. Maximum Subarray" />
     <MESSAGE value="Leetcode: 2185. Counting Words With a Given Prefix" />
     <MESSAGE value="Leetcode: 2429. Minimize XOR" />
@@ -945,7 +941,8 @@
     <MESSAGE value="Leetcode: 2161. Partition Array According to Given Pivot" />
     <MESSAGE value="Leetcode: 1780. Check if Number is a Sum of Powers of Three" />
     <MESSAGE value="Leetcode: 2579. Count Total Number of Colored Cellse" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2579. Count Total Number of Colored Cellse" />
+    <MESSAGE value="Leetcode: 2379. Minimum Recolors to Get K Consecutive Black Blocks" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2379. Minimum Recolors to Get K Consecutive Black Blocks" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
