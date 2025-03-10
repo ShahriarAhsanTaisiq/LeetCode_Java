@@ -55,6 +55,5 @@ public class LeetCode2379 {
         MinRecolorsGetKConsecutiveBlack obj = new MinRecolorsGetKConsecutiveBlack();
         System.out.println(obj.minimumRecolors("WBBWWBBWBW", 7));
         System.out.println(obj.minimumRecolors("BWBWWBW", 3));
-        System.out.println(obj.minimumRecolors("BWWWBWWWBW", 2));
     }
 }
