@@ -40,7 +40,6 @@ public class LeetCode1780 {
     public static void main(String[] args) {
         NumSumPowOfThree numSumPowOfThree = new NumSumPowOfThree();
         System.out.println(numSumPowOfThree.checkPowerOfThree(33));
-        System.out.println(numSumPowOfThree.checkPowerOfThree(21));
         System.out.println(numSumPowOfThree.checkPowerOfThree(91));
     }
 }

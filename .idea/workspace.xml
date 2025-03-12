@@ -496,14 +496,7 @@
       <workItem from="1741412178179" duration="380000" />
       <workItem from="1741539022557" duration="307000" />
       <workItem from="1741627133086" duration="542000" />
-    </task>
-    <task id="LOCAL-00309" summary="Leetcode: 2683. Neighboring Bitwise XOR">
-      <option name="closed" value="true" />
-      <created>1737471354441</created>
-      <option name="number" value="00309" />
-      <option name="presentableId" value="LOCAL-00309" />
-      <option name="project" value="LOCAL" />
-      <updated>1737471354441</updated>
+      <workItem from="1741712974110" duration="872000" />
     </task>
     <task id="LOCAL-00310" summary="Leetcode: 1267. Count Servers that Communicate">
       <option name="closed" value="true" />
@@ -889,7 +882,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741627172130</updated>
     </task>
-    <option name="localTasksCounter" value="358" />
+    <task id="LOCAL-00358" summary="Leetcode: 2379. Minimum Recolors to Get K Consecutive Black Blocks">
+      <option name="closed" value="true" />
+      <created>1741713105973</created>
+      <option name="number" value="00358" />
+      <option name="presentableId" value="LOCAL-00358" />
+      <option name="project" value="LOCAL" />
+      <updated>1741713105973</updated>
+    </task>
+    <option name="localTasksCounter" value="359" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
