@@ -42,6 +42,7 @@ public class LeetCode1749 {
         System.out.println(maxAbsSumOfSubarray.maxAbsoluteSum(new int[]{1,-3,2,3,-4}));
         System.out.println(maxAbsSumOfSubarray.maxAbsoluteSum(new int[]{2,-5,1,-4,3,-2}));
         System.out.println(maxAbsSumOfSubarray.maxAbsoluteSum(new int[]{-5,1,-4}));
+        System.out.println(maxAbsSumOfSubarray.maxAbsoluteSum(new int[]{5,-6,3,-2,1,11}));
 
     }
 }

@@ -4,7 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 2379. Minimum Recolors to Get K Consecutive Black Blocks" />
+    <list default="true" id="99ebda89-efaa-4498-bc40-5e58f5c80ebc" name="Changes" comment="Leetcode: 1780. Check if Number is a Sum of Powers of Three" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -497,14 +497,7 @@
       <workItem from="1741539022557" duration="307000" />
       <workItem from="1741627133086" duration="542000" />
       <workItem from="1741712974110" duration="872000" />
-    </task>
-    <task id="LOCAL-00310" summary="Leetcode: 1267. Count Servers that Communicate">
-      <option name="closed" value="true" />
-      <created>1737613608102</created>
-      <option name="number" value="00310" />
-      <option name="presentableId" value="LOCAL-00310" />
-      <option name="project" value="LOCAL" />
-      <updated>1737613608102</updated>
+      <workItem from="1741799286664" duration="41000" />
     </task>
     <task id="LOCAL-00311" summary="Leetcode: 704. Binary Search">
       <option name="closed" value="true" />
@@ -890,7 +883,15 @@
       <option name="project" value="LOCAL" />
       <updated>1741713105973</updated>
     </task>
-    <option name="localTasksCounter" value="359" />
+    <task id="LOCAL-00359" summary="Leetcode: 1780. Check if Number is a Sum of Powers of Three">
+      <option name="closed" value="true" />
+      <created>1741799315506</created>
+      <option name="number" value="00359" />
+      <option name="presentableId" value="LOCAL-00359" />
+      <option name="project" value="LOCAL" />
+      <updated>1741799315507</updated>
+    </task>
+    <option name="localTasksCounter" value="360" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -942,10 +943,10 @@
     <MESSAGE value="Leetcode: 1524. Number of Sub-arrays With Odd Sum" />
     <MESSAGE value="Leetcode: 1749. Maximum Absolute Sum of Any Subarray" />
     <MESSAGE value="Leetcode: 2161. Partition Array According to Given Pivot" />
-    <MESSAGE value="Leetcode: 1780. Check if Number is a Sum of Powers of Three" />
     <MESSAGE value="Leetcode: 2579. Count Total Number of Colored Cellse" />
     <MESSAGE value="Leetcode: 2379. Minimum Recolors to Get K Consecutive Black Blocks" />
-    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 2379. Minimum Recolors to Get K Consecutive Black Blocks" />
+    <MESSAGE value="Leetcode: 1780. Check if Number is a Sum of Powers of Three" />
+    <option name="LAST_COMMIT_MESSAGE" value="Leetcode: 1780. Check if Number is a Sum of Powers of Three" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
