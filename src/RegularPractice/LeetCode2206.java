@@ -48,5 +48,6 @@ public class LeetCode2206 {
         DivideArrayIntoEqualPairs dp = new DivideArrayIntoEqualPairs();
         System.out.println(dp.divideArray(new int[]{3,2,3,2,2,2}));
         System.out.println(dp.divideArray(new int[]{1,2,3,4}));
+        System.out.println(dp.divideArray(new int[]{10,9,12,3,5,8,7}));
     }
 }
