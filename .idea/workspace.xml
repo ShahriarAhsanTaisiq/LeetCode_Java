@@ -503,14 +503,7 @@
       <workItem from="1742144200767" duration="424000" />
       <workItem from="1742232302951" duration="340000" />
       <workItem from="1742319180258" duration="63000" />
-    </task>
-    <task id="LOCAL-00315" summary="Leetcode: 292. Nim Game">
-      <option name="closed" value="true" />
-      <created>1738168781820</created>
-      <option name="number" value="00315" />
-      <option name="presentableId" value="LOCAL-00315" />
-      <option name="project" value="LOCAL" />
-      <updated>1738168781820</updated>
+      <workItem from="1742490193504" duration="41000" />
     </task>
     <task id="LOCAL-00316" summary="Leetcode: 374. Guess Number Higher or Lower">
       <option name="closed" value="true" />
@@ -896,7 +889,15 @@
       <option name="project" value="LOCAL" />
       <updated>1742319228272</updated>
     </task>
-    <option name="localTasksCounter" value="364" />
+    <task id="LOCAL-00364" summary="Leetcode: 2206. Divide Array Into Equal Pairs">
+      <option name="closed" value="true" />
+      <created>1742490222980</created>
+      <option name="number" value="00364" />
+      <option name="presentableId" value="LOCAL-00364" />
+      <option name="project" value="LOCAL" />
+      <updated>1742490222981</updated>
+    </task>
+    <option name="localTasksCounter" value="365" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
